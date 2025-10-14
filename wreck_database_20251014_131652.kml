@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>Wreck Database - Coordinate Estimates and Newspaper Validations</name>
+    <description>Historical shipwrecks with estimated coordinates and newspaper references</description>
+
+    <!-- Style definitions -->
+    <Style id="wreckStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/danger.png</href>
+        </Icon>
+        <scale>1.2</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="obstructionStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+        </Icon>
+        <scale>1.1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="estimatedStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/question.png</href>
+        </Icon>
+        <scale>0.9</scale>
+        <color>ff00ffff</color>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.6</scale>
+        <color>ff00ffff</color>
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>CITY OF ALPENA</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>CITY OF ALPENA</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>propeller steam tug, wood</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>Swayze2019-1.xlsx</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-83.4328,45.0617,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>CITY OF PORT HURON</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>CITY OF PORT HURON</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>barge, wood</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>Swayze2019-1.xlsx</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-82.4249,42.9708,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Cedarville Wreck (PDF)</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>Cedarville Wreck (PDF)</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-84.732444,45.808583,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Elva Area Obstruction 1</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>Elva Area Obstruction 1</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Obstruction</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-84.618778,45.844111,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Elva Area Obstruction 2</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>Elva Area Obstruction 2</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Obstruction</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-84.618694,45.84425,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Elva Area Obstruction 3</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>Elva Area Obstruction 3</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Obstruction</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-84.618472,45.844167,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Elva Candidate 1 (PDF Confirmed)</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>Elva Candidate 1 (PDF Confirmed)</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-84.613028,45.849306,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Elva Candidate 2 (PDF Confirmed)</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>Elva Candidate 2 (PDF Confirmed)</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-84.612333,45.849194,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Feature 1.2 (SHPO Hidden)</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>Feature 1.2 (SHPO Hidden)</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Obstruction</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-84.422902,45.725361,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Feature 1.4 (SHPO Hidden)</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>Feature 1.4 (SHPO Hidden)</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Obstruction</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-84.62393,45.801472,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>GREEN BAY</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>GREEN BAY</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>barge, wood</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>Swayze2019-1.xlsx</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-87.5,45.0,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>H13253_1.11</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>H13253_1.11</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>3.24m</td></tr>
+            <tr><td><b>Location:</b></td><td>Primary wreck site</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>real_coordinate_maritime_gallery.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-85.08025,45.789056,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>H13253_1.14</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>H13253_1.14</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Obstruction</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>7.69m</td></tr>
+            <tr><td><b>Location:</b></td><td>Primary obstruction</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>real_coordinate_maritime_gallery.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-85.071989,45.794528,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>H13253_1.17</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>H13253_1.17</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Obstruction</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>8.36m</td></tr>
+            <tr><td><b>Location:</b></td><td>Secondary obstruction</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>real_coordinate_maritime_gallery.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-85.068194,45.794972,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>MISS EAST TAWAS</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>MISS EAST TAWAS</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>propeller, wood, charter fishing craft</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>Swayze2019-1.xlsx</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-83.4497,44.2658,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>PDF Wreck 1</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>PDF Wreck 1</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-84.698167,45.812944,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>PDF Wreck 2</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>PDF Wreck 2</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-84.684333,45.793889,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>PDF Wreck 3</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>PDF Wreck 3</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-84.672194,45.788972,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>PDF Wreck 4</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>PDF Wreck 4</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-84.441333,45.700028,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>PDF Wreck 5</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>PDF Wreck 5</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-85.157139,45.838083,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>PDF Wreck 6</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>PDF Wreck 6</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Wreck</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>robust_bag_scanner.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#wreckStyle</styleUrl>
+      <Point>
+        <coordinates>-85.08025,45.789056,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SOUTH HAVEN</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>SOUTH HAVEN</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>scow-schooner, wood</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>Swayze2019-1.xlsx</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-86.2736,42.4031,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>TAWAS</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>TAWAS</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>propeller steam tug, wood</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Location:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>Swayze2019-1.xlsx</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-83.4497,44.2658,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>W00555_1.1</name>
+      <description>
+    <![CDATA[
+    <div style="font-family: Arial, sans-serif; max-width: 300px;">
+        <h3>W00555_1.1</h3>
+        <table style="border-collapse: collapse; width: 100%;">
+            <tr><td><b>Type:</b></td><td>Obstruction</td></tr>
+            <tr><td><b>Date:</b></td><td>Unknown</td></tr>
+            <tr><td><b>Depth:</b></td><td>2.57m</td></tr>
+            <tr><td><b>Location:</b></td><td>Thunder Bay obstruction</td></tr>
+            <tr><td><b>Coordinates:</b></td><td>Verified</td></tr>
+            <tr><td><b>Source:</b></td><td>real_coordinate_maritime_gallery.py</td></tr>
+            <tr><td><b>Newspaper Clip:</b></td><td>No</td></tr>
+        </table>
+        <p><i>Click to view newspaper validation</i></p>
+    </div>
+    ]]>
+    </description>
+      <styleUrl>#obstructionStyle</styleUrl>
+      <Point>
+        <coordinates>-83.426306,45.056389,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>

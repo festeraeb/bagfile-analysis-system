@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 19527,
+    "name": "\"COOPER'S FLOATING BATTERY\"",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22COOPERS+FLOATING+BATTERY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24410,
+    "name": "\"COOPER'S FLOATING BATTERY\"",
+    "date": "1813, Jul (6)",
+    "location": "near Sandy Creek, Mexico Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22COOPERS+FLOATING+BATTERY%22+shipwreck+OR+sinking+OR+wreck+near+Sandy+Creek%2C+Mexico+Bay&sort=date_asc&dateStart=1803-01-01&dateEnd=1823-12-31"
+  },
+  {
+    "id": 15711,
+    "name": "\"Millecoquins wreck\" - identity of vessel unknown",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22Millecoquins+wreck+-+identity+of+vessel+unknown%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20594,
+    "name": "\"Millecoquins wreck\" - identity of vessel unknown",
+    "date": "unknown",
+    "location": "Millicoquins River",
+    "search_url": "https://www.newspapers.com/search/?query=%22Millecoquins+wreck+-+identity+of+vessel+unknown%22+shipwreck+OR+sinking+OR+wreck+Millicoquins+River&sort=date_asc"
+  },
+  {
+    "id": 16582,
+    "name": "*NEW*BEULAH W.",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22%2ANEW%2ABEULAH+W.%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21465,
+    "name": "*NEW*BEULAH W.",
+    "date": "1917, Oct 26",
+    "location": "Wiggins Pt., Michigan",
+    "search_url": "https://www.newspapers.com/search/?query=%22%2ANEW%2ABEULAH+W.%22+shipwreck+OR+sinking+OR+wreck+Wiggins+Pt.%2C+Michigan&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31"
+  },
+  {
+    "id": 16556,
+    "name": "A. B. WARD",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+B.+WARD%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21439,
+    "name": "A. B. WARD",
+    "date": "1870, Apr 24",
+    "location": "20 mi NE of Milwaukee",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+B.+WARD%22+shipwreck+OR+sinking+OR+wreck+20+mi+NE+of+Milwaukee&sort=date_asc&dateStart=1860-01-01&dateEnd=1880-12-31"
+  },
+  {
+    "id": 18214,
+    "name": "A. BOODY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+BOODY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23097,
+    "name": "A. BOODY",
+    "date": "1887, Nov 10",
+    "location": "off Pte Aux Barques, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+BOODY%22+shipwreck+OR+sinking+OR+wreck+off+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 14741,
+    "name": "A. BOOTH",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+BOOTH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19624,
+    "name": "A. BOOTH",
+    "date": "1887, Aug 20",
+    "location": "6 mi from Duluth",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+BOOTH%22+shipwreck+OR+sinking+OR+wreck+6+mi+from+Duluth&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 18636,
+    "name": "A. BUCKINGHAM",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+BUCKINGHAM%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23519,
+    "name": "A. BUCKINGHAM",
+    "date": "1870, Oct 15",
+    "location": "15 mi above Harrisville, Mich",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+BUCKINGHAM%22+shipwreck+OR+sinking+OR+wreck+15+mi+above+Harrisville%2C+Mich&sort=date_asc&dateStart=1860-01-01&dateEnd=1880-12-31"
+  },
+  {
+    "id": 16257,
+    "name": "A. C. VAN RAALTE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+C.+VAN+RAALTE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21140,
+    "name": "A. C. VAN RAALTE",
+    "date": "1860, a few days before Mar 23",
+    "location": "East Bay of Grand Traverse Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+C.+VAN+RAALTE%22+shipwreck+OR+sinking+OR+wreck+East+Bay+of+Grand+Traverse+Bay&sort=date_asc&dateStart=1850-01-01&dateEnd=1870-12-31"
+  },
+  {
+    "id": 17935,
+    "name": "A. E. HART",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+E.+HART%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22818,
+    "name": "A. E. HART",
+    "date": "1869, Nov 18",
+    "location": "near Hammond Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+E.+HART%22+shipwreck+OR+sinking+OR+wreck+near+Hammond+Bay&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31"
+  },
+  {
+    "id": 17074,
+    "name": "A. EVERETT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+EVERETT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21957,
+    "name": "A. EVERETT",
+    "date": "1895, Apr 30",
+    "location": "20 mi N of Pte Aux Barques, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+EVERETT%22+shipwreck+OR+sinking+OR+wreck+20+mi+N+of+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1885-01-01&dateEnd=1905-12-31"
+  },
+  {
+    "id": 17859,
+    "name": "A. GEBHARDT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+GEBHARDT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22742,
+    "name": "A. GEBHARDT",
+    "date": "1909, Jun 4",
+    "location": "at Drummond Isl., MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+GEBHARDT%22+shipwreck+OR+sinking+OR+wreck+at+Drummond+Isl.%2C+MI&sort=date_asc&dateStart=1899-01-01&dateEnd=1919-12-31"
+  },
+  {
+    "id": 16405,
+    "name": "A. H. J.",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+H.+J.%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21288,
+    "name": "A. H. J.",
+    "date": "1922, Oct 2",
+    "location": "off Cross Village, Mich",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+H.+J.%22+shipwreck+OR+sinking+OR+wreck+off+Cross+Village%2C+Mich&sort=date_asc&dateStart=1912-01-01&dateEnd=1932-12-31"
+  },
+  {
+    "id": 14874,
+    "name": "A. H. NEWBOLD",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+H.+NEWBOLD%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19757,
+    "name": "A. H. NEWBOLD",
+    "date": "1852, Nov 11",
+    "location": "on the breakwall at Buffalo",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+H.+NEWBOLD%22+shipwreck+OR+sinking+OR+wreck+on+the+breakwall+at+Buffalo&sort=date_asc&dateStart=1842-01-01&dateEnd=1862-12-31"
+  },
+  {
+    "id": 15535,
+    "name": "A. HOWES",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+HOWES%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20418,
+    "name": "A. HOWES",
+    "date": "1871, Sep 22",
+    "location": "at Ahnapee",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+HOWES%22+shipwreck+OR+sinking+OR+wreck+at+Ahnapee&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31"
+  },
+  {
+    "id": 16134,
+    "name": "A. J. BEMIS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+J.+BEMIS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21017,
+    "name": "A. J. BEMIS",
+    "date": "1872, Sep 15",
+    "location": "6 mi from Alpena, 3/4 mi offshore",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+J.+BEMIS%22+shipwreck+OR+sinking+OR+wreck+6+mi+from+Alpena%2C+3%2F4+mi+offshore&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31"
+  },
+  {
+    "id": 15706,
+    "name": "A. L. ABBELL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+L.+ABBELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20589,
+    "name": "A. L. ABBELL",
+    "date": "1861, Nov",
+    "location": "Waugoschance Pt., Straits of Mackinac",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+L.+ABBELL%22+shipwreck+OR+sinking+OR+wreck+Waugoschance+Pt.%2C+Straits+of+Mackinac&sort=date_asc&dateStart=1851-01-01&dateEnd=1871-12-31"
+  },
+  {
+    "id": 15373,
+    "name": "A. LINCOLN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+LINCOLN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20256,
+    "name": "A. LINCOLN",
+    "date": "1872, Sep 29",
+    "location": "at AuSable, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+LINCOLN%22+shipwreck+OR+sinking+OR+wreck+at+AuSable%2C+MI&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31"
+  },
+  {
+    "id": 15934,
+    "name": "A. M. P.",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+M.+P.%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20817,
+    "name": "A. M. P.",
+    "date": "1912, Aug 14",
+    "location": "Dennis Island",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+M.+P.%22+shipwreck+OR+sinking+OR+wreck+Dennis+Island&sort=date_asc&dateStart=1902-01-01&dateEnd=1922-12-31"
+  },
+  {
+    "id": 18992,
+    "name": "A. MEDBURY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+MEDBURY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23875,
+    "name": "A. MEDBURY",
+    "date": "1872, Nov 6",
+    "location": "100 yds N of Four Mile Point, near Niagara",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+MEDBURY%22+shipwreck+OR+sinking+OR+wreck+100+yds+N+of+Four+Mile+Point%2C+near+Niagara&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31"
+  },
+  {
+    "id": 15684,
+    "name": "A. P. DUTTON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+P.+DUTTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20567,
+    "name": "A. P. DUTTON",
+    "date": "1868, Dec 8 or after",
+    "location": "unknown or unreported",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+P.+DUTTON%22+shipwreck+OR+sinking+OR+wreck+unknown+or+unreported&sort=date_asc&dateStart=1858-01-01&dateEnd=1878-12-31"
+  },
+  {
+    "id": 15044,
+    "name": "A. PLUGGER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+PLUGGER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19927,
+    "name": "A. PLUGGER",
+    "date": "1881, Nov 5",
+    "location": "at South Haven, Mich",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+PLUGGER%22+shipwreck+OR+sinking+OR+wreck+at+South+Haven%2C+Mich&sort=date_asc&dateStart=1871-01-01&dateEnd=1891-12-31"
+  },
+  {
+    "id": 19124,
+    "name": "A. R. COBB",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+R.+COBB%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24007,
+    "name": "A. R. COBB",
+    "date": "1856, Oct 13",
+    "location": "at Chicago",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+R.+COBB%22+shipwreck+OR+sinking+OR+wreck+at+Chicago&sort=date_asc&dateStart=1846-01-01&dateEnd=1866-12-31"
+  },
+  {
+    "id": 18781,
+    "name": "A. ROSSETTER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+ROSSETTER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23664,
+    "name": "A. ROSSETTER",
+    "date": "1855, Oct 11",
+    "location": "25 mi E of Calumet, ILL",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+ROSSETTER%22+shipwreck+OR+sinking+OR+wreck+25+mi+E+of+Calumet%2C+ILL&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31"
+  },
+  {
+    "id": 18524,
+    "name": "A. RUST",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+RUST%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23407,
+    "name": "A. RUST",
+    "date": "1879, Sep 3",
+    "location": "at Michigan City, Ind",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+RUST%22+shipwreck+OR+sinking+OR+wreck+at+Michigan+City%2C+Ind&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31"
+  },
+  {
+    "id": 17000,
+    "name": "A. SCOTT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+SCOTT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21883,
+    "name": "A. SCOTT",
+    "date": "1859, Apr 26",
+    "location": "near Black River [Vermilion] OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+SCOTT%22+shipwreck+OR+sinking+OR+wreck+near+Black+River+%5BVermilion%5D+OH&sort=date_asc&dateStart=1849-01-01&dateEnd=1869-12-31"
+  },
+  {
+    "id": 15550,
+    "name": "A. SEAMAN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+SEAMAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20433,
+    "name": "A. SEAMAN",
+    "date": "1905, Sep 5",
+    "location": "near Cape Croker, Georgian Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.+SEAMAN%22+shipwreck+OR+sinking+OR+wreck+near+Cape+Croker%2C+Georgian+Bay&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31"
+  },
+  {
+    "id": 17840,
+    "name": "A.A. CORNWELL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.A.+CORNWELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22723,
+    "name": "A.A. CORNWELL",
+    "date": "1865, Oct 28 or 29",
+    "location": "E. Sister Isl. Reef",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.A.+CORNWELL%22+shipwreck+OR+sinking+OR+wreck+E.+Sister+Isl.+Reef&sort=date_asc&dateStart=1855-01-01&dateEnd=1875-12-31"
+  },
+  {
+    "id": 16874,
+    "name": "A.A. PARKER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.A.+PARKER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21757,
+    "name": "A.A. PARKER",
+    "date": "1903, Sep 19",
+    "location": "off Grand Marais, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.A.+PARKER%22+shipwreck+OR+sinking+OR+wreck+off+Grand+Marais%2C+MI&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31"
+  },
+  {
+    "id": 17465,
+    "name": "A.B. KING",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.B.+KING%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22348,
+    "name": "A.B. KING",
+    "date": "1928, Aug 11",
+    "location": "off Harbor beach, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.B.+KING%22+shipwreck+OR+sinking+OR+wreck+off+Harbor+beach%2C+MI&sort=date_asc&dateStart=1918-01-01&dateEnd=1938-12-31"
+  },
+  {
+    "id": 18100,
+    "name": "A.C. KEATING",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.C.+KEATING%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22983,
+    "name": "A.C. KEATING",
+    "date": "1900, Nov 8",
+    "location": "Coppermine Point, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.C.+KEATING%22+shipwreck+OR+sinking+OR+wreck+Coppermine+Point%2C+Ont.&sort=date_asc&dateStart=1890-01-01&dateEnd=1910-12-31"
+  },
+  {
+    "id": 17600,
+    "name": "A.C. MAXWELL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.C.+MAXWELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22483,
+    "name": "A.C. MAXWELL",
+    "date": "1908, Nov 5",
+    "location": "Woolworth's Dock, Sault Ste. Marie, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.C.+MAXWELL%22+shipwreck+OR+sinking+OR+wreck+Woolworth%27s+Dock%2C+Sault+Ste.+Marie%2C+MI&sort=date_asc&dateStart=1898-01-01&dateEnd=1918-12-31"
+  },
+  {
+    "id": 15982,
+    "name": "A.C. PIERCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.C.+PIERCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20865,
+    "name": "A.C. PIERCE",
+    "date": "1915, Aug 15",
+    "location": "S. Fox Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.C.+PIERCE%22+shipwreck+OR+sinking+OR+wreck+S.+Fox+Isl.&sort=date_asc&dateStart=1905-01-01&dateEnd=1925-12-31"
+  },
+  {
+    "id": 16981,
+    "name": "A.D. PATCHIN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.D.+PATCHIN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21864,
+    "name": "A.D. PATCHIN",
+    "date": "1850, Sep 27 [often seen in error as 1853]",
+    "location": "Skillagalee Reef*",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.D.+PATCHIN%22+shipwreck+OR+sinking+OR+wreck+Skillagalee+Reef%2A&sort=date_asc&dateStart=1840-01-01&dateEnd=1860-12-31"
+  },
+  {
+    "id": 16163,
+    "name": "A.F. BARTLETT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.F.+BARTLETT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21046,
+    "name": "A.F. BARTLETT",
+    "date": "1888, Sep",
+    "location": "at Duluth",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.F.+BARTLETT%22+shipwreck+OR+sinking+OR+wreck+at+Duluth&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31"
+  },
+  {
+    "id": 14870,
+    "name": "A.G. RYAN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.G.+RYAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19753,
+    "name": "A.G. RYAN",
+    "date": "1886, Sep 3",
+    "location": "off Capt. John's Isl., Bay of Quinte",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.G.+RYAN%22+shipwreck+OR+sinking+OR+wreck+off+Capt.+John%27s+Isl.%2C+Bay+of+Quinte&sort=date_asc&dateStart=1876-01-01&dateEnd=1896-12-31"
+  },
+  {
+    "id": 18823,
+    "name": "A.H. JENNIE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.H.+JENNIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23706,
+    "name": "A.H. JENNIE",
+    "date": "1900, Nov 21",
+    "location": "off Pickering, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.H.+JENNIE%22+shipwreck+OR+sinking+OR+wreck+off+Pickering%2C+Ont.&sort=date_asc&dateStart=1890-01-01&dateEnd=1910-12-31"
+  },
+  {
+    "id": 17971,
+    "name": "A.H. MOSS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.H.+MOSS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22854,
+    "name": "A.H. MOSS",
+    "date": "1887, Oct 29",
+    "location": "near Presque Isle",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.H.+MOSS%22+shipwreck+OR+sinking+OR+wreck+near+Presque+Isle&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 19339,
+    "name": "A.J. McBRIER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.J.+McBRIER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24222,
+    "name": "A.J. McBRIER",
+    "date": "1907, May 10",
+    "location": "Maxon Mill, Georgian Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.J.+McBRIER%22+shipwreck+OR+sinking+OR+wreck+Maxon+Mill%2C+Georgian+Bay&sort=date_asc&dateStart=1897-01-01&dateEnd=1917-12-31"
+  },
+  {
+    "id": 19029,
+    "name": "A.L. HAZELTON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.L.+HAZELTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23912,
+    "name": "A.L. HAZELTON",
+    "date": "1860, Sep 8",
+    "location": "about 10 miles off Cleveland",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.L.+HAZELTON%22+shipwreck+OR+sinking+OR+wreck+about+10+miles+off+Cleveland&sort=date_asc&dateStart=1850-01-01&dateEnd=1870-12-31"
+  },
+  {
+    "id": 17552,
+    "name": "A.L. HOPKINS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.L.+HOPKINS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22435,
+    "name": "A.L. HOPKINS",
+    "date": "1911, Oct 3",
+    "location": "off Ontonagon, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.L.+HOPKINS%22+shipwreck+OR+sinking+OR+wreck+off+Ontonagon%2C+MI&sort=date_asc&dateStart=1901-01-01&dateEnd=1921-12-31"
+  },
+  {
+    "id": 15486,
+    "name": "A.N. PIKE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.N.+PIKE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20369,
+    "name": "A.N. PIKE",
+    "date": "1879, Jan 3",
+    "location": "Thames R., just below Chatham",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.N.+PIKE%22+shipwreck+OR+sinking+OR+wreck+Thames+R.%2C+just+below+Chatham&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31"
+  },
+  {
+    "id": 17866,
+    "name": "A.P. NICHOLS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.P.+NICHOLS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22749,
+    "name": "A.P. NICHOLS",
+    "date": "1892, Oct 28",
+    "location": "Pilot Isl., Green Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.P.+NICHOLS%22+shipwreck+OR+sinking+OR+wreck+Pilot+Isl.%2C+Green+Bay&sort=date_asc&dateStart=1882-01-01&dateEnd=1902-12-31"
+  },
+  {
+    "id": 14886,
+    "name": "A.S. FIELD",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.S.+FIELD%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19769,
+    "name": "A.S. FIELD",
+    "date": "1860, Jul 6",
+    "location": "at Detroit at the foot of Bates St.",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.S.+FIELD%22+shipwreck+OR+sinking+OR+wreck+at+Detroit+at+the+foot+of+Bates+St.&sort=date_asc&dateStart=1850-01-01&dateEnd=1870-12-31"
+  },
+  {
+    "id": 15996,
+    "name": "A.S. PIPER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.S.+PIPER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20879,
+    "name": "A.S. PIPER",
+    "date": "1890, Oct 14",
+    "location": "at Sturgeon Bay, Wis.",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.S.+PIPER%22+shipwreck+OR+sinking+OR+wreck+at+Sturgeon+Bay%2C+Wis.&sort=date_asc&dateStart=1880-01-01&dateEnd=1900-12-31"
+  },
+  {
+    "id": 17594,
+    "name": "A.T. BLISS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.T.+BLISS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22477,
+    "name": "A.T. BLISS",
+    "date": "1903, Nov 4",
+    "location": "10 mi NW of Ludington, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.T.+BLISS%22+shipwreck+OR+sinking+OR+wreck+10+mi+NW+of+Ludington%2C+MI&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31"
+  },
+  {
+    "id": 15933,
+    "name": "A.T. KELLY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.T.+KELLY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20816,
+    "name": "A.T. KELLY",
+    "date": "1885, Nov 14",
+    "location": "at dock at Harsen's Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.T.+KELLY%22+shipwreck+OR+sinking+OR+wreck+at+dock+at+Harsen%27s+Isl.&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31"
+  },
+  {
+    "id": 15625,
+    "name": "A.V. KNICKERBOCKER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.V.+KNICKERBOCKER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20508,
+    "name": "A.V. KNICKERBOCKER",
+    "date": "1855, Aug 26",
+    "location": "6 mi of Port Washington, WI",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.V.+KNICKERBOCKER%22+shipwreck+OR+sinking+OR+wreck+6+mi+of+Port+Washington%2C+WI&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31"
+  },
+  {
+    "id": 17169,
+    "name": "A.W. COMSTOCK",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.W.+COMSTOCK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22052,
+    "name": "A.W. COMSTOCK",
+    "date": "1895, Sep 23",
+    "location": "18 mi off Stannard Rock, E of Keweenaw Pen.",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.W.+COMSTOCK%22+shipwreck+OR+sinking+OR+wreck+18+mi+off+Stannard+Rock%2C+E+of+Keweenaw+Pen.&sort=date_asc&dateStart=1885-01-01&dateEnd=1905-12-31"
+  },
+  {
+    "id": 15477,
+    "name": "A.W. LAWRENCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22A.W.+LAWRENCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20360,
+    "name": "A.W. LAWRENCE",
+    "date": "1888, Oct 31",
+    "location": "off North Point, near Milwaukee",
+    "search_url": "https://www.newspapers.com/search/?query=%22A.W.+LAWRENCE%22+shipwreck+OR+sinking+OR+wreck+off+North+Point%2C+near+Milwaukee&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31"
+  },
+  {
+    "id": 18872,
+    "name": "ABBEY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABBEY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23755,
+    "name": "ABBEY",
+    "date": "1851, Oct 5",
+    "location": "near Black River, Oh",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABBEY%22+shipwreck+OR+sinking+OR+wreck+near+Black+River%2C+Oh&sort=date_asc&dateStart=1841-01-01&dateEnd=1861-12-31"
+  },
+  {
+    "id": 15025,
+    "name": "ABBIE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABBIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19908,
+    "name": "ABBIE",
+    "date": "1905, Nov 8",
+    "location": "Portage Lake entry, near Manistee, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABBIE%22+shipwreck+OR+sinking+OR+wreck+Portage+Lake+entry%2C+near+Manistee%2C+MI&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31"
+  },
+  {
+    "id": 18606,
+    "name": "ABERCORN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABERCORN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23489,
+    "name": "ABERCORN",
+    "date": "1904, Sep 5",
+    "location": "At Goderich, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABERCORN%22+shipwreck+OR+sinking+OR+wreck+At+Goderich%2C+Ont.&sort=date_asc&dateStart=1894-01-01&dateEnd=1914-12-31"
+  },
+  {
+    "id": 19315,
+    "name": "ABERDEEN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABERDEEN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24198,
+    "name": "ABERDEEN",
+    "date": "1918, Mar 11",
+    "location": "At Picton, Ont., Bay of Quinte",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABERDEEN%22+shipwreck+OR+sinking+OR+wreck+At+Picton%2C+Ont.%2C+Bay+of+Quinte&sort=date_asc&dateStart=1908-01-01&dateEnd=1928-12-31"
+  },
+  {
+    "id": 15066,
+    "name": "ABERNETHY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABERNETHY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19949,
+    "name": "ABERNETHY",
+    "date": "1914, Oct 24",
+    "location": "Pelee Isl., Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABERNETHY%22+shipwreck+OR+sinking+OR+wreck+Pelee+Isl.%2C+Ont.&sort=date_asc&dateStart=1904-01-01&dateEnd=1924-12-31"
+  },
+  {
+    "id": 18367,
+    "name": "ABIAH",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABIAH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23250,
+    "name": "ABIAH",
+    "date": "1854, Sep 1",
+    "location": "about 10 miles off Sheboygan, WI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABIAH%22+shipwreck+OR+sinking+OR+wreck+about+10+miles+off+Sheboygan%2C+WI&sort=date_asc&dateStart=1844-01-01&dateEnd=1864-12-31"
+  },
+  {
+    "id": 14704,
+    "name": "ABIGAIL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABIGAIL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19587,
+    "name": "ABIGAIL",
+    "date": "1892",
+    "location": "Main part of Georgian Bay or North Channel",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABIGAIL%22+shipwreck+OR+sinking+OR+wreck+Main+part+of+Georgian+Bay+or+North+Channel&sort=date_asc&dateStart=1882-01-01&dateEnd=1902-12-31"
+  },
+  {
+    "id": 17846,
+    "name": "ABRAM SMITH",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABRAM+SMITH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22729,
+    "name": "ABRAM SMITH",
+    "date": "1906, Oct 8",
+    "location": "Great Duck Island, W of Manitoulin",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABRAM+SMITH%22+shipwreck+OR+sinking+OR+wreck+Great+Duck+Island%2C+W+of+Manitoulin&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31"
+  },
+  {
+    "id": 16674,
+    "name": "ABYSSINIA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ABYSSINIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21557,
+    "name": "ABYSSINIA",
+    "date": "1917, Oct 18",
+    "location": "Tecumseh Reef, near Buffalo",
+    "search_url": "https://www.newspapers.com/search/?query=%22ABYSSINIA%22+shipwreck+OR+sinking+OR+wreck+Tecumseh+Reef%2C+near+Buffalo&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31"
+  },
+  {
+    "id": 19256,
+    "name": "ACACIA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACACIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24139,
+    "name": "ACACIA",
+    "date": "1903, May 2",
+    "location": "Duck Islands",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACACIA%22+shipwreck+OR+sinking+OR+wreck+Duck+Islands&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31"
+  },
+  {
+    "id": 17484,
+    "name": "ACADIA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACADIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22367,
+    "name": "ACADIA",
+    "date": "1896, Nov 5",
+    "location": "Near mouth of Michipicoten R., Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACADIA%22+shipwreck+OR+sinking+OR+wreck+Near+mouth+of+Michipicoten+R.%2C+Ont.&sort=date_asc&dateStart=1886-01-01&dateEnd=1906-12-31"
+  },
+  {
+    "id": 15629,
+    "name": "ACME",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17286,
+    "name": "ACME",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18664,
+    "name": "ACME",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20512,
+    "name": "ACME",
+    "date": "1902, Apr 15",
+    "location": "near Buffalo",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck+near+Buffalo&sort=date_asc&dateStart=1892-01-01&dateEnd=1912-12-31"
+  },
+  {
+    "id": 22169,
+    "name": "ACME",
+    "date": "1867, Nov 5 (Mar 4 also given, in error)",
+    "location": "15 mi NNE of Dunkirk, NY",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck+15+mi+NNE+of+Dunkirk%2C+NY&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31"
+  },
+  {
+    "id": 23547,
+    "name": "ACME",
+    "date": "1893, Oct 14",
+    "location": "25 mi from Black River, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck+25+mi+from+Black+River%2C+MI&sort=date_asc&dateStart=1883-01-01&dateEnd=1903-12-31"
+  },
+  {
+    "id": 18190,
+    "name": "ACONTIAS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACONTIAS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23073,
+    "name": "ACONTIAS",
+    "date": "1887, Oct 28",
+    "location": "at Presque Isle, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACONTIAS%22+shipwreck+OR+sinking+OR+wreck+at+Presque+Isle%2C+MI&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 14928,
+    "name": "ACORN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACORN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 15116,
+    "name": "ACORN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACORN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19811,
+    "name": "ACORN",
+    "date": "1869, Oct 26",
+    "location": "1 mi E of Oswego harbor",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACORN%22+shipwreck+OR+sinking+OR+wreck+1+mi+E+of+Oswego+harbor&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31"
+  },
+  {
+    "id": 19999,
+    "name": "ACORN",
+    "date": "1849, July 31",
+    "location": "near West Sister Island",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACORN%22+shipwreck+OR+sinking+OR+wreck+near+West+Sister+Island&sort=date_asc&dateStart=1839-01-01&dateEnd=1859-12-31"
+  },
+  {
+    "id": 15573,
+    "name": "ACTIVE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACTIVE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16125,
+    "name": "ACTIVE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ACTIVE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20456,
+    "name": "ACTIVE",
+    "date": "1898, Sep 29",
+    "location": "just off Ford River, Wis",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACTIVE%22+shipwreck+OR+sinking+OR+wreck+just+off+Ford+River%2C+Wis&sort=date_asc&dateStart=1888-01-01&dateEnd=1908-12-31"
+  },
+  {
+    "id": 21008,
+    "name": "ACTIVE",
+    "date": "1855, Oct 10",
+    "location": "off Port Washington, Wisc.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ACTIVE%22+shipwreck+OR+sinking+OR+wreck+off+Port+Washington%2C+Wisc.&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31"
+  },
+  {
+    "id": 16042,
+    "name": "ADA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19348,
+    "name": "ADA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20925,
+    "name": "ADA",
+    "date": "1894, Sep 26",
+    "location": "at Manistique, Mich",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADA%22+shipwreck+OR+sinking+OR+wreck+at+Manistique%2C+Mich&sort=date_asc&dateStart=1884-01-01&dateEnd=1904-12-31"
+  },
+  {
+    "id": 24231,
+    "name": "ADA",
+    "date": "1859",
+    "location": "near Collingwood, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADA%22+shipwreck+OR+sinking+OR+wreck+near+Collingwood%2C+Ont.&sort=date_asc&dateStart=1849-01-01&dateEnd=1869-12-31"
+  },
+  {
+    "id": 14963,
+    "name": "ADA E. ALLEN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADA+E.+ALLEN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19846,
+    "name": "ADA E. ALLEN",
+    "date": "1887, Sep 22",
+    "location": "Heard's dock, near Amherstburg, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADA+E.+ALLEN%22+shipwreck+OR+sinking+OR+wreck+Heard%27s+dock%2C+near+Amherstburg%2C+Ont.&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 18052,
+    "name": "ADA MEDORA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADA+MEDORA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22935,
+    "name": "ADA MEDORA",
+    "date": "1906, Oct 6",
+    "location": "on Buffalo breakwater",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADA+MEDORA%22+shipwreck+OR+sinking+OR+wreck+on+Buffalo+breakwater&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31"
+  },
+  {
+    "id": 15544,
+    "name": "ADAM AINSLIE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADAM+AINSLIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20427,
+    "name": "ADAM AINSLIE",
+    "date": "1898, Aug",
+    "location": "South Bay, Ont",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADAM+AINSLIE%22+shipwreck+OR+sinking+OR+wreck+South+Bay%2C+Ont&sort=date_asc&dateStart=1888-01-01&dateEnd=1908-12-31"
+  },
+  {
+    "id": 19010,
+    "name": "ADAM SCHUMANN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADAM+SCHUMANN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23893,
+    "name": "ADAM SCHUMANN",
+    "date": "1926, Nov 5",
+    "location": "off Erie, PA",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADAM+SCHUMANN%22+shipwreck+OR+sinking+OR+wreck+off+Erie%2C+PA&sort=date_asc&dateStart=1916-01-01&dateEnd=1936-12-31"
+  },
+  {
+    "id": 15014,
+    "name": "ADDA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19897,
+    "name": "ADDA",
+    "date": "1872, Aug 28",
+    "location": "unreported",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDA%22+shipwreck+OR+sinking+OR+wreck+unreported&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31"
+  },
+  {
+    "id": 15343,
+    "name": "ADDAIN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDAIN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20226,
+    "name": "ADDAIN",
+    "date": "1890, Oct 18",
+    "location": "near Grindstone City, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDAIN%22+shipwreck+OR+sinking+OR+wreck+near+Grindstone+City%2C+MI&sort=date_asc&dateStart=1880-01-01&dateEnd=1900-12-31"
+  },
+  {
+    "id": 15702,
+    "name": "ADDIE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20585,
+    "name": "ADDIE",
+    "date": "1897, Oct 5",
+    "location": "near Frankfort, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDIE%22+shipwreck+OR+sinking+OR+wreck+near+Frankfort%2C+MI&sort=date_asc&dateStart=1887-01-01&dateEnd=1907-12-31"
+  },
+  {
+    "id": 19505,
+    "name": "ADDIE B",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDIE+B%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24388,
+    "name": "ADDIE B",
+    "date": "1888, Nov 28 or 29",
+    "location": "near Caseville, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDIE+B%22+shipwreck+OR+sinking+OR+wreck+near+Caseville%2C+MI&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31"
+  },
+  {
+    "id": 15846,
+    "name": "ADDIE MEMBERY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDIE+MEMBERY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20729,
+    "name": "ADDIE MEMBERY",
+    "date": "1885, Oct 29",
+    "location": "harbor entrance at Oswego, NY",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADDIE+MEMBERY%22+shipwreck+OR+sinking+OR+wreck+harbor+entrance+at+Oswego%2C+NY&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31"
+  },
+  {
+    "id": 19135,
+    "name": "ADELAIDE HORTON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADELAIDE+HORTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24018,
+    "name": "ADELAIDE HORTON",
+    "date": "1871, Oct 22",
+    "location": "Kincardine, Ont. harbor",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADELAIDE+HORTON%22+shipwreck+OR+sinking+OR+wreck+Kincardine%2C+Ont.+harbor&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31"
+  },
+  {
+    "id": 16161,
+    "name": "ADELE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADELE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21044,
+    "name": "ADELE",
+    "date": "1936",
+    "location": "Drummond Island, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADELE%22+shipwreck+OR+sinking+OR+wreck+Drummond+Island%2C+MI&sort=date_asc&dateStart=1926-01-01&dateEnd=1946-12-31"
+  },
+  {
+    "id": 16157,
+    "name": "ADELL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21040,
+    "name": "ADELL",
+    "date": "1869, Nov 16",
+    "location": "1/2 mile below Bay View pier, WI [near Milwaukee]",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADELL%22+shipwreck+OR+sinking+OR+wreck+1%2F2+mile+below+Bay+View+pier%2C+WI+%5Bnear+Milwaukee%5D&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31"
+  },
+  {
+    "id": 17235,
+    "name": "ADELLA SHORES",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADELLA+SHORES%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22118,
+    "name": "ADELLA SHORES",
+    "date": "1909, May 1",
+    "location": "somewhere off Whitefish Point",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADELLA+SHORES%22+shipwreck+OR+sinking+OR+wreck+somewhere+off+Whitefish+Point&sort=date_asc&dateStart=1899-01-01&dateEnd=1919-12-31"
+  },
+  {
+    "id": 17215,
+    "name": "ADIRAMLED",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADIRAMLED%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22098,
+    "name": "ADIRAMLED",
+    "date": "1912, Jun 18",
+    "location": "6 miles E of Stoney Isl., Dutch John Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADIRAMLED%22+shipwreck+OR+sinking+OR+wreck+6+miles+E+of+Stoney+Isl.%2C+Dutch+John+Bay&sort=date_asc&dateStart=1902-01-01&dateEnd=1922-12-31"
+  },
+  {
+    "id": 18027,
+    "name": "ADIRONDACK",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADIRONDACK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22910,
+    "name": "ADIRONDACK",
+    "date": "1893, Sep 14",
+    "location": "South Manitou Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADIRONDACK%22+shipwreck+OR+sinking+OR+wreck+South+Manitou+Isl.&sort=date_asc&dateStart=1883-01-01&dateEnd=1903-12-31"
+  },
+  {
+    "id": 14877,
+    "name": "ADMIRAL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16135,
+    "name": "ADMIRAL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17608,
+    "name": "ADMIRAL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19760,
+    "name": "ADMIRAL",
+    "date": "1942, Dec 2",
+    "location": "Off Avon Pt., Cleveland",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck+Off+Avon+Pt.%2C+Cleveland&sort=date_asc&dateStart=1932-01-01&dateEnd=1952-12-31"
+  },
+  {
+    "id": 21018,
+    "name": "ADMIRAL",
+    "date": "1884, Dec 31",
+    "location": "Chicago River near 22nd St. (now Cermak Dr.)",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck+Chicago+River+near+22nd+St.+%28now+Cermak+Dr.%29&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31"
+  },
+  {
+    "id": 22491,
+    "name": "ADMIRAL",
+    "date": "1867, Nov 4",
+    "location": "near Toronto",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck+near+Toronto&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31"
+  },
+  {
+    "id": 17452,
+    "name": "ADRIATIC",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADRIATIC%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22335,
+    "name": "ADRIATIC",
+    "date": "1872, Sep 29",
+    "location": "near Long Point.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADRIATIC%22+shipwreck+OR+sinking+OR+wreck+near+Long+Point.&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31"
+  },
+  {
+    "id": 16123,
+    "name": "ADVANCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16139,
+    "name": "ADVANCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17489,
+    "name": "ADVANCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17642,
+    "name": "ADVANCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18003,
+    "name": "ADVANCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18806,
+    "name": "ADVANCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21006,
+    "name": "ADVANCE",
+    "date": "1903, Oct 25",
+    "location": "Between Spanish River and the Soo",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+Between+Spanish+River+and+the+Soo&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31"
+  },
+  {
+    "id": 21022,
+    "name": "ADVANCE",
+    "date": "1871, Jul 12",
+    "location": "near Put-in-Bay, S. Bass Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+near+Put-in-Bay%2C+S.+Bass+Isl.&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31"
+  },
+  {
+    "id": 22372,
+    "name": "ADVANCE",
+    "date": "1927, May 12",
+    "location": "Manitoulin Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+Manitoulin+Isl.&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31"
+  },
+  {
+    "id": 22525,
+    "name": "ADVANCE",
+    "date": "1872, Sep 29*",
+    "location": "Nicholson Isl., near Port Union, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+Nicholson+Isl.%2C+near+Port+Union%2C+Ont.&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31"
+  },
+  {
+    "id": 22886,
+    "name": "ADVANCE",
+    "date": "1921, Oct 19",
+    "location": "at Sand Bay, Wis.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+at+Sand+Bay%2C+Wis.&sort=date_asc&dateStart=1911-01-01&dateEnd=1931-12-31"
+  },
+  {
+    "id": 23689,
+    "name": "ADVANCE",
+    "date": "1885, Sep 8",
+    "location": "10 mi N. of Port Washington, WI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+10+mi+N.+of+Port+Washington%2C+WI&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31"
+  },
+  {
+    "id": 19081,
+    "name": "ADVENTURE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVENTURE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19506,
+    "name": "ADVENTURE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVENTURE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23964,
+    "name": "ADVENTURE",
+    "date": "1903, Oct 7",
+    "location": "at Kelley's Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVENTURE%22+shipwreck+OR+sinking+OR+wreck+at+Kelley%27s+Isl.&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31"
+  },
+  {
+    "id": 24389,
+    "name": "ADVENTURE",
+    "date": "1848, Oct",
+    "location": "off Grand River, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVENTURE%22+shipwreck+OR+sinking+OR+wreck+off+Grand+River%2C+Ont.&sort=date_asc&dateStart=1838-01-01&dateEnd=1858-12-31"
+  },
+  {
+    "id": 16046,
+    "name": "ADVENTURER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVENTURER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20929,
+    "name": "ADVENTURER",
+    "date": "1906, Dec 16",
+    "location": "near Ontonagon , MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ADVENTURER%22+shipwreck+OR+sinking+OR+wreck+near+Ontonagon+%2C+MI&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31"
+  },
+  {
+    "id": 16568,
+    "name": "AETNA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AETNA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21451,
+    "name": "AETNA",
+    "date": "1890",
+    "location": "Manitou Passage",
+    "search_url": "https://www.newspapers.com/search/?query=%22AETNA%22+shipwreck+OR+sinking+OR+wreck+Manitou+Passage&sort=date_asc&dateStart=1880-01-01&dateEnd=1900-12-31"
+  },
+  {
+    "id": 17836,
+    "name": "AFRICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AFRICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22719,
+    "name": "AFRICA",
+    "date": "1895, Oct 5",
+    "location": "15 mi S of Cove Isl. light",
+    "search_url": "https://www.newspapers.com/search/?query=%22AFRICA%22+shipwreck+OR+sinking+OR+wreck+15+mi+S+of+Cove+Isl.+light&sort=date_asc&dateStart=1885-01-01&dateEnd=1905-12-31"
+  },
+  {
+    "id": 19474,
+    "name": "AGATE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGATE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24357,
+    "name": "AGATE",
+    "date": "1857, late Nov",
+    "location": "near Presque Isle, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGATE%22+shipwreck+OR+sinking+OR+wreck+near+Presque+Isle%2C+MI&sort=date_asc&dateStart=1847-01-01&dateEnd=1867-12-31"
+  },
+  {
+    "id": 16429,
+    "name": "AGAWA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGAWA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21312,
+    "name": "AGAWA",
+    "date": "1927, Dec 7",
+    "location": "Manitoulin Isl",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGAWA%22+shipwreck+OR+sinking+OR+wreck+Manitoulin+Isl&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31"
+  },
+  {
+    "id": 16731,
+    "name": "AGNES",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21614,
+    "name": "AGNES",
+    "date": "1912, Oct 7",
+    "location": "at Arcadia, Mich",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES%22+shipwreck+OR+sinking+OR+wreck+at+Arcadia%2C+Mich&sort=date_asc&dateStart=1902-01-01&dateEnd=1922-12-31"
+  },
+  {
+    "id": 15607,
+    "name": "AGNES ARNOLD",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+ARNOLD%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20490,
+    "name": "AGNES ARNOLD",
+    "date": "1898, May 30",
+    "location": "Chambers Island, Green Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+ARNOLD%22+shipwreck+OR+sinking+OR+wreck+Chambers+Island%2C+Green+Bay&sort=date_asc&dateStart=1888-01-01&dateEnd=1908-12-31"
+  },
+  {
+    "id": 14900,
+    "name": "AGNES BARTON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+BARTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19783,
+    "name": "AGNES BARTON",
+    "date": "1855, Aug 7",
+    "location": "near Conneaut, OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+BARTON%22+shipwreck+OR+sinking+OR+wreck+near+Conneaut%2C+OH&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31"
+  },
+  {
+    "id": 15028,
+    "name": "AGNES E. MARSILLIOT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+E.+MARSILLIOT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19911,
+    "name": "AGNES E. MARSILLIOT",
+    "date": "1860, Sep 24",
+    "location": "7 mi below Port Stanley.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+E.+MARSILLIOT%22+shipwreck+OR+sinking+OR+wreck+7+mi+below+Port+Stanley.&sort=date_asc&dateStart=1850-01-01&dateEnd=1870-12-31"
+  },
+  {
+    "id": 18773,
+    "name": "AGNES HOPE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+HOPE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23656,
+    "name": "AGNES HOPE",
+    "date": "1884, Nov 7*",
+    "location": "near Oswego, NY",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+HOPE%22+shipwreck+OR+sinking+OR+wreck+near+Oswego%2C+NY&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31"
+  },
+  {
+    "id": 18366,
+    "name": "AGNES L. POTTER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+L.+POTTER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23249,
+    "name": "AGNES L. POTTER",
+    "date": "1906, Aug 28",
+    "location": "off Cleveland",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+L.+POTTER%22+shipwreck+OR+sinking+OR+wreck+off+Cleveland&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31"
+  },
+  {
+    "id": 16762,
+    "name": "AGNES W",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+W%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21645,
+    "name": "AGNES W",
+    "date": "1918, Jul 12",
+    "location": "Canada Point, Drummond Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AGNES+W%22+shipwreck+OR+sinking+OR+wreck+Canada+Point%2C+Drummond+Isl.&sort=date_asc&dateStart=1908-01-01&dateEnd=1928-12-31"
+  },
+  {
+    "id": 15496,
+    "name": "AHNAPEE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AHNAPEE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20379,
+    "name": "AHNAPEE",
+    "date": "1884, Jun 9",
+    "location": "2.5 mi N. of Sheboygan, WI",
+    "search_url": "https://www.newspapers.com/search/?query=%22AHNAPEE%22+shipwreck+OR+sinking+OR+wreck+2.5+mi+N.+of+Sheboygan%2C+WI&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31"
+  },
+  {
+    "id": 15908,
+    "name": "AHTEEK",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AHTEEK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20791,
+    "name": "AHTEEK",
+    "date": "1911, Nov 22",
+    "location": "near Bamford Light, St. Joseph Channel",
+    "search_url": "https://www.newspapers.com/search/?query=%22AHTEEK%22+shipwreck+OR+sinking+OR+wreck+near+Bamford+Light%2C+St.+Joseph+Channel&sort=date_asc&dateStart=1901-01-01&dateEnd=1921-12-31"
+  },
+  {
+    "id": 19059,
+    "name": "AIMEE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AIMEE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23942,
+    "name": "AIMEE",
+    "date": "1880, Nov 20",
+    "location": "off Thunder Bay Island",
+    "search_url": "https://www.newspapers.com/search/?query=%22AIMEE%22+shipwreck+OR+sinking+OR+wreck+off+Thunder+Bay+Island&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31"
+  },
+  {
+    "id": 19052,
+    "name": "AINSWORTH",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AINSWORTH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23935,
+    "name": "AINSWORTH",
+    "date": "1846, Nov 20",
+    "location": "off Fort Ontario, Oswego, NY",
+    "search_url": "https://www.newspapers.com/search/?query=%22AINSWORTH%22+shipwreck+OR+sinking+OR+wreck+off+Fort+Ontario%2C+Oswego%2C+NY&sort=date_asc&dateStart=1836-01-01&dateEnd=1856-12-31"
+  },
+  {
+    "id": 19114,
+    "name": "AJAX",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AJAX%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23997,
+    "name": "AJAX",
+    "date": "1872, Aug 9",
+    "location": "Saginaw Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22AJAX%22+shipwreck+OR+sinking+OR+wreck+Saginaw+Bay&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31"
+  },
+  {
+    "id": 14929,
+    "name": "ALABAMA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALABAMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16932,
+    "name": "ALABAMA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALABAMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19812,
+    "name": "ALABAMA",
+    "date": "1843, Oct 17",
+    "location": "at Fairport, OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALABAMA%22+shipwreck+OR+sinking+OR+wreck+at+Fairport%2C+OH&sort=date_asc&dateStart=1833-01-01&dateEnd=1853-12-31"
+  },
+  {
+    "id": 21815,
+    "name": "ALABAMA",
+    "date": "1854, Aug 28",
+    "location": "just outside the harbor at Buffalo, NY",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALABAMA%22+shipwreck+OR+sinking+OR+wreck+just+outside+the+harbor+at+Buffalo%2C+NY&sort=date_asc&dateStart=1844-01-01&dateEnd=1864-12-31"
+  },
+  {
+    "id": 17631,
+    "name": "ALASKA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALASKA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18631,
+    "name": "ALASKA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALASKA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22514,
+    "name": "ALASKA",
+    "date": "1910, Dec 24",
+    "location": "a few miles from Tobermorey, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALASKA%22+shipwreck+OR+sinking+OR+wreck+a+few+miles+from+Tobermorey%2C+Ont.&sort=date_asc&dateStart=1900-01-01&dateEnd=1920-12-31"
+  },
+  {
+    "id": 23514,
+    "name": "ALASKA",
+    "date": "1884, Sep 18",
+    "location": "Scott's Point, 20 miles north of Beaver Island Straits of Mackinac*",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALASKA%22+shipwreck+OR+sinking+OR+wreck+Scott%27s+Point%2C+20+miles+north+of+Beaver+Island+Straits+of+Mackinac%2A&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31"
+  },
+  {
+    "id": 18176,
+    "name": "ALBACORE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBACORE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23059,
+    "name": "ALBACORE",
+    "date": "1900, Sep 12",
+    "location": "just east of Oswego, NY*",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBACORE%22+shipwreck+OR+sinking+OR+wreck+just+east+of+Oswego%2C+NY%2A&sort=date_asc&dateStart=1890-01-01&dateEnd=1910-12-31"
+  },
+  {
+    "id": 16744,
+    "name": "ALBANY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17158,
+    "name": "ALBANY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19495,
+    "name": "ALBANY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21627,
+    "name": "ALBANY",
+    "date": "1893, Nov 7",
+    "location": "A few miles off Pte Aux Barques, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck+A+few+miles+off+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1883-01-01&dateEnd=1903-12-31"
+  },
+  {
+    "id": 22041,
+    "name": "ALBANY",
+    "date": "1853, Nov 26",
+    "location": "near Presque Isle, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck+near+Presque+Isle%2C+MI&sort=date_asc&dateStart=1843-01-01&dateEnd=1863-12-31"
+  },
+  {
+    "id": 24378,
+    "name": "ALBANY",
+    "date": "1843, Oct 1",
+    "location": "Straits of Mackinac, a few miles from Mackinaw City",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck+Straits+of+Mackinac%2C+a+few+miles+from+Mackinaw+City&sort=date_asc&dateStart=1833-01-01&dateEnd=1853-12-31"
+  },
+  {
+    "id": 17579,
+    "name": "ALBATROS IV",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBATROS+IV%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22462,
+    "name": "ALBATROS IV",
+    "date": "1953, Aug 22",
+    "location": "Toronto Harbour",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBATROS+IV%22+shipwreck+OR+sinking+OR+wreck+Toronto+Harbour&sort=date_asc&dateStart=1943-01-01&dateEnd=1963-12-31"
+  },
+  {
+    "id": 14912,
+    "name": "ALBATROSS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBATROSS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18157,
+    "name": "ALBATROSS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBATROSS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19795,
+    "name": "ALBATROSS",
+    "date": "1880, Nov 7",
+    "location": "near Wellington, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBATROSS%22+shipwreck+OR+sinking+OR+wreck+near+Wellington%2C+Ont.&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31"
+  },
+  {
+    "id": 23040,
+    "name": "ALBATROSS",
+    "date": "1911, Aug 21",
+    "location": "Georgian Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBATROSS%22+shipwreck+OR+sinking+OR+wreck+Georgian+Bay&sort=date_asc&dateStart=1901-01-01&dateEnd=1921-12-31"
+  },
+  {
+    "id": 17754,
+    "name": "ALBEMARLE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBEMARLE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22637,
+    "name": "ALBEMARLE",
+    "date": "1867, Nov 6",
+    "location": "Pt. Nipigon, Straits of Mackinac",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBEMARLE%22+shipwreck+OR+sinking+OR+wreck+Pt.+Nipigon%2C+Straits+of+Mackinac&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31"
+  },
+  {
+    "id": 17947,
+    "name": "ALBERT MILLER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERT+MILLER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22830,
+    "name": "ALBERT MILLER",
+    "date": "1882, Aug 30",
+    "location": "near Big Sable Point [also given erroneously as Au Sable Point, L. Huron]",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERT+MILLER%22+shipwreck+OR+sinking+OR+wreck+near+Big+Sable+Point+%5Balso+given+erroneously+as+Au+Sable+Point%2C+L.+Huron%5D&sort=date_asc&dateStart=1872-01-01&dateEnd=1892-12-31"
+  },
+  {
+    "id": 15663,
+    "name": "ALBERTA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16580,
+    "name": "ALBERTA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16760,
+    "name": "ALBERTA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19239,
+    "name": "ALBERTA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20546,
+    "name": "ALBERTA",
+    "date": "1899, Jul 21",
+    "location": "Pymer's Point, Bay of Quinte",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck+Pymer%27s+Point%2C+Bay+of+Quinte&sort=date_asc&dateStart=1889-01-01&dateEnd=1909-12-31"
+  },
+  {
+    "id": 21463,
+    "name": "ALBERTA",
+    "date": "1917, Nov 22",
+    "location": "Thunder Bay, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck+Thunder+Bay%2C+Ont.&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31"
+  },
+  {
+    "id": 21643,
+    "name": "ALBERTA",
+    "date": "1884, Jul 27",
+    "location": "3.5 mi from Whitefish Point",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck+3.5+mi+from+Whitefish+Point&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31"
+  },
+  {
+    "id": 24122,
+    "name": "ALBERTA",
+    "date": "1902, Oct 8",
+    "location": "between Belleville and Trenton, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck+between+Belleville+and+Trenton%2C+Ont.&sort=date_asc&dateStart=1892-01-01&dateEnd=1912-12-31"
+  },
+  {
+    "id": 18380,
+    "name": "ALBION",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBION%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18927,
+    "name": "ALBION",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBION%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23263,
+    "name": "ALBION",
+    "date": "1887, Oct 3",
+    "location": "near Pte Aux Barques, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBION%22+shipwreck+OR+sinking+OR+wreck+near+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 23810,
+    "name": "ALBION",
+    "date": "1858, Oct 8",
+    "location": "12 mi N by E from Erie, PA. light, 12 mi out",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALBION%22+shipwreck+OR+sinking+OR+wreck+12+mi+N+by+E+from+Erie%2C+PA.+light%2C+12+mi+out&sort=date_asc&dateStart=1848-01-01&dateEnd=1868-12-31"
+  },
+  {
+    "id": 16842,
+    "name": "ALDEBARAN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALDEBARAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21725,
+    "name": "ALDEBARAN",
+    "date": "1876, Oct 2",
+    "location": "near Amherstburg, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALDEBARAN%22+shipwreck+OR+sinking+OR+wreck+near+Amherstburg%2C+Ont.&sort=date_asc&dateStart=1866-01-01&dateEnd=1886-12-31"
+  },
+  {
+    "id": 17899,
+    "name": "ALERT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALERT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22782,
+    "name": "ALERT",
+    "date": "1904, Sep 16",
+    "location": "near S. Manitou Isl",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALERT%22+shipwreck+OR+sinking+OR+wreck+near+S.+Manitou+Isl&sort=date_asc&dateStart=1894-01-01&dateEnd=1914-12-31"
+  },
+  {
+    "id": 16323,
+    "name": "ALETHA B",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALETHA+B%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21206,
+    "name": "ALETHA B",
+    "date": "1974",
+    "location": "?",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALETHA+B%22+shipwreck+OR+sinking+OR+wreck+%3F&sort=date_asc&dateStart=1964-01-01&dateEnd=1984-12-31"
+  },
+  {
+    "id": 14959,
+    "name": "ALEX WATSON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEX+WATSON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19842,
+    "name": "ALEX WATSON",
+    "date": "1871, Jun 27",
+    "location": "At Lambton, Ont. (Baby's Point also given)",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEX+WATSON%22+shipwreck+OR+sinking+OR+wreck+At+Lambton%2C+Ont.+%28Baby%27s+Point+also+given%29&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31"
+  },
+  {
+    "id": 16626,
+    "name": "ALEX. NIMICK",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEX.+NIMICK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21509,
+    "name": "ALEX. NIMICK",
+    "date": "1907, Sep 20",
+    "location": "near mouth of Two-hearted River, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEX.+NIMICK%22+shipwreck+OR+sinking+OR+wreck+near+mouth+of+Two-hearted+River%2C+MI&sort=date_asc&dateStart=1897-01-01&dateEnd=1917-12-31"
+  },
+  {
+    "id": 19210,
+    "name": "ALEXANDER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24093,
+    "name": "ALEXANDER",
+    "date": "1879, Oct 4",
+    "location": "4 mi from Belle River, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDER%22+shipwreck+OR+sinking+OR+wreck+4+mi+from+Belle+River%2C+Ont.&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31"
+  },
+  {
+    "id": 16455,
+    "name": "ALEXANDER MAITLAND",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDER+MAITLAND%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21338,
+    "name": "ALEXANDER MAITLAND",
+    "date": "1924, Dec 9",
+    "location": "Port Huron, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDER+MAITLAND%22+shipwreck+OR+sinking+OR+wreck+Port+Huron%2C+MI&sort=date_asc&dateStart=1914-01-01&dateEnd=1934-12-31"
+  },
+  {
+    "id": 17349,
+    "name": "ALEXANDER MITCHELL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDER+MITCHELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22232,
+    "name": "ALEXANDER MITCHELL",
+    "date": "1866, Oct 22",
+    "location": "at White Lake, Mich",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDER+MITCHELL%22+shipwreck+OR+sinking+OR+wreck+at+White+Lake%2C+Mich&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31"
+  },
+  {
+    "id": 14755,
+    "name": "ALEXANDRA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDRA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19638,
+    "name": "ALEXANDRA",
+    "date": "1927, Dec 19",
+    "location": "Little Current, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDRA%22+shipwreck+OR+sinking+OR+wreck+Little+Current%2C+Ont.&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31"
+  },
+  {
+    "id": 17511,
+    "name": "ALEXANDRIA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDRIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22394,
+    "name": "ALEXANDRIA",
+    "date": "1915, Aug 3",
+    "location": "under Scarborough Bluffs, E of Toronto",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALEXANDRIA%22+shipwreck+OR+sinking+OR+wreck+under+Scarborough+Bluffs%2C+E+of+Toronto&sort=date_asc&dateStart=1905-01-01&dateEnd=1925-12-31"
+  },
+  {
+    "id": 17691,
+    "name": "ALFRED ALLEN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+ALLEN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22574,
+    "name": "ALFRED ALLEN",
+    "date": "1869, Oct 27",
+    "location": "Mohawk Reef, near Port Colborne, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+ALLEN%22+shipwreck+OR+sinking+OR+wreck+Mohawk+Reef%2C+near+Port+Colborne%2C+Ont.&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31"
+  },
+  {
+    "id": 15517,
+    "name": "ALFRED MOSHER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+MOSHER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20400,
+    "name": "ALFRED MOSHER",
+    "date": "1897, May 16",
+    "location": "at Sturgeon Bay, Wis.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+MOSHER%22+shipwreck+OR+sinking+OR+wreck+at+Sturgeon+Bay%2C+Wis.&sort=date_asc&dateStart=1887-01-01&dateEnd=1907-12-31"
+  },
+  {
+    "id": 15937,
+    "name": "ALFRED P. WRIGHT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+P.+WRIGHT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16669,
+    "name": "ALFRED P. WRIGHT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+P.+WRIGHT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20820,
+    "name": "ALFRED P. WRIGHT",
+    "date": "1886, Nov 29",
+    "location": "in harbor at Manistee, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+P.+WRIGHT%22+shipwreck+OR+sinking+OR+wreck+in+harbor+at+Manistee%2C+MI&sort=date_asc&dateStart=1876-01-01&dateEnd=1896-12-31"
+  },
+  {
+    "id": 21552,
+    "name": "ALFRED P. WRIGHT",
+    "date": "1915, Nov 16",
+    "location": "Portage Ship Canal, near White City, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+P.+WRIGHT%22+shipwreck+OR+sinking+OR+wreck+Portage+Ship+Canal%2C+near+White+City%2C+MI&sort=date_asc&dateStart=1905-01-01&dateEnd=1925-12-31"
+  },
+  {
+    "id": 15652,
+    "name": "ALFRED W",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+W%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20535,
+    "name": "ALFRED W",
+    "date": "1906, Jun 27",
+    "location": "near Pie Island",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALFRED+W%22+shipwreck+OR+sinking+OR+wreck+near+Pie+Island&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31"
+  },
+  {
+    "id": 16673,
+    "name": "ALGERIA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGERIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21556,
+    "name": "ALGERIA",
+    "date": "1906, May 9",
+    "location": "near Cleveland harbor entrance",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGERIA%22+shipwreck+OR+sinking+OR+wreck+near+Cleveland+harbor+entrance&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31"
+  },
+  {
+    "id": 18245,
+    "name": "ALGERINE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGERINE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23128,
+    "name": "ALGERINE",
+    "date": "1877, Oct 23",
+    "location": "near Springfield, Pa., 20 mi W of Erie, Pa.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGERINE%22+shipwreck+OR+sinking+OR+wreck+near+Springfield%2C+Pa.%2C+20+mi+W+of+Erie%2C+Pa.&sort=date_asc&dateStart=1867-01-01&dateEnd=1887-12-31"
+  },
+  {
+    "id": 16274,
+    "name": "ALGIE O. THAYER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGIE+O.+THAYER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21157,
+    "name": "ALGIE O. THAYER",
+    "date": "1879, Nov 17",
+    "location": "10 mi off Oswego",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGIE+O.+THAYER%22+shipwreck+OR+sinking+OR+wreck+10+mi+off+Oswego&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31"
+  },
+  {
+    "id": 16773,
+    "name": "ALGOMA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17653,
+    "name": "ALGOMA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19350,
+    "name": "ALGOMA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21656,
+    "name": "ALGOMA",
+    "date": "1885, Nov 7",
+    "location": "Isle Royle [Greenstone Isl]",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck+Isle+Royle+%5BGreenstone+Isl%5D&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31"
+  },
+  {
+    "id": 22536,
+    "name": "ALGOMA",
+    "date": "1877, winter",
+    "location": "Collingwood, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck+Collingwood%2C+Ont.&sort=date_asc&dateStart=1867-01-01&dateEnd=1887-12-31"
+  },
+  {
+    "id": 24233,
+    "name": "ALGOMA",
+    "date": "1918, Nov 18",
+    "location": "Manitowoc, WI, harbor",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck+Manitowoc%2C+WI%2C+harbor&sort=date_asc&dateStart=1908-01-01&dateEnd=1928-12-31"
+  },
+  {
+    "id": 15944,
+    "name": "ALGONQUIN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGONQUIN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20827,
+    "name": "ALGONQUIN",
+    "date": "1856",
+    "location": "near Duluth",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGONQUIN%22+shipwreck+OR+sinking+OR+wreck+near+Duluth&sort=date_asc&dateStart=1846-01-01&dateEnd=1866-12-31"
+  },
+  {
+    "id": 16505,
+    "name": "ALGOSOO",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGOSOO%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21388,
+    "name": "ALGOSOO",
+    "date": "1965, Nov 27",
+    "location": "Near Whitefish Point",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALGOSOO%22+shipwreck+OR+sinking+OR+wreck+Near+Whitefish+Point&sort=date_asc&dateStart=1955-01-01&dateEnd=1975-12-31"
+  },
+  {
+    "id": 16322,
+    "name": "ALICE BROOKS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+BROOKS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21205,
+    "name": "ALICE BROOKS",
+    "date": "1885, Dec 7",
+    "location": "mouth of the Saugeen R",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+BROOKS%22+shipwreck+OR+sinking+OR+wreck+mouth+of+the+Saugeen+R&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31"
+  },
+  {
+    "id": 15712,
+    "name": "ALICE CRAIG",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+CRAIG%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20595,
+    "name": "ALICE CRAIG",
+    "date": "1887, Nov 18",
+    "location": "near Bark Point, Wisconsin shore",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+CRAIG%22+shipwreck+OR+sinking+OR+wreck+near+Bark+Point%2C+Wisconsin+shore&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 15529,
+    "name": "ALICE E. GETTY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+E.+GETTY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20412,
+    "name": "ALICE E. GETTY",
+    "date": "1884, Nov 20",
+    "location": "at Pentwater, Mich",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+E.+GETTY%22+shipwreck+OR+sinking+OR+wreck+at+Pentwater%2C+Mich&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31"
+  },
+  {
+    "id": 18229,
+    "name": "ALICE E. WILDS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+E.+WILDS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23112,
+    "name": "ALICE E. WILDS",
+    "date": "1892, June 12",
+    "location": "16 miles off Milwaukee",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+E.+WILDS%22+shipwreck+OR+sinking+OR+wreck+16+miles+off+Milwaukee&sort=date_asc&dateStart=1882-01-01&dateEnd=1902-12-31"
+  },
+  {
+    "id": 15814,
+    "name": "ALICE G",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+G%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20697,
+    "name": "ALICE G",
+    "date": "1927, Nov",
+    "location": "near Tobermory, Ont",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+G%22+shipwreck+OR+sinking+OR+wreck+near+Tobermory%2C+Ont&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31"
+  },
+  {
+    "id": 17119,
+    "name": "ALICE GROVER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+GROVER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22002,
+    "name": "ALICE GROVER",
+    "date": "1866, Jun 17",
+    "location": "near Cleveland",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+GROVER%22+shipwreck+OR+sinking+OR+wreck+near+Cleveland&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31"
+  },
+  {
+    "id": 15817,
+    "name": "ALICE HACKETT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+HACKETT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20700,
+    "name": "ALICE HACKETT",
+    "date": "1828, Nov 4",
+    "location": "Fitzwilliam Isl. mouth of Georgian Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+HACKETT%22+shipwreck+OR+sinking+OR+wreck+Fitzwilliam+Isl.+mouth+of+Georgian+Bay&sort=date_asc&dateStart=1818-01-01&dateEnd=1838-12-31"
+  },
+  {
+    "id": 16733,
+    "name": "ALICE L",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+L%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21616,
+    "name": "ALICE L",
+    "date": "1929, Dec 2",
+    "location": "E of Grand Marais, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+L%22+shipwreck+OR+sinking+OR+wreck+E+of+Grand+Marais%2C+MI&sort=date_asc&dateStart=1919-01-01&dateEnd=1939-12-31"
+  },
+  {
+    "id": 19170,
+    "name": "ALICE M. BEERS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+M.+BEERS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24053,
+    "name": "ALICE M. BEERS",
+    "date": "1902, Sep 4",
+    "location": "off docks at Glen Arbor, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+M.+BEERS%22+shipwreck+OR+sinking+OR+wreck+off+docks+at+Glen+Arbor%2C+MI&sort=date_asc&dateStart=1892-01-01&dateEnd=1912-12-31"
+  },
+  {
+    "id": 15243,
+    "name": "ALICE MARY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+MARY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20126,
+    "name": "ALICE MARY",
+    "date": "1882, Apr 24",
+    "location": "Bay of Quinte",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+MARY%22+shipwreck+OR+sinking+OR+wreck+Bay+of+Quinte&sort=date_asc&dateStart=1872-01-01&dateEnd=1892-12-31"
+  },
+  {
+    "id": 15525,
+    "name": "ALICE VIVIAN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+VIVIAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20408,
+    "name": "ALICE VIVIAN",
+    "date": "1975",
+    "location": "Connie's Landing, St. Louis R., Duluth",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALICE+VIVIAN%22+shipwreck+OR+sinking+OR+wreck+Connie%27s+Landing%2C+St.+Louis+R.%2C+Duluth&sort=date_asc&dateStart=1965-01-01&dateEnd=1985-12-31"
+  },
+  {
+    "id": 15207,
+    "name": "ALIDA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALIDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20090,
+    "name": "ALIDA",
+    "date": "1867, Dec 20",
+    "location": "Saginaw R.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALIDA%22+shipwreck+OR+sinking+OR+wreck+Saginaw+R.&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31"
+  },
+  {
+    "id": 18070,
+    "name": "ALIDE J. ROGERS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALIDE+J.+ROGERS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22953,
+    "name": "ALIDE J. ROGERS",
+    "date": "1898, Oct 9",
+    "location": "4.5 mi N of tip of Old Mission Pen., Traverse",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALIDE+J.+ROGERS%22+shipwreck+OR+sinking+OR+wreck+4.5+mi+N+of+tip+of+Old+Mission+Pen.%2C+Traverse&sort=date_asc&dateStart=1888-01-01&dateEnd=1908-12-31"
+  },
+  {
+    "id": 15342,
+    "name": "ALLEGAN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20225,
+    "name": "ALLEGAN",
+    "date": "1856, Nov",
+    "location": "near Presq'ile, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGAN%22+shipwreck+OR+sinking+OR+wreck+near+Presq%27ile%2C+Ont.&sort=date_asc&dateStart=1846-01-01&dateEnd=1866-12-31"
+  },
+  {
+    "id": 16803,
+    "name": "ALLEGHANY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17602,
+    "name": "ALLEGHANY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21686,
+    "name": "ALLEGHANY",
+    "date": "1855, ca. Sep 12",
+    "location": "off Clay Banks, N side of Lake Erie",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHANY%22+shipwreck+OR+sinking+OR+wreck+off+Clay+Banks%2C+N+side+of+Lake+Erie&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31"
+  },
+  {
+    "id": 22485,
+    "name": "ALLEGHANY",
+    "date": "1896, Oct 29",
+    "location": "Summer Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHANY%22+shipwreck+OR+sinking+OR+wreck+Summer+Isl.&sort=date_asc&dateStart=1886-01-01&dateEnd=1906-12-31"
+  },
+  {
+    "id": 17317,
+    "name": "ALLEGHENY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17457,
+    "name": "ALLEGHENY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17910,
+    "name": "ALLEGHENY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22200,
+    "name": "ALLEGHENY",
+    "date": "1913, Jun 6",
+    "location": "Vermilion Point, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck+Vermilion+Point%2C+MI&sort=date_asc&dateStart=1903-01-01&dateEnd=1923-12-31"
+  },
+  {
+    "id": 22340,
+    "name": "ALLEGHENY",
+    "date": "1855, Oct 24",
+    "location": "at Milwaukee",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck+at+Milwaukee&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31"
+  },
+  {
+    "id": 22793,
+    "name": "ALLEGHENY",
+    "date": "1978, Jan 27",
+    "location": "Traverse City, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck+Traverse+City%2C+MI&sort=date_asc&dateStart=1968-01-01&dateEnd=1988-12-31"
+  },
+  {
+    "id": 15063,
+    "name": "ALLIANCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLIANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17424,
+    "name": "ALLIANCE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLIANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19946,
+    "name": "ALLIANCE",
+    "date": "1869, Nov 21",
+    "location": "Niagara Falls",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLIANCE%22+shipwreck+OR+sinking+OR+wreck+Niagara+Falls&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31"
+  },
+  {
+    "id": 22307,
+    "name": "ALLIANCE",
+    "date": "1863, Dec 2",
+    "location": "Oswego, NY harbor",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLIANCE%22+shipwreck+OR+sinking+OR+wreck+Oswego%2C+NY+harbor&sort=date_asc&dateStart=1853-01-01&dateEnd=1873-12-31"
+  },
+  {
+    "id": 15321,
+    "name": "ALLIE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20204,
+    "name": "ALLIE",
+    "date": "1875, Sep 30",
+    "location": "near Belleville, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALLIE%22+shipwreck+OR+sinking+OR+wreck+near+Belleville%2C+Ont.&sort=date_asc&dateStart=1865-01-01&dateEnd=1885-12-31"
+  },
+  {
+    "id": 15896,
+    "name": "ALMA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19132,
+    "name": "ALMA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20779,
+    "name": "ALMA",
+    "date": "1892, May 18",
+    "location": "near Bradford Beach, just north of Milwaukee",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMA%22+shipwreck+OR+sinking+OR+wreck+near+Bradford+Beach%2C+just+north+of+Milwaukee&sort=date_asc&dateStart=1882-01-01&dateEnd=1902-12-31"
+  },
+  {
+    "id": 24015,
+    "name": "ALMA",
+    "date": "1866, Oct 22",
+    "location": "midlake",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMA%22+shipwreck+OR+sinking+OR+wreck+midlake&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31"
+  },
+  {
+    "id": 17049,
+    "name": "ALMEDA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMEDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21932,
+    "name": "ALMEDA",
+    "date": "1880, May 22",
+    "location": "Pelee Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMEDA%22+shipwreck+OR+sinking+OR+wreck+Pelee+Isl.&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31"
+  },
+  {
+    "id": 16084,
+    "name": "ALMERON THOMAS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMERON+THOMAS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20967,
+    "name": "ALMERON THOMAS",
+    "date": "1900, Nov 30",
+    "location": "near Point Lookout, NW Saginaw Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMERON+THOMAS%22+shipwreck+OR+sinking+OR+wreck+near+Point+Lookout%2C+NW+Saginaw+Bay&sort=date_asc&dateStart=1890-01-01&dateEnd=1910-12-31"
+  },
+  {
+    "id": 15094,
+    "name": "ALMIRA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMIRA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19977,
+    "name": "ALMIRA",
+    "date": "1863, Jul 8",
+    "location": "near \"Devil's Nose,\" south shore of the lake",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALMIRA%22+shipwreck+OR+sinking+OR+wreck+near+%22Devil%27s+Nose%2C%22+south+shore+of+the+lake&sort=date_asc&dateStart=1853-01-01&dateEnd=1873-12-31"
+  },
+  {
+    "id": 14970,
+    "name": "ALNWICK",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALNWICK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19853,
+    "name": "ALNWICK",
+    "date": "1871, Oct 8",
+    "location": "Chicago waterfront",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALNWICK%22+shipwreck+OR+sinking+OR+wreck+Chicago+waterfront&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31"
+  },
+  {
+    "id": 17525,
+    "name": "ALOHA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALOHA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22408,
+    "name": "ALOHA",
+    "date": "1917, Oct 28",
+    "location": "on Nine Mile Point, W of Kingston, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALOHA%22+shipwreck+OR+sinking+OR+wreck+on+Nine+Mile+Point%2C+W+of+Kingston%2C+Ont.&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31"
+  },
+  {
+    "id": 17221,
+    "name": "ALPENA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALPENA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17745,
+    "name": "ALPENA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALPENA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22104,
+    "name": "ALPENA",
+    "date": "1880, Oct 15",
+    "location": "probably near Holland, MI*",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALPENA%22+shipwreck+OR+sinking+OR+wreck+probably+near+Holland%2C+MI%2A&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31"
+  },
+  {
+    "id": 22628,
+    "name": "ALPENA",
+    "date": "1891, Oct 26",
+    "location": "Lake St. Clair, about 3 mi below the Flats",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALPENA%22+shipwreck+OR+sinking+OR+wreck+Lake+St.+Clair%2C+about+3+mi+below+the+Flats&sort=date_asc&dateStart=1881-01-01&dateEnd=1901-12-31"
+  },
+  {
+    "id": 18894,
+    "name": "ALPHA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALPHA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23777,
+    "name": "ALPHA",
+    "date": "1872, Aug 30",
+    "location": "Oswego harbor",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALPHA%22+shipwreck+OR+sinking+OR+wreck+Oswego+harbor&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31"
+  },
+  {
+    "id": 17206,
+    "name": "ALTA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22089,
+    "name": "ALTA",
+    "date": "1905, Oct 19",
+    "location": "E. side of Grand Isl., near Munising, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALTA%22+shipwreck+OR+sinking+OR+wreck+E.+side+of+Grand+Isl.%2C+near+Munising%2C+MI&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31"
+  },
+  {
+    "id": 16476,
+    "name": "ALTADOC",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALTADOC%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21359,
+    "name": "ALTADOC",
+    "date": "1927, Dec 8",
+    "location": "Keweenaw Pt. E of Copper Harbor, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALTADOC%22+shipwreck+OR+sinking+OR+wreck+Keweenaw+Pt.+E+of+Copper+Harbor%2C+MI&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31"
+  },
+  {
+    "id": 18129,
+    "name": "ALTAIR",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALTAIR%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23012,
+    "name": "ALTAIR",
+    "date": "1864, Nov 11",
+    "location": "Chantry Island near the lighthouse",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALTAIR%22+shipwreck+OR+sinking+OR+wreck+Chantry+Island+near+the+lighthouse&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31"
+  },
+  {
+    "id": 16289,
+    "name": "ALTON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21172,
+    "name": "ALTON",
+    "date": "1921",
+    "location": "Lakeside, OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALTON%22+shipwreck+OR+sinking+OR+wreck+Lakeside%2C+OH&sort=date_asc&dateStart=1911-01-01&dateEnd=1931-12-31"
+  },
+  {
+    "id": 15410,
+    "name": "ALVA B",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVA+B%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20293,
+    "name": "ALVA B",
+    "date": "1917, Nov 1",
+    "location": "off Avon Lake, OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVA+B%22+shipwreck+OR+sinking+OR+wreck+off+Avon+Lake%2C+OH&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31"
+  },
+  {
+    "id": 17268,
+    "name": "ALVA BRADLEY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVA+BRADLEY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22151,
+    "name": "ALVA BRADLEY",
+    "date": "1894, Oct 13",
+    "location": "7 miles SW of N Manitou Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVA+BRADLEY%22+shipwreck+OR+sinking+OR+wreck+7+miles+SW+of+N+Manitou+Isl.&sort=date_asc&dateStart=1884-01-01&dateEnd=1904-12-31"
+  },
+  {
+    "id": 16260,
+    "name": "ALVA D",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVA+D%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16273,
+    "name": "ALVA D",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVA+D%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21143,
+    "name": "ALVA D",
+    "date": "1909, Aug 22",
+    "location": "\"The Monks\", Georgian Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVA+D%22+shipwreck+OR+sinking+OR+wreck+%22The+Monks%22%2C+Georgian+Bay&sort=date_asc&dateStart=1899-01-01&dateEnd=1919-12-31"
+  },
+  {
+    "id": 21156,
+    "name": "ALVA D",
+    "date": "1914, Aug 25",
+    "location": "between Beaverstone & Collins Inlet, Georgian Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVA+D%22+shipwreck+OR+sinking+OR+wreck+between+Beaverstone+%26+Collins+Inlet%2C+Georgian+Bay&sort=date_asc&dateStart=1904-01-01&dateEnd=1924-12-31"
+  },
+  {
+    "id": 17791,
+    "name": "ALVAH S. CHISHOLM, Jr",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVAH+S.+CHISHOLM%2C+Jr%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22674,
+    "name": "ALVAH S. CHISHOLM, Jr",
+    "date": "1935, May 11",
+    "location": "Sandusky, Ohio, harbor",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVAH+S.+CHISHOLM%2C+Jr%22+shipwreck+OR+sinking+OR+wreck+Sandusky%2C+Ohio%2C+harbor&sort=date_asc&dateStart=1925-01-01&dateEnd=1945-12-31"
+  },
+  {
+    "id": 18321,
+    "name": "ALVIN A. TURNER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVIN+A.+TURNER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23204,
+    "name": "ALVIN A. TURNER",
+    "date": "1905, Oct 18",
+    "location": "Little Detroit Channel near Spanish Mills, On",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVIN+A.+TURNER%22+shipwreck+OR+sinking+OR+wreck+Little+Detroit+Channel+near+Spanish+Mills%2C+On&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31"
+  },
+  {
+    "id": 18813,
+    "name": "ALVIN BRONSON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVIN+BRONSON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23696,
+    "name": "ALVIN BRONSON",
+    "date": "1888, Apr 29",
+    "location": "Port Sherman, Muskegon harbor",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVIN+BRONSON%22+shipwreck+OR+sinking+OR+wreck+Port+Sherman%2C+Muskegon+harbor&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31"
+  },
+  {
+    "id": 18965,
+    "name": "ALVIN CLARK",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVIN+CLARK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23848,
+    "name": "ALVIN CLARK",
+    "date": "1864, Jun 29",
+    "location": "Green Bay, off Chambers Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALVIN+CLARK%22+shipwreck+OR+sinking+OR+wreck+Green+Bay%2C+off+Chambers+Isl.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31"
+  },
+  {
+    "id": 15398,
+    "name": "ALWILDA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALWILDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20281,
+    "name": "ALWILDA",
+    "date": "1857, Oct 18",
+    "location": "Big Sable Point",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALWILDA%22+shipwreck+OR+sinking+OR+wreck+Big+Sable+Point&sort=date_asc&dateStart=1847-01-01&dateEnd=1867-12-31"
+  },
+  {
+    "id": 15673,
+    "name": "ALZORA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 15741,
+    "name": "ALZORA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19365,
+    "name": "ALZORA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20556,
+    "name": "ALZORA",
+    "date": "1906, May 3",
+    "location": "6 mi E of SE Shoal",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck+6+mi+E+of+SE+Shoal&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31"
+  },
+  {
+    "id": 20624,
+    "name": "ALZORA",
+    "date": "1895, Oct 21",
+    "location": "1.5 mi from lighthouse, S side Long Point",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck+1.5+mi+from+lighthouse%2C+S+side+Long+Point&sort=date_asc&dateStart=1885-01-01&dateEnd=1905-12-31"
+  },
+  {
+    "id": 24248,
+    "name": "ALZORA",
+    "date": "1908, Jul 22",
+    "location": "2.5 miles off Bay Port, MI, Saginaw Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck+2.5+miles+off+Bay+Port%2C+MI%2C+Saginaw+Bay&sort=date_asc&dateStart=1898-01-01&dateEnd=1918-12-31"
+  },
+  {
+    "id": 18391,
+    "name": "AMARANTH",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMARANTH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23274,
+    "name": "AMARANTH",
+    "date": "1901, Sep 7",
+    "location": "near Ft. Gratiot, MI [North Kewahdin Beach]",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMARANTH%22+shipwreck+OR+sinking+OR+wreck+near+Ft.+Gratiot%2C+MI+%5BNorth+Kewahdin+Beach%5D&sort=date_asc&dateStart=1891-01-01&dateEnd=1911-12-31"
+  },
+  {
+    "id": 18308,
+    "name": "AMARETTA MOSHER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMARETTA+MOSHER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23191,
+    "name": "AMARETTA MOSHER",
+    "date": "1902, Nov 29",
+    "location": "Starve Isl. Reef, near Port Clinton, OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMARETTA+MOSHER%22+shipwreck+OR+sinking+OR+wreck+Starve+Isl.+Reef%2C+near+Port+Clinton%2C+OH&sort=date_asc&dateStart=1892-01-01&dateEnd=1912-12-31"
+  },
+  {
+    "id": 15491,
+    "name": "AMASA STOWELL",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMASA+STOWELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20374,
+    "name": "AMASA STOWELL",
+    "date": "1862, Oct",
+    "location": "near Sodus, NY",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMASA+STOWELL%22+shipwreck+OR+sinking+OR+wreck+near+Sodus%2C+NY&sort=date_asc&dateStart=1852-01-01&dateEnd=1872-12-31"
+  },
+  {
+    "id": 14867,
+    "name": "AMAZON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMAZON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16925,
+    "name": "AMAZON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMAZON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19750,
+    "name": "AMAZON",
+    "date": "1864, May 9",
+    "location": "near Pt. Edward, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMAZON%22+shipwreck+OR+sinking+OR+wreck+near+Pt.+Edward%2C+Ont.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31"
+  },
+  {
+    "id": 21808,
+    "name": "AMAZON",
+    "date": "1879, Oct 29",
+    "location": "Grand Haven Bar",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMAZON%22+shipwreck+OR+sinking+OR+wreck+Grand+Haven+Bar&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31"
+  },
+  {
+    "id": 17103,
+    "name": "AMBOY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMBOY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21986,
+    "name": "AMBOY",
+    "date": "1905, Nov 29",
+    "location": "near Thomasville, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMBOY%22+shipwreck+OR+sinking+OR+wreck+near+Thomasville%2C+Ont.&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31"
+  },
+  {
+    "id": 14947,
+    "name": "AMELIA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMELIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16127,
+    "name": "AMELIA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMELIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19830,
+    "name": "AMELIA",
+    "date": "1864, Nov (8)",
+    "location": "off Goderich, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMELIA%22+shipwreck+OR+sinking+OR+wreck+off+Goderich%2C+Ont.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31"
+  },
+  {
+    "id": 21010,
+    "name": "AMELIA",
+    "date": "1856, May 15",
+    "location": "on a line between Waukegan and Muskegon",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMELIA%22+shipwreck+OR+sinking+OR+wreck+on+a+line+between+Waukegan+and+Muskegon&sort=date_asc&dateStart=1846-01-01&dateEnd=1866-12-31"
+  },
+  {
+    "id": 15223,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 15924,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16533,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16900,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17628,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 17950,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18148,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18672,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 18848,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19483,
+    "name": "AMERICA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20106,
+    "name": "AMERICA",
+    "date": "1941, Oct 21",
+    "location": "Off Belle Isle",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+Off+Belle+Isle&sort=date_asc&dateStart=1931-01-01&dateEnd=1951-12-31"
+  },
+  {
+    "id": 20807,
+    "name": "AMERICA",
+    "date": "1952, Feb 9",
+    "location": "at Port Huron",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+at+Port+Huron&sort=date_asc&dateStart=1942-01-01&dateEnd=1962-12-31"
+  },
+  {
+    "id": 21416,
+    "name": "AMERICA",
+    "date": "1950, May 5",
+    "location": "5 mi off Sturgeon Bay, WI",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+5+mi+off+Sturgeon+Bay%2C+WI&sort=date_asc&dateStart=1940-01-01&dateEnd=1960-12-31"
+  },
+  {
+    "id": 21783,
+    "name": "AMERICA",
+    "date": "1854, Apr 5",
+    "location": "near Pt. Pelee",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+near+Pt.+Pelee&sort=date_asc&dateStart=1844-01-01&dateEnd=1864-12-31"
+  },
+  {
+    "id": 22511,
+    "name": "AMERICA",
+    "date": "1928, Jun 7",
+    "location": "Washington Harbor, Isle Royale",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+Washington+Harbor%2C+Isle+Royale&sort=date_asc&dateStart=1918-01-01&dateEnd=1938-12-31"
+  },
+  {
+    "id": 22833,
+    "name": "AMERICA",
+    "date": "1874",
+    "location": "at Kingston, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+at+Kingston%2C+Ont.&sort=date_asc&dateStart=1864-01-01&dateEnd=1884-12-31"
+  },
+  {
+    "id": 23031,
+    "name": "AMERICA",
+    "date": "1880, Sep 28",
+    "location": "9 mi N of Two Rivers",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+9+mi+N+of+Two+Rivers&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31"
+  },
+  {
+    "id": 23555,
+    "name": "AMERICA",
+    "date": "1881, fall",
+    "location": "at Port Burwell, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+at+Port+Burwell%2C+Ont.&sort=date_asc&dateStart=1871-01-01&dateEnd=1891-12-31"
+  },
+  {
+    "id": 23731,
+    "name": "AMERICA",
+    "date": "1866, Aug 8",
+    "location": "midlake off Waukegan",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+midlake+off+Waukegan&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31"
+  },
+  {
+    "id": 24366,
+    "name": "AMERICA",
+    "date": "1907",
+    "location": "Chambers Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+Chambers+Isl.&sort=date_asc&dateStart=1897-01-01&dateEnd=1917-12-31"
+  },
+  {
+    "id": 18195,
+    "name": "AMERICAN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23078,
+    "name": "AMERICAN",
+    "date": "1894, Oct 1",
+    "location": "Stoney Point, east end of the lake",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN%22+shipwreck+OR+sinking+OR+wreck+Stoney+Point%2C+east+end+of+the+lake&sort=date_asc&dateStart=1884-01-01&dateEnd=1904-12-31"
+  },
+  {
+    "id": 18852,
+    "name": "AMERICAN CHAMPION",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+CHAMPION%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23735,
+    "name": "AMERICAN CHAMPION",
+    "date": "1875, Sep 30",
+    "location": "near Leamington Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+CHAMPION%22+shipwreck+OR+sinking+OR+wreck+near+Leamington+Ont.&sort=date_asc&dateStart=1865-01-01&dateEnd=1885-12-31"
+  },
+  {
+    "id": 15857,
+    "name": "AMERICAN EAGLE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 15947,
+    "name": "AMERICAN EAGLE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19173,
+    "name": "AMERICAN EAGLE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20740,
+    "name": "AMERICAN EAGLE",
+    "date": "1891, Jun 10",
+    "location": ".5 mi from harbor entrance at Cleveland",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck+.5+mi+from+harbor+entrance+at+Cleveland&sort=date_asc&dateStart=1881-01-01&dateEnd=1901-12-31"
+  },
+  {
+    "id": 20830,
+    "name": "AMERICAN EAGLE",
+    "date": "1820, Nov 26",
+    "location": "near Grand River, OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck+near+Grand+River%2C+OH&sort=date_asc&dateStart=1810-01-01&dateEnd=1830-12-31"
+  },
+  {
+    "id": 24056,
+    "name": "AMERICAN EAGLE",
+    "date": "1908, Dec 21",
+    "location": "Maumee, OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck+Maumee%2C+OH&sort=date_asc&dateStart=1898-01-01&dateEnd=1918-12-31"
+  },
+  {
+    "id": 16212,
+    "name": "AMERICAN REPUBLIC",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+REPUBLIC%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21095,
+    "name": "AMERICAN REPUBLIC",
+    "date": "1859, Dec 2",
+    "location": "at North Manitou Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+REPUBLIC%22+shipwreck+OR+sinking+OR+wreck+at+North+Manitou+Isl.&sort=date_asc&dateStart=1849-01-01&dateEnd=1869-12-31"
+  },
+  {
+    "id": 18983,
+    "name": "AMERICAN SAILOR",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+SAILOR%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23866,
+    "name": "AMERICAN SAILOR",
+    "date": "1937, Nov 2",
+    "location": "Off Barcelona, NY (also given as Westfield)",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+SAILOR%22+shipwreck+OR+sinking+OR+wreck+Off+Barcelona%2C+NY+%28also+given+as+Westfield%29&sort=date_asc&dateStart=1927-01-01&dateEnd=1947-12-31"
+  },
+  {
+    "id": 18938,
+    "name": "AMERICAN SCOUT",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+SCOUT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23821,
+    "name": "AMERICAN SCOUT",
+    "date": "1937, Nov 2",
+    "location": "Off Barcelona, NY (also given as Westfield)",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+SCOUT%22+shipwreck+OR+sinking+OR+wreck+Off+Barcelona%2C+NY+%28also+given+as+Westfield%29&sort=date_asc&dateStart=1927-01-01&dateEnd=1947-12-31"
+  },
+  {
+    "id": 17346,
+    "name": "AMERICAN UNION",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+UNION%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22229,
+    "name": "AMERICAN UNION",
+    "date": "1894, May 6",
+    "location": "near Presque Isle, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMERICAN+UNION%22+shipwreck+OR+sinking+OR+wreck+near+Presque+Isle%2C+MI&sort=date_asc&dateStart=1884-01-01&dateEnd=1904-12-31"
+  },
+  {
+    "id": 16232,
+    "name": "AMETHYST",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMETHYST%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21115,
+    "name": "AMETHYST",
+    "date": "1888, Oct 25",
+    "location": "at Duluth",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMETHYST%22+shipwreck+OR+sinking+OR+wreck+at+Duluth&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31"
+  },
+  {
+    "id": 19249,
+    "name": "AMITY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22AMITY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 24132,
+    "name": "AMITY",
+    "date": "1864, Oct [8 or 9]",
+    "location": "NNE of the tip of Long Pt.",
+    "search_url": "https://www.newspapers.com/search/?query=%22AMITY%22+shipwreck+OR+sinking+OR+wreck+NNE+of+the+tip+of+Long+Pt.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31"
+  },
+  {
+    "id": 15845,
+    "name": "ANABEL II",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANABEL+II%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20728,
+    "name": "ANABEL II",
+    "date": "1956, Jan 12",
+    "location": "Sturgeon Bay, WI, Roen SS Co. dock",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANABEL+II%22+shipwreck+OR+sinking+OR+wreck+Sturgeon+Bay%2C+WI%2C+Roen+SS+Co.+dock&sort=date_asc&dateStart=1946-01-01&dateEnd=1966-12-31"
+  },
+  {
+    "id": 16267,
+    "name": "ANCHOR BAY",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANCHOR+BAY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21150,
+    "name": "ANCHOR BAY",
+    "date": "1968, Dec 12",
+    "location": "near Harsen's Isl.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANCHOR+BAY%22+shipwreck+OR+sinking+OR+wreck+near+Harsen%27s+Isl.&sort=date_asc&dateStart=1958-01-01&dateEnd=1978-12-31"
+  },
+  {
+    "id": 16875,
+    "name": "ANDASTE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDASTE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21758,
+    "name": "ANDASTE",
+    "date": "1929, Sep 9",
+    "location": "ca. 14 mi W of Holland, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDASTE%22+shipwreck+OR+sinking+OR+wreck+ca.+14+mi+W+of+Holland%2C+MI&sort=date_asc&dateStart=1919-01-01&dateEnd=1939-12-31"
+  },
+  {
+    "id": 18508,
+    "name": "ANDES",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDES%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23391,
+    "name": "ANDES",
+    "date": "1868, Oct 24",
+    "location": "off Madison, OH",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDES%22+shipwreck+OR+sinking+OR+wreck+off+Madison%2C+OH&sort=date_asc&dateStart=1858-01-01&dateEnd=1878-12-31"
+  },
+  {
+    "id": 14724,
+    "name": "ANDOVER",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDOVER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 19607,
+    "name": "ANDOVER",
+    "date": "1861, Jun 16",
+    "location": "Pte Aux Barques reef, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDOVER%22+shipwreck+OR+sinking+OR+wreck+Pte+Aux+Barques+reef%2C+MI&sort=date_asc&dateStart=1851-01-01&dateEnd=1871-12-31"
+  },
+  {
+    "id": 15753,
+    "name": "ANDREW",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20636,
+    "name": "ANDREW",
+    "date": "1832, Nov 18",
+    "location": "Buffalo",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW%22+shipwreck+OR+sinking+OR+wreck+Buffalo&sort=date_asc&dateStart=1822-01-01&dateEnd=1842-12-31"
+  },
+  {
+    "id": 16064,
+    "name": "ANDREW A. McLEAN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+A.+McLEAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20947,
+    "name": "ANDREW A. McLEAN",
+    "date": "1916, Aug 11",
+    "location": "7 mi SE of Tawas City",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+A.+McLEAN%22+shipwreck+OR+sinking+OR+wreck+7+mi+SE+of+Tawas+City&sort=date_asc&dateStart=1906-01-01&dateEnd=1926-12-31"
+  },
+  {
+    "id": 18754,
+    "name": "ANDREW B",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+B%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23637,
+    "name": "ANDREW B",
+    "date": "1995, Nov 8",
+    "location": "4 mi off Long Point",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+B%22+shipwreck+OR+sinking+OR+wreck+4+mi+off+Long+Point&sort=date_asc&dateStart=1985-01-01&dateEnd=2005-12-31"
+  },
+  {
+    "id": 18084,
+    "name": "ANDREW J. RICH",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+J.+RICH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22967,
+    "name": "ANDREW J. RICH",
+    "date": "1864, Nov 10",
+    "location": "near Kincardine, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+J.+RICH%22+shipwreck+OR+sinking+OR+wreck+near+Kincardine%2C+Ont.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31"
+  },
+  {
+    "id": 18740,
+    "name": "ANDREW JACKSON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+JACKSON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23623,
+    "name": "ANDREW JACKSON",
+    "date": "1901, Sep 7",
+    "location": "2 Â¼ mi E of USLS station, on Pte Aux Barques, MI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+JACKSON%22+shipwreck+OR+sinking+OR+wreck+2+%C3%82%C2%BC+mi+E+of+USLS+station%2C+on+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1891-01-01&dateEnd=1911-12-31"
+  },
+  {
+    "id": 17942,
+    "name": "ANDREW STEVENS",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+STEVENS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 22825,
+    "name": "ANDREW STEVENS",
+    "date": "1867, Nov 12",
+    "location": "Georgian Bay",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDREW+STEVENS%22+shipwreck+OR+sinking+OR+wreck+Georgian+Bay&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31"
+  },
+  {
+    "id": 18991,
+    "name": "ANDROMEDA",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDROMEDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23874,
+    "name": "ANDROMEDA",
+    "date": "1858, Jul 18",
+    "location": "20 mi from Sheboygan, WI and 15 off shore and 40 NE of Manitowoc",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANDROMEDA%22+shipwreck+OR+sinking+OR+wreck+20+mi+from+Sheboygan%2C+WI+and+15+off+shore+and+40+NE+of+Manitowoc&sort=date_asc&dateStart=1848-01-01&dateEnd=1868-12-31"
+  },
+  {
+    "id": 15623,
+    "name": "ANGELIQUE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANGELIQUE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 16001,
+    "name": "ANGELIQUE",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANGELIQUE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 20506,
+    "name": "ANGELIQUE",
+    "date": "1866, May 27",
+    "location": "off North Point, Milwaukee",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANGELIQUE%22+shipwreck+OR+sinking+OR+wreck+off+North+Point%2C+Milwaukee&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31"
+  },
+  {
+    "id": 20884,
+    "name": "ANGELIQUE",
+    "date": "1887, Jul 13",
+    "location": "at Ruthven, Ont.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANGELIQUE%22+shipwreck+OR+sinking+OR+wreck+at+Ruthven%2C+Ont.&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 18368,
+    "name": "ANGLO SAXON",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANGLO+SAXON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23251,
+    "name": "ANGLO SAXON",
+    "date": "1887, Sep 8",
+    "location": "Straits of Mackinac, near Waugoschance Pt.",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANGLO+SAXON%22+shipwreck+OR+sinking+OR+wreck+Straits+of+Mackinac%2C+near+Waugoschance+Pt.&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31"
+  },
+  {
+    "id": 19058,
+    "name": "ANN",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 23941,
+    "name": "ANN",
+    "date": "1827, Nov 6",
+    "location": "Long Point almost opposite Erie, PA",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANN%22+shipwreck+OR+sinking+OR+wreck+Long+Point+almost+opposite+Erie%2C+PA&sort=date_asc&dateStart=1817-01-01&dateEnd=1837-12-31"
+  },
+  {
+    "id": 16778,
+    "name": "ANN ARBOR #1",
+    "date": null,
+    "location": null,
+    "search_url": "https://www.newspapers.com/search/?query=%22ANN+ARBOR+%231%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc"
+  },
+  {
+    "id": 21661,
+    "name": "ANN ARBOR #1",
+    "date": "1910, Mar 7",
+    "location": "4 mi off Manitowoc, WI",
+    "search_url": "https://www.newspapers.com/search/?query=%22ANN+ARBOR+%231%22+shipwreck+OR+sinking+OR+wreck+4+mi+off+Manitowoc%2C+WI&sort=date_asc&dateStart=1900-01-01&dateEnd=1920-12-31"
+  }
+]

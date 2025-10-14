@@ -1,0 +1,3510 @@
+Newspaper.com Search URLs for Wreck Validation
+============================================================
+
+Instructions:
+1. Log in to newspaper.com with your subscription
+2. Copy and paste each search URL into your browser
+3. Review results and save relevant articles as PDFs or screenshots
+4. Save clips in the newspaper_clips folder with naming: WRECK_NAME_DATE.pdf
+5. Update the database with clip references
+
+Wreck ID: 19527
+Name: "COOPER'S FLOATING BATTERY"
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22COOPERS+FLOATING+BATTERY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24410
+Name: "COOPER'S FLOATING BATTERY"
+Date: 1813, Jul (6)
+Location: near Sandy Creek, Mexico Bay
+Search URL: https://www.newspapers.com/search/?query=%22COOPERS+FLOATING+BATTERY%22+shipwreck+OR+sinking+OR+wreck+near+Sandy+Creek%2C+Mexico+Bay&sort=date_asc&dateStart=1803-01-01&dateEnd=1823-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15711
+Name: "Millecoquins wreck" - identity of vessel unknown
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22Millecoquins+wreck+-+identity+of+vessel+unknown%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20594
+Name: "Millecoquins wreck" - identity of vessel unknown
+Date: unknown
+Location: Millicoquins River
+Search URL: https://www.newspapers.com/search/?query=%22Millecoquins+wreck+-+identity+of+vessel+unknown%22+shipwreck+OR+sinking+OR+wreck+Millicoquins+River&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16582
+Name: *NEW*BEULAH W.
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22%2ANEW%2ABEULAH+W.%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21465
+Name: *NEW*BEULAH W.
+Date: 1917, Oct 26
+Location: Wiggins Pt., Michigan
+Search URL: https://www.newspapers.com/search/?query=%22%2ANEW%2ABEULAH+W.%22+shipwreck+OR+sinking+OR+wreck+Wiggins+Pt.%2C+Michigan&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16556
+Name: A. B. WARD
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+B.+WARD%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21439
+Name: A. B. WARD
+Date: 1870, Apr 24
+Location: 20 mi NE of Milwaukee
+Search URL: https://www.newspapers.com/search/?query=%22A.+B.+WARD%22+shipwreck+OR+sinking+OR+wreck+20+mi+NE+of+Milwaukee&sort=date_asc&dateStart=1860-01-01&dateEnd=1880-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18214
+Name: A. BOODY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+BOODY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23097
+Name: A. BOODY
+Date: 1887, Nov 10
+Location: off Pte Aux Barques, MI
+Search URL: https://www.newspapers.com/search/?query=%22A.+BOODY%22+shipwreck+OR+sinking+OR+wreck+off+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14741
+Name: A. BOOTH
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+BOOTH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19624
+Name: A. BOOTH
+Date: 1887, Aug 20
+Location: 6 mi from Duluth
+Search URL: https://www.newspapers.com/search/?query=%22A.+BOOTH%22+shipwreck+OR+sinking+OR+wreck+6+mi+from+Duluth&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18636
+Name: A. BUCKINGHAM
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+BUCKINGHAM%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23519
+Name: A. BUCKINGHAM
+Date: 1870, Oct 15
+Location: 15 mi above Harrisville, Mich
+Search URL: https://www.newspapers.com/search/?query=%22A.+BUCKINGHAM%22+shipwreck+OR+sinking+OR+wreck+15+mi+above+Harrisville%2C+Mich&sort=date_asc&dateStart=1860-01-01&dateEnd=1880-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16257
+Name: A. C. VAN RAALTE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+C.+VAN+RAALTE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21140
+Name: A. C. VAN RAALTE
+Date: 1860, a few days before Mar 23
+Location: East Bay of Grand Traverse Bay
+Search URL: https://www.newspapers.com/search/?query=%22A.+C.+VAN+RAALTE%22+shipwreck+OR+sinking+OR+wreck+East+Bay+of+Grand+Traverse+Bay&sort=date_asc&dateStart=1850-01-01&dateEnd=1870-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17935
+Name: A. E. HART
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+E.+HART%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22818
+Name: A. E. HART
+Date: 1869, Nov 18
+Location: near Hammond Bay
+Search URL: https://www.newspapers.com/search/?query=%22A.+E.+HART%22+shipwreck+OR+sinking+OR+wreck+near+Hammond+Bay&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17074
+Name: A. EVERETT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+EVERETT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21957
+Name: A. EVERETT
+Date: 1895, Apr 30
+Location: 20 mi N of Pte Aux Barques, MI
+Search URL: https://www.newspapers.com/search/?query=%22A.+EVERETT%22+shipwreck+OR+sinking+OR+wreck+20+mi+N+of+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1885-01-01&dateEnd=1905-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17859
+Name: A. GEBHARDT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+GEBHARDT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22742
+Name: A. GEBHARDT
+Date: 1909, Jun 4
+Location: at Drummond Isl., MI
+Search URL: https://www.newspapers.com/search/?query=%22A.+GEBHARDT%22+shipwreck+OR+sinking+OR+wreck+at+Drummond+Isl.%2C+MI&sort=date_asc&dateStart=1899-01-01&dateEnd=1919-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16405
+Name: A. H. J.
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+H.+J.%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21288
+Name: A. H. J.
+Date: 1922, Oct 2
+Location: off Cross Village, Mich
+Search URL: https://www.newspapers.com/search/?query=%22A.+H.+J.%22+shipwreck+OR+sinking+OR+wreck+off+Cross+Village%2C+Mich&sort=date_asc&dateStart=1912-01-01&dateEnd=1932-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14874
+Name: A. H. NEWBOLD
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+H.+NEWBOLD%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19757
+Name: A. H. NEWBOLD
+Date: 1852, Nov 11
+Location: on the breakwall at Buffalo
+Search URL: https://www.newspapers.com/search/?query=%22A.+H.+NEWBOLD%22+shipwreck+OR+sinking+OR+wreck+on+the+breakwall+at+Buffalo&sort=date_asc&dateStart=1842-01-01&dateEnd=1862-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15535
+Name: A. HOWES
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+HOWES%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20418
+Name: A. HOWES
+Date: 1871, Sep 22
+Location: at Ahnapee
+Search URL: https://www.newspapers.com/search/?query=%22A.+HOWES%22+shipwreck+OR+sinking+OR+wreck+at+Ahnapee&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16134
+Name: A. J. BEMIS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+J.+BEMIS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21017
+Name: A. J. BEMIS
+Date: 1872, Sep 15
+Location: 6 mi from Alpena, 3/4 mi offshore
+Search URL: https://www.newspapers.com/search/?query=%22A.+J.+BEMIS%22+shipwreck+OR+sinking+OR+wreck+6+mi+from+Alpena%2C+3%2F4+mi+offshore&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15706
+Name: A. L. ABBELL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+L.+ABBELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20589
+Name: A. L. ABBELL
+Date: 1861, Nov
+Location: Waugoschance Pt., Straits of Mackinac
+Search URL: https://www.newspapers.com/search/?query=%22A.+L.+ABBELL%22+shipwreck+OR+sinking+OR+wreck+Waugoschance+Pt.%2C+Straits+of+Mackinac&sort=date_asc&dateStart=1851-01-01&dateEnd=1871-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15373
+Name: A. LINCOLN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+LINCOLN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20256
+Name: A. LINCOLN
+Date: 1872, Sep 29
+Location: at AuSable, MI
+Search URL: https://www.newspapers.com/search/?query=%22A.+LINCOLN%22+shipwreck+OR+sinking+OR+wreck+at+AuSable%2C+MI&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15934
+Name: A. M. P.
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+M.+P.%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20817
+Name: A. M. P.
+Date: 1912, Aug 14
+Location: Dennis Island
+Search URL: https://www.newspapers.com/search/?query=%22A.+M.+P.%22+shipwreck+OR+sinking+OR+wreck+Dennis+Island&sort=date_asc&dateStart=1902-01-01&dateEnd=1922-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18992
+Name: A. MEDBURY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+MEDBURY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23875
+Name: A. MEDBURY
+Date: 1872, Nov 6
+Location: 100 yds N of Four Mile Point, near Niagara
+Search URL: https://www.newspapers.com/search/?query=%22A.+MEDBURY%22+shipwreck+OR+sinking+OR+wreck+100+yds+N+of+Four+Mile+Point%2C+near+Niagara&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15684
+Name: A. P. DUTTON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+P.+DUTTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20567
+Name: A. P. DUTTON
+Date: 1868, Dec 8 or after
+Location: unknown or unreported
+Search URL: https://www.newspapers.com/search/?query=%22A.+P.+DUTTON%22+shipwreck+OR+sinking+OR+wreck+unknown+or+unreported&sort=date_asc&dateStart=1858-01-01&dateEnd=1878-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15044
+Name: A. PLUGGER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+PLUGGER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19927
+Name: A. PLUGGER
+Date: 1881, Nov 5
+Location: at South Haven, Mich
+Search URL: https://www.newspapers.com/search/?query=%22A.+PLUGGER%22+shipwreck+OR+sinking+OR+wreck+at+South+Haven%2C+Mich&sort=date_asc&dateStart=1871-01-01&dateEnd=1891-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19124
+Name: A. R. COBB
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+R.+COBB%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24007
+Name: A. R. COBB
+Date: 1856, Oct 13
+Location: at Chicago
+Search URL: https://www.newspapers.com/search/?query=%22A.+R.+COBB%22+shipwreck+OR+sinking+OR+wreck+at+Chicago&sort=date_asc&dateStart=1846-01-01&dateEnd=1866-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18781
+Name: A. ROSSETTER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+ROSSETTER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23664
+Name: A. ROSSETTER
+Date: 1855, Oct 11
+Location: 25 mi E of Calumet, ILL
+Search URL: https://www.newspapers.com/search/?query=%22A.+ROSSETTER%22+shipwreck+OR+sinking+OR+wreck+25+mi+E+of+Calumet%2C+ILL&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18524
+Name: A. RUST
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+RUST%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23407
+Name: A. RUST
+Date: 1879, Sep 3
+Location: at Michigan City, Ind
+Search URL: https://www.newspapers.com/search/?query=%22A.+RUST%22+shipwreck+OR+sinking+OR+wreck+at+Michigan+City%2C+Ind&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17000
+Name: A. SCOTT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+SCOTT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21883
+Name: A. SCOTT
+Date: 1859, Apr 26
+Location: near Black River [Vermilion] OH
+Search URL: https://www.newspapers.com/search/?query=%22A.+SCOTT%22+shipwreck+OR+sinking+OR+wreck+near+Black+River+%5BVermilion%5D+OH&sort=date_asc&dateStart=1849-01-01&dateEnd=1869-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15550
+Name: A. SEAMAN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.+SEAMAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20433
+Name: A. SEAMAN
+Date: 1905, Sep 5
+Location: near Cape Croker, Georgian Bay
+Search URL: https://www.newspapers.com/search/?query=%22A.+SEAMAN%22+shipwreck+OR+sinking+OR+wreck+near+Cape+Croker%2C+Georgian+Bay&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17840
+Name: A.A. CORNWELL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.A.+CORNWELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22723
+Name: A.A. CORNWELL
+Date: 1865, Oct 28 or 29
+Location: E. Sister Isl. Reef
+Search URL: https://www.newspapers.com/search/?query=%22A.A.+CORNWELL%22+shipwreck+OR+sinking+OR+wreck+E.+Sister+Isl.+Reef&sort=date_asc&dateStart=1855-01-01&dateEnd=1875-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16874
+Name: A.A. PARKER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.A.+PARKER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21757
+Name: A.A. PARKER
+Date: 1903, Sep 19
+Location: off Grand Marais, MI
+Search URL: https://www.newspapers.com/search/?query=%22A.A.+PARKER%22+shipwreck+OR+sinking+OR+wreck+off+Grand+Marais%2C+MI&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17465
+Name: A.B. KING
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.B.+KING%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22348
+Name: A.B. KING
+Date: 1928, Aug 11
+Location: off Harbor beach, MI
+Search URL: https://www.newspapers.com/search/?query=%22A.B.+KING%22+shipwreck+OR+sinking+OR+wreck+off+Harbor+beach%2C+MI&sort=date_asc&dateStart=1918-01-01&dateEnd=1938-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18100
+Name: A.C. KEATING
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.C.+KEATING%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22983
+Name: A.C. KEATING
+Date: 1900, Nov 8
+Location: Coppermine Point, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22A.C.+KEATING%22+shipwreck+OR+sinking+OR+wreck+Coppermine+Point%2C+Ont.&sort=date_asc&dateStart=1890-01-01&dateEnd=1910-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17600
+Name: A.C. MAXWELL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.C.+MAXWELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22483
+Name: A.C. MAXWELL
+Date: 1908, Nov 5
+Location: Woolworth's Dock, Sault Ste. Marie, MI
+Search URL: https://www.newspapers.com/search/?query=%22A.C.+MAXWELL%22+shipwreck+OR+sinking+OR+wreck+Woolworth%27s+Dock%2C+Sault+Ste.+Marie%2C+MI&sort=date_asc&dateStart=1898-01-01&dateEnd=1918-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15982
+Name: A.C. PIERCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.C.+PIERCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20865
+Name: A.C. PIERCE
+Date: 1915, Aug 15
+Location: S. Fox Isl.
+Search URL: https://www.newspapers.com/search/?query=%22A.C.+PIERCE%22+shipwreck+OR+sinking+OR+wreck+S.+Fox+Isl.&sort=date_asc&dateStart=1905-01-01&dateEnd=1925-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16981
+Name: A.D. PATCHIN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.D.+PATCHIN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21864
+Name: A.D. PATCHIN
+Date: 1850, Sep 27 [often seen in error as 1853]
+Location: Skillagalee Reef*
+Search URL: https://www.newspapers.com/search/?query=%22A.D.+PATCHIN%22+shipwreck+OR+sinking+OR+wreck+Skillagalee+Reef%2A&sort=date_asc&dateStart=1840-01-01&dateEnd=1860-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16163
+Name: A.F. BARTLETT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.F.+BARTLETT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21046
+Name: A.F. BARTLETT
+Date: 1888, Sep
+Location: at Duluth
+Search URL: https://www.newspapers.com/search/?query=%22A.F.+BARTLETT%22+shipwreck+OR+sinking+OR+wreck+at+Duluth&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14870
+Name: A.G. RYAN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.G.+RYAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19753
+Name: A.G. RYAN
+Date: 1886, Sep 3
+Location: off Capt. John's Isl., Bay of Quinte
+Search URL: https://www.newspapers.com/search/?query=%22A.G.+RYAN%22+shipwreck+OR+sinking+OR+wreck+off+Capt.+John%27s+Isl.%2C+Bay+of+Quinte&sort=date_asc&dateStart=1876-01-01&dateEnd=1896-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18823
+Name: A.H. JENNIE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.H.+JENNIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23706
+Name: A.H. JENNIE
+Date: 1900, Nov 21
+Location: off Pickering, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22A.H.+JENNIE%22+shipwreck+OR+sinking+OR+wreck+off+Pickering%2C+Ont.&sort=date_asc&dateStart=1890-01-01&dateEnd=1910-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17971
+Name: A.H. MOSS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.H.+MOSS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22854
+Name: A.H. MOSS
+Date: 1887, Oct 29
+Location: near Presque Isle
+Search URL: https://www.newspapers.com/search/?query=%22A.H.+MOSS%22+shipwreck+OR+sinking+OR+wreck+near+Presque+Isle&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19339
+Name: A.J. McBRIER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.J.+McBRIER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24222
+Name: A.J. McBRIER
+Date: 1907, May 10
+Location: Maxon Mill, Georgian Bay
+Search URL: https://www.newspapers.com/search/?query=%22A.J.+McBRIER%22+shipwreck+OR+sinking+OR+wreck+Maxon+Mill%2C+Georgian+Bay&sort=date_asc&dateStart=1897-01-01&dateEnd=1917-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19029
+Name: A.L. HAZELTON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.L.+HAZELTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23912
+Name: A.L. HAZELTON
+Date: 1860, Sep 8
+Location: about 10 miles off Cleveland
+Search URL: https://www.newspapers.com/search/?query=%22A.L.+HAZELTON%22+shipwreck+OR+sinking+OR+wreck+about+10+miles+off+Cleveland&sort=date_asc&dateStart=1850-01-01&dateEnd=1870-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17552
+Name: A.L. HOPKINS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.L.+HOPKINS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22435
+Name: A.L. HOPKINS
+Date: 1911, Oct 3
+Location: off Ontonagon, MI
+Search URL: https://www.newspapers.com/search/?query=%22A.L.+HOPKINS%22+shipwreck+OR+sinking+OR+wreck+off+Ontonagon%2C+MI&sort=date_asc&dateStart=1901-01-01&dateEnd=1921-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15486
+Name: A.N. PIKE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.N.+PIKE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20369
+Name: A.N. PIKE
+Date: 1879, Jan 3
+Location: Thames R., just below Chatham
+Search URL: https://www.newspapers.com/search/?query=%22A.N.+PIKE%22+shipwreck+OR+sinking+OR+wreck+Thames+R.%2C+just+below+Chatham&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17866
+Name: A.P. NICHOLS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.P.+NICHOLS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22749
+Name: A.P. NICHOLS
+Date: 1892, Oct 28
+Location: Pilot Isl., Green Bay
+Search URL: https://www.newspapers.com/search/?query=%22A.P.+NICHOLS%22+shipwreck+OR+sinking+OR+wreck+Pilot+Isl.%2C+Green+Bay&sort=date_asc&dateStart=1882-01-01&dateEnd=1902-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14886
+Name: A.S. FIELD
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.S.+FIELD%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19769
+Name: A.S. FIELD
+Date: 1860, Jul 6
+Location: at Detroit at the foot of Bates St.
+Search URL: https://www.newspapers.com/search/?query=%22A.S.+FIELD%22+shipwreck+OR+sinking+OR+wreck+at+Detroit+at+the+foot+of+Bates+St.&sort=date_asc&dateStart=1850-01-01&dateEnd=1870-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15996
+Name: A.S. PIPER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.S.+PIPER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20879
+Name: A.S. PIPER
+Date: 1890, Oct 14
+Location: at Sturgeon Bay, Wis.
+Search URL: https://www.newspapers.com/search/?query=%22A.S.+PIPER%22+shipwreck+OR+sinking+OR+wreck+at+Sturgeon+Bay%2C+Wis.&sort=date_asc&dateStart=1880-01-01&dateEnd=1900-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17594
+Name: A.T. BLISS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.T.+BLISS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22477
+Name: A.T. BLISS
+Date: 1903, Nov 4
+Location: 10 mi NW of Ludington, MI
+Search URL: https://www.newspapers.com/search/?query=%22A.T.+BLISS%22+shipwreck+OR+sinking+OR+wreck+10+mi+NW+of+Ludington%2C+MI&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15933
+Name: A.T. KELLY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.T.+KELLY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20816
+Name: A.T. KELLY
+Date: 1885, Nov 14
+Location: at dock at Harsen's Isl.
+Search URL: https://www.newspapers.com/search/?query=%22A.T.+KELLY%22+shipwreck+OR+sinking+OR+wreck+at+dock+at+Harsen%27s+Isl.&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15625
+Name: A.V. KNICKERBOCKER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.V.+KNICKERBOCKER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20508
+Name: A.V. KNICKERBOCKER
+Date: 1855, Aug 26
+Location: 6 mi of Port Washington, WI
+Search URL: https://www.newspapers.com/search/?query=%22A.V.+KNICKERBOCKER%22+shipwreck+OR+sinking+OR+wreck+6+mi+of+Port+Washington%2C+WI&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17169
+Name: A.W. COMSTOCK
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.W.+COMSTOCK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22052
+Name: A.W. COMSTOCK
+Date: 1895, Sep 23
+Location: 18 mi off Stannard Rock, E of Keweenaw Pen.
+Search URL: https://www.newspapers.com/search/?query=%22A.W.+COMSTOCK%22+shipwreck+OR+sinking+OR+wreck+18+mi+off+Stannard+Rock%2C+E+of+Keweenaw+Pen.&sort=date_asc&dateStart=1885-01-01&dateEnd=1905-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15477
+Name: A.W. LAWRENCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22A.W.+LAWRENCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20360
+Name: A.W. LAWRENCE
+Date: 1888, Oct 31
+Location: off North Point, near Milwaukee
+Search URL: https://www.newspapers.com/search/?query=%22A.W.+LAWRENCE%22+shipwreck+OR+sinking+OR+wreck+off+North+Point%2C+near+Milwaukee&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18872
+Name: ABBEY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABBEY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23755
+Name: ABBEY
+Date: 1851, Oct 5
+Location: near Black River, Oh
+Search URL: https://www.newspapers.com/search/?query=%22ABBEY%22+shipwreck+OR+sinking+OR+wreck+near+Black+River%2C+Oh&sort=date_asc&dateStart=1841-01-01&dateEnd=1861-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15025
+Name: ABBIE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABBIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19908
+Name: ABBIE
+Date: 1905, Nov 8
+Location: Portage Lake entry, near Manistee, MI
+Search URL: https://www.newspapers.com/search/?query=%22ABBIE%22+shipwreck+OR+sinking+OR+wreck+Portage+Lake+entry%2C+near+Manistee%2C+MI&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18606
+Name: ABERCORN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABERCORN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23489
+Name: ABERCORN
+Date: 1904, Sep 5
+Location: At Goderich, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ABERCORN%22+shipwreck+OR+sinking+OR+wreck+At+Goderich%2C+Ont.&sort=date_asc&dateStart=1894-01-01&dateEnd=1914-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19315
+Name: ABERDEEN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABERDEEN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24198
+Name: ABERDEEN
+Date: 1918, Mar 11
+Location: At Picton, Ont., Bay of Quinte
+Search URL: https://www.newspapers.com/search/?query=%22ABERDEEN%22+shipwreck+OR+sinking+OR+wreck+At+Picton%2C+Ont.%2C+Bay+of+Quinte&sort=date_asc&dateStart=1908-01-01&dateEnd=1928-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15066
+Name: ABERNETHY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABERNETHY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19949
+Name: ABERNETHY
+Date: 1914, Oct 24
+Location: Pelee Isl., Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ABERNETHY%22+shipwreck+OR+sinking+OR+wreck+Pelee+Isl.%2C+Ont.&sort=date_asc&dateStart=1904-01-01&dateEnd=1924-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18367
+Name: ABIAH
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABIAH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23250
+Name: ABIAH
+Date: 1854, Sep 1
+Location: about 10 miles off Sheboygan, WI
+Search URL: https://www.newspapers.com/search/?query=%22ABIAH%22+shipwreck+OR+sinking+OR+wreck+about+10+miles+off+Sheboygan%2C+WI&sort=date_asc&dateStart=1844-01-01&dateEnd=1864-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14704
+Name: ABIGAIL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABIGAIL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19587
+Name: ABIGAIL
+Date: 1892
+Location: Main part of Georgian Bay or North Channel
+Search URL: https://www.newspapers.com/search/?query=%22ABIGAIL%22+shipwreck+OR+sinking+OR+wreck+Main+part+of+Georgian+Bay+or+North+Channel&sort=date_asc&dateStart=1882-01-01&dateEnd=1902-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17846
+Name: ABRAM SMITH
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABRAM+SMITH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22729
+Name: ABRAM SMITH
+Date: 1906, Oct 8
+Location: Great Duck Island, W of Manitoulin
+Search URL: https://www.newspapers.com/search/?query=%22ABRAM+SMITH%22+shipwreck+OR+sinking+OR+wreck+Great+Duck+Island%2C+W+of+Manitoulin&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16674
+Name: ABYSSINIA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ABYSSINIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21557
+Name: ABYSSINIA
+Date: 1917, Oct 18
+Location: Tecumseh Reef, near Buffalo
+Search URL: https://www.newspapers.com/search/?query=%22ABYSSINIA%22+shipwreck+OR+sinking+OR+wreck+Tecumseh+Reef%2C+near+Buffalo&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19256
+Name: ACACIA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACACIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24139
+Name: ACACIA
+Date: 1903, May 2
+Location: Duck Islands
+Search URL: https://www.newspapers.com/search/?query=%22ACACIA%22+shipwreck+OR+sinking+OR+wreck+Duck+Islands&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17484
+Name: ACADIA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACADIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22367
+Name: ACADIA
+Date: 1896, Nov 5
+Location: Near mouth of Michipicoten R., Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ACADIA%22+shipwreck+OR+sinking+OR+wreck+Near+mouth+of+Michipicoten+R.%2C+Ont.&sort=date_asc&dateStart=1886-01-01&dateEnd=1906-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15629
+Name: ACME
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17286
+Name: ACME
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18664
+Name: ACME
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20512
+Name: ACME
+Date: 1902, Apr 15
+Location: near Buffalo
+Search URL: https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck+near+Buffalo&sort=date_asc&dateStart=1892-01-01&dateEnd=1912-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22169
+Name: ACME
+Date: 1867, Nov 5 (Mar 4 also given, in error)
+Location: 15 mi NNE of Dunkirk, NY
+Search URL: https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck+15+mi+NNE+of+Dunkirk%2C+NY&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 23547
+Name: ACME
+Date: 1893, Oct 14
+Location: 25 mi from Black River, MI
+Search URL: https://www.newspapers.com/search/?query=%22ACME%22+shipwreck+OR+sinking+OR+wreck+25+mi+from+Black+River%2C+MI&sort=date_asc&dateStart=1883-01-01&dateEnd=1903-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18190
+Name: ACONTIAS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACONTIAS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23073
+Name: ACONTIAS
+Date: 1887, Oct 28
+Location: at Presque Isle, MI
+Search URL: https://www.newspapers.com/search/?query=%22ACONTIAS%22+shipwreck+OR+sinking+OR+wreck+at+Presque+Isle%2C+MI&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14928
+Name: ACORN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACORN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 15116
+Name: ACORN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACORN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19811
+Name: ACORN
+Date: 1869, Oct 26
+Location: 1 mi E of Oswego harbor
+Search URL: https://www.newspapers.com/search/?query=%22ACORN%22+shipwreck+OR+sinking+OR+wreck+1+mi+E+of+Oswego+harbor&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19999
+Name: ACORN
+Date: 1849, July 31
+Location: near West Sister Island
+Search URL: https://www.newspapers.com/search/?query=%22ACORN%22+shipwreck+OR+sinking+OR+wreck+near+West+Sister+Island&sort=date_asc&dateStart=1839-01-01&dateEnd=1859-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15573
+Name: ACTIVE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACTIVE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16125
+Name: ACTIVE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ACTIVE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20456
+Name: ACTIVE
+Date: 1898, Sep 29
+Location: just off Ford River, Wis
+Search URL: https://www.newspapers.com/search/?query=%22ACTIVE%22+shipwreck+OR+sinking+OR+wreck+just+off+Ford+River%2C+Wis&sort=date_asc&dateStart=1888-01-01&dateEnd=1908-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21008
+Name: ACTIVE
+Date: 1855, Oct 10
+Location: off Port Washington, Wisc.
+Search URL: https://www.newspapers.com/search/?query=%22ACTIVE%22+shipwreck+OR+sinking+OR+wreck+off+Port+Washington%2C+Wisc.&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16042
+Name: ADA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19348
+Name: ADA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20925
+Name: ADA
+Date: 1894, Sep 26
+Location: at Manistique, Mich
+Search URL: https://www.newspapers.com/search/?query=%22ADA%22+shipwreck+OR+sinking+OR+wreck+at+Manistique%2C+Mich&sort=date_asc&dateStart=1884-01-01&dateEnd=1904-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24231
+Name: ADA
+Date: 1859
+Location: near Collingwood, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ADA%22+shipwreck+OR+sinking+OR+wreck+near+Collingwood%2C+Ont.&sort=date_asc&dateStart=1849-01-01&dateEnd=1869-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14963
+Name: ADA E. ALLEN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADA+E.+ALLEN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19846
+Name: ADA E. ALLEN
+Date: 1887, Sep 22
+Location: Heard's dock, near Amherstburg, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ADA+E.+ALLEN%22+shipwreck+OR+sinking+OR+wreck+Heard%27s+dock%2C+near+Amherstburg%2C+Ont.&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18052
+Name: ADA MEDORA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADA+MEDORA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22935
+Name: ADA MEDORA
+Date: 1906, Oct 6
+Location: on Buffalo breakwater
+Search URL: https://www.newspapers.com/search/?query=%22ADA+MEDORA%22+shipwreck+OR+sinking+OR+wreck+on+Buffalo+breakwater&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15544
+Name: ADAM AINSLIE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADAM+AINSLIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20427
+Name: ADAM AINSLIE
+Date: 1898, Aug
+Location: South Bay, Ont
+Search URL: https://www.newspapers.com/search/?query=%22ADAM+AINSLIE%22+shipwreck+OR+sinking+OR+wreck+South+Bay%2C+Ont&sort=date_asc&dateStart=1888-01-01&dateEnd=1908-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19010
+Name: ADAM SCHUMANN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADAM+SCHUMANN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23893
+Name: ADAM SCHUMANN
+Date: 1926, Nov 5
+Location: off Erie, PA
+Search URL: https://www.newspapers.com/search/?query=%22ADAM+SCHUMANN%22+shipwreck+OR+sinking+OR+wreck+off+Erie%2C+PA&sort=date_asc&dateStart=1916-01-01&dateEnd=1936-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15014
+Name: ADDA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19897
+Name: ADDA
+Date: 1872, Aug 28
+Location: unreported
+Search URL: https://www.newspapers.com/search/?query=%22ADDA%22+shipwreck+OR+sinking+OR+wreck+unreported&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15343
+Name: ADDAIN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADDAIN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20226
+Name: ADDAIN
+Date: 1890, Oct 18
+Location: near Grindstone City, MI
+Search URL: https://www.newspapers.com/search/?query=%22ADDAIN%22+shipwreck+OR+sinking+OR+wreck+near+Grindstone+City%2C+MI&sort=date_asc&dateStart=1880-01-01&dateEnd=1900-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15702
+Name: ADDIE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADDIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20585
+Name: ADDIE
+Date: 1897, Oct 5
+Location: near Frankfort, MI
+Search URL: https://www.newspapers.com/search/?query=%22ADDIE%22+shipwreck+OR+sinking+OR+wreck+near+Frankfort%2C+MI&sort=date_asc&dateStart=1887-01-01&dateEnd=1907-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19505
+Name: ADDIE B
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADDIE+B%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24388
+Name: ADDIE B
+Date: 1888, Nov 28 or 29
+Location: near Caseville, MI
+Search URL: https://www.newspapers.com/search/?query=%22ADDIE+B%22+shipwreck+OR+sinking+OR+wreck+near+Caseville%2C+MI&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15846
+Name: ADDIE MEMBERY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADDIE+MEMBERY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20729
+Name: ADDIE MEMBERY
+Date: 1885, Oct 29
+Location: harbor entrance at Oswego, NY
+Search URL: https://www.newspapers.com/search/?query=%22ADDIE+MEMBERY%22+shipwreck+OR+sinking+OR+wreck+harbor+entrance+at+Oswego%2C+NY&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19135
+Name: ADELAIDE HORTON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADELAIDE+HORTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24018
+Name: ADELAIDE HORTON
+Date: 1871, Oct 22
+Location: Kincardine, Ont. harbor
+Search URL: https://www.newspapers.com/search/?query=%22ADELAIDE+HORTON%22+shipwreck+OR+sinking+OR+wreck+Kincardine%2C+Ont.+harbor&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16161
+Name: ADELE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADELE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21044
+Name: ADELE
+Date: 1936
+Location: Drummond Island, MI
+Search URL: https://www.newspapers.com/search/?query=%22ADELE%22+shipwreck+OR+sinking+OR+wreck+Drummond+Island%2C+MI&sort=date_asc&dateStart=1926-01-01&dateEnd=1946-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16157
+Name: ADELL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21040
+Name: ADELL
+Date: 1869, Nov 16
+Location: 1/2 mile below Bay View pier, WI [near Milwaukee]
+Search URL: https://www.newspapers.com/search/?query=%22ADELL%22+shipwreck+OR+sinking+OR+wreck+1%2F2+mile+below+Bay+View+pier%2C+WI+%5Bnear+Milwaukee%5D&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17235
+Name: ADELLA SHORES
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADELLA+SHORES%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22118
+Name: ADELLA SHORES
+Date: 1909, May 1
+Location: somewhere off Whitefish Point
+Search URL: https://www.newspapers.com/search/?query=%22ADELLA+SHORES%22+shipwreck+OR+sinking+OR+wreck+somewhere+off+Whitefish+Point&sort=date_asc&dateStart=1899-01-01&dateEnd=1919-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17215
+Name: ADIRAMLED
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADIRAMLED%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22098
+Name: ADIRAMLED
+Date: 1912, Jun 18
+Location: 6 miles E of Stoney Isl., Dutch John Bay
+Search URL: https://www.newspapers.com/search/?query=%22ADIRAMLED%22+shipwreck+OR+sinking+OR+wreck+6+miles+E+of+Stoney+Isl.%2C+Dutch+John+Bay&sort=date_asc&dateStart=1902-01-01&dateEnd=1922-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18027
+Name: ADIRONDACK
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADIRONDACK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22910
+Name: ADIRONDACK
+Date: 1893, Sep 14
+Location: South Manitou Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ADIRONDACK%22+shipwreck+OR+sinking+OR+wreck+South+Manitou+Isl.&sort=date_asc&dateStart=1883-01-01&dateEnd=1903-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14877
+Name: ADMIRAL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16135
+Name: ADMIRAL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17608
+Name: ADMIRAL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19760
+Name: ADMIRAL
+Date: 1942, Dec 2
+Location: Off Avon Pt., Cleveland
+Search URL: https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck+Off+Avon+Pt.%2C+Cleveland&sort=date_asc&dateStart=1932-01-01&dateEnd=1952-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21018
+Name: ADMIRAL
+Date: 1884, Dec 31
+Location: Chicago River near 22nd St. (now Cermak Dr.)
+Search URL: https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck+Chicago+River+near+22nd+St.+%28now+Cermak+Dr.%29&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22491
+Name: ADMIRAL
+Date: 1867, Nov 4
+Location: near Toronto
+Search URL: https://www.newspapers.com/search/?query=%22ADMIRAL%22+shipwreck+OR+sinking+OR+wreck+near+Toronto&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17452
+Name: ADRIATIC
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADRIATIC%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22335
+Name: ADRIATIC
+Date: 1872, Sep 29
+Location: near Long Point.
+Search URL: https://www.newspapers.com/search/?query=%22ADRIATIC%22+shipwreck+OR+sinking+OR+wreck+near+Long+Point.&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16123
+Name: ADVANCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16139
+Name: ADVANCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17489
+Name: ADVANCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17642
+Name: ADVANCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18003
+Name: ADVANCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18806
+Name: ADVANCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21006
+Name: ADVANCE
+Date: 1903, Oct 25
+Location: Between Spanish River and the Soo
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+Between+Spanish+River+and+the+Soo&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21022
+Name: ADVANCE
+Date: 1871, Jul 12
+Location: near Put-in-Bay, S. Bass Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+near+Put-in-Bay%2C+S.+Bass+Isl.&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22372
+Name: ADVANCE
+Date: 1927, May 12
+Location: Manitoulin Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+Manitoulin+Isl.&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22525
+Name: ADVANCE
+Date: 1872, Sep 29*
+Location: Nicholson Isl., near Port Union, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+Nicholson+Isl.%2C+near+Port+Union%2C+Ont.&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22886
+Name: ADVANCE
+Date: 1921, Oct 19
+Location: at Sand Bay, Wis.
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+at+Sand+Bay%2C+Wis.&sort=date_asc&dateStart=1911-01-01&dateEnd=1931-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 23689
+Name: ADVANCE
+Date: 1885, Sep 8
+Location: 10 mi N. of Port Washington, WI
+Search URL: https://www.newspapers.com/search/?query=%22ADVANCE%22+shipwreck+OR+sinking+OR+wreck+10+mi+N.+of+Port+Washington%2C+WI&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19081
+Name: ADVENTURE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVENTURE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19506
+Name: ADVENTURE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVENTURE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23964
+Name: ADVENTURE
+Date: 1903, Oct 7
+Location: at Kelley's Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ADVENTURE%22+shipwreck+OR+sinking+OR+wreck+at+Kelley%27s+Isl.&sort=date_asc&dateStart=1893-01-01&dateEnd=1913-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24389
+Name: ADVENTURE
+Date: 1848, Oct
+Location: off Grand River, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ADVENTURE%22+shipwreck+OR+sinking+OR+wreck+off+Grand+River%2C+Ont.&sort=date_asc&dateStart=1838-01-01&dateEnd=1858-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16046
+Name: ADVENTURER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ADVENTURER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20929
+Name: ADVENTURER
+Date: 1906, Dec 16
+Location: near Ontonagon , MI
+Search URL: https://www.newspapers.com/search/?query=%22ADVENTURER%22+shipwreck+OR+sinking+OR+wreck+near+Ontonagon+%2C+MI&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16568
+Name: AETNA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AETNA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21451
+Name: AETNA
+Date: 1890
+Location: Manitou Passage
+Search URL: https://www.newspapers.com/search/?query=%22AETNA%22+shipwreck+OR+sinking+OR+wreck+Manitou+Passage&sort=date_asc&dateStart=1880-01-01&dateEnd=1900-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17836
+Name: AFRICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AFRICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22719
+Name: AFRICA
+Date: 1895, Oct 5
+Location: 15 mi S of Cove Isl. light
+Search URL: https://www.newspapers.com/search/?query=%22AFRICA%22+shipwreck+OR+sinking+OR+wreck+15+mi+S+of+Cove+Isl.+light&sort=date_asc&dateStart=1885-01-01&dateEnd=1905-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19474
+Name: AGATE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGATE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24357
+Name: AGATE
+Date: 1857, late Nov
+Location: near Presque Isle, MI
+Search URL: https://www.newspapers.com/search/?query=%22AGATE%22+shipwreck+OR+sinking+OR+wreck+near+Presque+Isle%2C+MI&sort=date_asc&dateStart=1847-01-01&dateEnd=1867-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16429
+Name: AGAWA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGAWA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21312
+Name: AGAWA
+Date: 1927, Dec 7
+Location: Manitoulin Isl
+Search URL: https://www.newspapers.com/search/?query=%22AGAWA%22+shipwreck+OR+sinking+OR+wreck+Manitoulin+Isl&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16731
+Name: AGNES
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGNES%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21614
+Name: AGNES
+Date: 1912, Oct 7
+Location: at Arcadia, Mich
+Search URL: https://www.newspapers.com/search/?query=%22AGNES%22+shipwreck+OR+sinking+OR+wreck+at+Arcadia%2C+Mich&sort=date_asc&dateStart=1902-01-01&dateEnd=1922-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15607
+Name: AGNES ARNOLD
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+ARNOLD%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20490
+Name: AGNES ARNOLD
+Date: 1898, May 30
+Location: Chambers Island, Green Bay
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+ARNOLD%22+shipwreck+OR+sinking+OR+wreck+Chambers+Island%2C+Green+Bay&sort=date_asc&dateStart=1888-01-01&dateEnd=1908-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14900
+Name: AGNES BARTON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+BARTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19783
+Name: AGNES BARTON
+Date: 1855, Aug 7
+Location: near Conneaut, OH
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+BARTON%22+shipwreck+OR+sinking+OR+wreck+near+Conneaut%2C+OH&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15028
+Name: AGNES E. MARSILLIOT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+E.+MARSILLIOT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19911
+Name: AGNES E. MARSILLIOT
+Date: 1860, Sep 24
+Location: 7 mi below Port Stanley.
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+E.+MARSILLIOT%22+shipwreck+OR+sinking+OR+wreck+7+mi+below+Port+Stanley.&sort=date_asc&dateStart=1850-01-01&dateEnd=1870-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18773
+Name: AGNES HOPE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+HOPE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23656
+Name: AGNES HOPE
+Date: 1884, Nov 7*
+Location: near Oswego, NY
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+HOPE%22+shipwreck+OR+sinking+OR+wreck+near+Oswego%2C+NY&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18366
+Name: AGNES L. POTTER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+L.+POTTER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23249
+Name: AGNES L. POTTER
+Date: 1906, Aug 28
+Location: off Cleveland
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+L.+POTTER%22+shipwreck+OR+sinking+OR+wreck+off+Cleveland&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16762
+Name: AGNES W
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+W%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21645
+Name: AGNES W
+Date: 1918, Jul 12
+Location: Canada Point, Drummond Isl.
+Search URL: https://www.newspapers.com/search/?query=%22AGNES+W%22+shipwreck+OR+sinking+OR+wreck+Canada+Point%2C+Drummond+Isl.&sort=date_asc&dateStart=1908-01-01&dateEnd=1928-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15496
+Name: AHNAPEE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AHNAPEE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20379
+Name: AHNAPEE
+Date: 1884, Jun 9
+Location: 2.5 mi N. of Sheboygan, WI
+Search URL: https://www.newspapers.com/search/?query=%22AHNAPEE%22+shipwreck+OR+sinking+OR+wreck+2.5+mi+N.+of+Sheboygan%2C+WI&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15908
+Name: AHTEEK
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AHTEEK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20791
+Name: AHTEEK
+Date: 1911, Nov 22
+Location: near Bamford Light, St. Joseph Channel
+Search URL: https://www.newspapers.com/search/?query=%22AHTEEK%22+shipwreck+OR+sinking+OR+wreck+near+Bamford+Light%2C+St.+Joseph+Channel&sort=date_asc&dateStart=1901-01-01&dateEnd=1921-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19059
+Name: AIMEE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AIMEE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23942
+Name: AIMEE
+Date: 1880, Nov 20
+Location: off Thunder Bay Island
+Search URL: https://www.newspapers.com/search/?query=%22AIMEE%22+shipwreck+OR+sinking+OR+wreck+off+Thunder+Bay+Island&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19052
+Name: AINSWORTH
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AINSWORTH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23935
+Name: AINSWORTH
+Date: 1846, Nov 20
+Location: off Fort Ontario, Oswego, NY
+Search URL: https://www.newspapers.com/search/?query=%22AINSWORTH%22+shipwreck+OR+sinking+OR+wreck+off+Fort+Ontario%2C+Oswego%2C+NY&sort=date_asc&dateStart=1836-01-01&dateEnd=1856-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19114
+Name: AJAX
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AJAX%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23997
+Name: AJAX
+Date: 1872, Aug 9
+Location: Saginaw Bay
+Search URL: https://www.newspapers.com/search/?query=%22AJAX%22+shipwreck+OR+sinking+OR+wreck+Saginaw+Bay&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14929
+Name: ALABAMA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALABAMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16932
+Name: ALABAMA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALABAMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19812
+Name: ALABAMA
+Date: 1843, Oct 17
+Location: at Fairport, OH
+Search URL: https://www.newspapers.com/search/?query=%22ALABAMA%22+shipwreck+OR+sinking+OR+wreck+at+Fairport%2C+OH&sort=date_asc&dateStart=1833-01-01&dateEnd=1853-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21815
+Name: ALABAMA
+Date: 1854, Aug 28
+Location: just outside the harbor at Buffalo, NY
+Search URL: https://www.newspapers.com/search/?query=%22ALABAMA%22+shipwreck+OR+sinking+OR+wreck+just+outside+the+harbor+at+Buffalo%2C+NY&sort=date_asc&dateStart=1844-01-01&dateEnd=1864-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17631
+Name: ALASKA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALASKA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18631
+Name: ALASKA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALASKA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22514
+Name: ALASKA
+Date: 1910, Dec 24
+Location: a few miles from Tobermorey, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALASKA%22+shipwreck+OR+sinking+OR+wreck+a+few+miles+from+Tobermorey%2C+Ont.&sort=date_asc&dateStart=1900-01-01&dateEnd=1920-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 23514
+Name: ALASKA
+Date: 1884, Sep 18
+Location: Scott's Point, 20 miles north of Beaver Island Straits of Mackinac*
+Search URL: https://www.newspapers.com/search/?query=%22ALASKA%22+shipwreck+OR+sinking+OR+wreck+Scott%27s+Point%2C+20+miles+north+of+Beaver+Island+Straits+of+Mackinac%2A&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18176
+Name: ALBACORE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBACORE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23059
+Name: ALBACORE
+Date: 1900, Sep 12
+Location: just east of Oswego, NY*
+Search URL: https://www.newspapers.com/search/?query=%22ALBACORE%22+shipwreck+OR+sinking+OR+wreck+just+east+of+Oswego%2C+NY%2A&sort=date_asc&dateStart=1890-01-01&dateEnd=1910-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16744
+Name: ALBANY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17158
+Name: ALBANY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19495
+Name: ALBANY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21627
+Name: ALBANY
+Date: 1893, Nov 7
+Location: A few miles off Pte Aux Barques, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck+A+few+miles+off+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1883-01-01&dateEnd=1903-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22041
+Name: ALBANY
+Date: 1853, Nov 26
+Location: near Presque Isle, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck+near+Presque+Isle%2C+MI&sort=date_asc&dateStart=1843-01-01&dateEnd=1863-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24378
+Name: ALBANY
+Date: 1843, Oct 1
+Location: Straits of Mackinac, a few miles from Mackinaw City
+Search URL: https://www.newspapers.com/search/?query=%22ALBANY%22+shipwreck+OR+sinking+OR+wreck+Straits+of+Mackinac%2C+a+few+miles+from+Mackinaw+City&sort=date_asc&dateStart=1833-01-01&dateEnd=1853-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17579
+Name: ALBATROS IV
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBATROS+IV%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22462
+Name: ALBATROS IV
+Date: 1953, Aug 22
+Location: Toronto Harbour
+Search URL: https://www.newspapers.com/search/?query=%22ALBATROS+IV%22+shipwreck+OR+sinking+OR+wreck+Toronto+Harbour&sort=date_asc&dateStart=1943-01-01&dateEnd=1963-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14912
+Name: ALBATROSS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBATROSS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18157
+Name: ALBATROSS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBATROSS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19795
+Name: ALBATROSS
+Date: 1880, Nov 7
+Location: near Wellington, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALBATROSS%22+shipwreck+OR+sinking+OR+wreck+near+Wellington%2C+Ont.&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 23040
+Name: ALBATROSS
+Date: 1911, Aug 21
+Location: Georgian Bay
+Search URL: https://www.newspapers.com/search/?query=%22ALBATROSS%22+shipwreck+OR+sinking+OR+wreck+Georgian+Bay&sort=date_asc&dateStart=1901-01-01&dateEnd=1921-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17754
+Name: ALBEMARLE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBEMARLE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22637
+Name: ALBEMARLE
+Date: 1867, Nov 6
+Location: Pt. Nipigon, Straits of Mackinac
+Search URL: https://www.newspapers.com/search/?query=%22ALBEMARLE%22+shipwreck+OR+sinking+OR+wreck+Pt.+Nipigon%2C+Straits+of+Mackinac&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17947
+Name: ALBERT MILLER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBERT+MILLER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22830
+Name: ALBERT MILLER
+Date: 1882, Aug 30
+Location: near Big Sable Point [also given erroneously as Au Sable Point, L. Huron]
+Search URL: https://www.newspapers.com/search/?query=%22ALBERT+MILLER%22+shipwreck+OR+sinking+OR+wreck+near+Big+Sable+Point+%5Balso+given+erroneously+as+Au+Sable+Point%2C+L.+Huron%5D&sort=date_asc&dateStart=1872-01-01&dateEnd=1892-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15663
+Name: ALBERTA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16580
+Name: ALBERTA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16760
+Name: ALBERTA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19239
+Name: ALBERTA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20546
+Name: ALBERTA
+Date: 1899, Jul 21
+Location: Pymer's Point, Bay of Quinte
+Search URL: https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck+Pymer%27s+Point%2C+Bay+of+Quinte&sort=date_asc&dateStart=1889-01-01&dateEnd=1909-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21463
+Name: ALBERTA
+Date: 1917, Nov 22
+Location: Thunder Bay, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck+Thunder+Bay%2C+Ont.&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21643
+Name: ALBERTA
+Date: 1884, Jul 27
+Location: 3.5 mi from Whitefish Point
+Search URL: https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck+3.5+mi+from+Whitefish+Point&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24122
+Name: ALBERTA
+Date: 1902, Oct 8
+Location: between Belleville and Trenton, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALBERTA%22+shipwreck+OR+sinking+OR+wreck+between+Belleville+and+Trenton%2C+Ont.&sort=date_asc&dateStart=1892-01-01&dateEnd=1912-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18380
+Name: ALBION
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBION%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18927
+Name: ALBION
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALBION%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23263
+Name: ALBION
+Date: 1887, Oct 3
+Location: near Pte Aux Barques, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALBION%22+shipwreck+OR+sinking+OR+wreck+near+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 23810
+Name: ALBION
+Date: 1858, Oct 8
+Location: 12 mi N by E from Erie, PA. light, 12 mi out
+Search URL: https://www.newspapers.com/search/?query=%22ALBION%22+shipwreck+OR+sinking+OR+wreck+12+mi+N+by+E+from+Erie%2C+PA.+light%2C+12+mi+out&sort=date_asc&dateStart=1848-01-01&dateEnd=1868-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16842
+Name: ALDEBARAN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALDEBARAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21725
+Name: ALDEBARAN
+Date: 1876, Oct 2
+Location: near Amherstburg, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALDEBARAN%22+shipwreck+OR+sinking+OR+wreck+near+Amherstburg%2C+Ont.&sort=date_asc&dateStart=1866-01-01&dateEnd=1886-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17899
+Name: ALERT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALERT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22782
+Name: ALERT
+Date: 1904, Sep 16
+Location: near S. Manitou Isl
+Search URL: https://www.newspapers.com/search/?query=%22ALERT%22+shipwreck+OR+sinking+OR+wreck+near+S.+Manitou+Isl&sort=date_asc&dateStart=1894-01-01&dateEnd=1914-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16323
+Name: ALETHA B
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALETHA+B%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21206
+Name: ALETHA B
+Date: 1974
+Location: ?
+Search URL: https://www.newspapers.com/search/?query=%22ALETHA+B%22+shipwreck+OR+sinking+OR+wreck+%3F&sort=date_asc&dateStart=1964-01-01&dateEnd=1984-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14959
+Name: ALEX WATSON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALEX+WATSON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19842
+Name: ALEX WATSON
+Date: 1871, Jun 27
+Location: At Lambton, Ont. (Baby's Point also given)
+Search URL: https://www.newspapers.com/search/?query=%22ALEX+WATSON%22+shipwreck+OR+sinking+OR+wreck+At+Lambton%2C+Ont.+%28Baby%27s+Point+also+given%29&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16626
+Name: ALEX. NIMICK
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALEX.+NIMICK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21509
+Name: ALEX. NIMICK
+Date: 1907, Sep 20
+Location: near mouth of Two-hearted River, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALEX.+NIMICK%22+shipwreck+OR+sinking+OR+wreck+near+mouth+of+Two-hearted+River%2C+MI&sort=date_asc&dateStart=1897-01-01&dateEnd=1917-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19210
+Name: ALEXANDER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24093
+Name: ALEXANDER
+Date: 1879, Oct 4
+Location: 4 mi from Belle River, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDER%22+shipwreck+OR+sinking+OR+wreck+4+mi+from+Belle+River%2C+Ont.&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16455
+Name: ALEXANDER MAITLAND
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDER+MAITLAND%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21338
+Name: ALEXANDER MAITLAND
+Date: 1924, Dec 9
+Location: Port Huron, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDER+MAITLAND%22+shipwreck+OR+sinking+OR+wreck+Port+Huron%2C+MI&sort=date_asc&dateStart=1914-01-01&dateEnd=1934-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17349
+Name: ALEXANDER MITCHELL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDER+MITCHELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22232
+Name: ALEXANDER MITCHELL
+Date: 1866, Oct 22
+Location: at White Lake, Mich
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDER+MITCHELL%22+shipwreck+OR+sinking+OR+wreck+at+White+Lake%2C+Mich&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14755
+Name: ALEXANDRA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDRA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19638
+Name: ALEXANDRA
+Date: 1927, Dec 19
+Location: Little Current, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDRA%22+shipwreck+OR+sinking+OR+wreck+Little+Current%2C+Ont.&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17511
+Name: ALEXANDRIA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDRIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22394
+Name: ALEXANDRIA
+Date: 1915, Aug 3
+Location: under Scarborough Bluffs, E of Toronto
+Search URL: https://www.newspapers.com/search/?query=%22ALEXANDRIA%22+shipwreck+OR+sinking+OR+wreck+under+Scarborough+Bluffs%2C+E+of+Toronto&sort=date_asc&dateStart=1905-01-01&dateEnd=1925-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17691
+Name: ALFRED ALLEN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+ALLEN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22574
+Name: ALFRED ALLEN
+Date: 1869, Oct 27
+Location: Mohawk Reef, near Port Colborne, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+ALLEN%22+shipwreck+OR+sinking+OR+wreck+Mohawk+Reef%2C+near+Port+Colborne%2C+Ont.&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15517
+Name: ALFRED MOSHER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+MOSHER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20400
+Name: ALFRED MOSHER
+Date: 1897, May 16
+Location: at Sturgeon Bay, Wis.
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+MOSHER%22+shipwreck+OR+sinking+OR+wreck+at+Sturgeon+Bay%2C+Wis.&sort=date_asc&dateStart=1887-01-01&dateEnd=1907-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15937
+Name: ALFRED P. WRIGHT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+P.+WRIGHT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16669
+Name: ALFRED P. WRIGHT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+P.+WRIGHT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20820
+Name: ALFRED P. WRIGHT
+Date: 1886, Nov 29
+Location: in harbor at Manistee, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+P.+WRIGHT%22+shipwreck+OR+sinking+OR+wreck+in+harbor+at+Manistee%2C+MI&sort=date_asc&dateStart=1876-01-01&dateEnd=1896-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21552
+Name: ALFRED P. WRIGHT
+Date: 1915, Nov 16
+Location: Portage Ship Canal, near White City, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+P.+WRIGHT%22+shipwreck+OR+sinking+OR+wreck+Portage+Ship+Canal%2C+near+White+City%2C+MI&sort=date_asc&dateStart=1905-01-01&dateEnd=1925-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15652
+Name: ALFRED W
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+W%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20535
+Name: ALFRED W
+Date: 1906, Jun 27
+Location: near Pie Island
+Search URL: https://www.newspapers.com/search/?query=%22ALFRED+W%22+shipwreck+OR+sinking+OR+wreck+near+Pie+Island&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16673
+Name: ALGERIA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALGERIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21556
+Name: ALGERIA
+Date: 1906, May 9
+Location: near Cleveland harbor entrance
+Search URL: https://www.newspapers.com/search/?query=%22ALGERIA%22+shipwreck+OR+sinking+OR+wreck+near+Cleveland+harbor+entrance&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18245
+Name: ALGERINE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALGERINE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23128
+Name: ALGERINE
+Date: 1877, Oct 23
+Location: near Springfield, Pa., 20 mi W of Erie, Pa.
+Search URL: https://www.newspapers.com/search/?query=%22ALGERINE%22+shipwreck+OR+sinking+OR+wreck+near+Springfield%2C+Pa.%2C+20+mi+W+of+Erie%2C+Pa.&sort=date_asc&dateStart=1867-01-01&dateEnd=1887-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16274
+Name: ALGIE O. THAYER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALGIE+O.+THAYER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21157
+Name: ALGIE O. THAYER
+Date: 1879, Nov 17
+Location: 10 mi off Oswego
+Search URL: https://www.newspapers.com/search/?query=%22ALGIE+O.+THAYER%22+shipwreck+OR+sinking+OR+wreck+10+mi+off+Oswego&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16773
+Name: ALGOMA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17653
+Name: ALGOMA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19350
+Name: ALGOMA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21656
+Name: ALGOMA
+Date: 1885, Nov 7
+Location: Isle Royle [Greenstone Isl]
+Search URL: https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck+Isle+Royle+%5BGreenstone+Isl%5D&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22536
+Name: ALGOMA
+Date: 1877, winter
+Location: Collingwood, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck+Collingwood%2C+Ont.&sort=date_asc&dateStart=1867-01-01&dateEnd=1887-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24233
+Name: ALGOMA
+Date: 1918, Nov 18
+Location: Manitowoc, WI, harbor
+Search URL: https://www.newspapers.com/search/?query=%22ALGOMA%22+shipwreck+OR+sinking+OR+wreck+Manitowoc%2C+WI%2C+harbor&sort=date_asc&dateStart=1908-01-01&dateEnd=1928-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15944
+Name: ALGONQUIN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALGONQUIN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20827
+Name: ALGONQUIN
+Date: 1856
+Location: near Duluth
+Search URL: https://www.newspapers.com/search/?query=%22ALGONQUIN%22+shipwreck+OR+sinking+OR+wreck+near+Duluth&sort=date_asc&dateStart=1846-01-01&dateEnd=1866-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16505
+Name: ALGOSOO
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALGOSOO%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21388
+Name: ALGOSOO
+Date: 1965, Nov 27
+Location: Near Whitefish Point
+Search URL: https://www.newspapers.com/search/?query=%22ALGOSOO%22+shipwreck+OR+sinking+OR+wreck+Near+Whitefish+Point&sort=date_asc&dateStart=1955-01-01&dateEnd=1975-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16322
+Name: ALICE BROOKS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+BROOKS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21205
+Name: ALICE BROOKS
+Date: 1885, Dec 7
+Location: mouth of the Saugeen R
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+BROOKS%22+shipwreck+OR+sinking+OR+wreck+mouth+of+the+Saugeen+R&sort=date_asc&dateStart=1875-01-01&dateEnd=1895-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15712
+Name: ALICE CRAIG
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+CRAIG%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20595
+Name: ALICE CRAIG
+Date: 1887, Nov 18
+Location: near Bark Point, Wisconsin shore
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+CRAIG%22+shipwreck+OR+sinking+OR+wreck+near+Bark+Point%2C+Wisconsin+shore&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15529
+Name: ALICE E. GETTY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+E.+GETTY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20412
+Name: ALICE E. GETTY
+Date: 1884, Nov 20
+Location: at Pentwater, Mich
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+E.+GETTY%22+shipwreck+OR+sinking+OR+wreck+at+Pentwater%2C+Mich&sort=date_asc&dateStart=1874-01-01&dateEnd=1894-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18229
+Name: ALICE E. WILDS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+E.+WILDS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23112
+Name: ALICE E. WILDS
+Date: 1892, June 12
+Location: 16 miles off Milwaukee
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+E.+WILDS%22+shipwreck+OR+sinking+OR+wreck+16+miles+off+Milwaukee&sort=date_asc&dateStart=1882-01-01&dateEnd=1902-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15814
+Name: ALICE G
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+G%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20697
+Name: ALICE G
+Date: 1927, Nov
+Location: near Tobermory, Ont
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+G%22+shipwreck+OR+sinking+OR+wreck+near+Tobermory%2C+Ont&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17119
+Name: ALICE GROVER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+GROVER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22002
+Name: ALICE GROVER
+Date: 1866, Jun 17
+Location: near Cleveland
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+GROVER%22+shipwreck+OR+sinking+OR+wreck+near+Cleveland&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15817
+Name: ALICE HACKETT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+HACKETT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20700
+Name: ALICE HACKETT
+Date: 1828, Nov 4
+Location: Fitzwilliam Isl. mouth of Georgian Bay
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+HACKETT%22+shipwreck+OR+sinking+OR+wreck+Fitzwilliam+Isl.+mouth+of+Georgian+Bay&sort=date_asc&dateStart=1818-01-01&dateEnd=1838-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16733
+Name: ALICE L
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+L%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21616
+Name: ALICE L
+Date: 1929, Dec 2
+Location: E of Grand Marais, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+L%22+shipwreck+OR+sinking+OR+wreck+E+of+Grand+Marais%2C+MI&sort=date_asc&dateStart=1919-01-01&dateEnd=1939-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19170
+Name: ALICE M. BEERS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+M.+BEERS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24053
+Name: ALICE M. BEERS
+Date: 1902, Sep 4
+Location: off docks at Glen Arbor, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+M.+BEERS%22+shipwreck+OR+sinking+OR+wreck+off+docks+at+Glen+Arbor%2C+MI&sort=date_asc&dateStart=1892-01-01&dateEnd=1912-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15243
+Name: ALICE MARY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+MARY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20126
+Name: ALICE MARY
+Date: 1882, Apr 24
+Location: Bay of Quinte
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+MARY%22+shipwreck+OR+sinking+OR+wreck+Bay+of+Quinte&sort=date_asc&dateStart=1872-01-01&dateEnd=1892-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15525
+Name: ALICE VIVIAN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+VIVIAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20408
+Name: ALICE VIVIAN
+Date: 1975
+Location: Connie's Landing, St. Louis R., Duluth
+Search URL: https://www.newspapers.com/search/?query=%22ALICE+VIVIAN%22+shipwreck+OR+sinking+OR+wreck+Connie%27s+Landing%2C+St.+Louis+R.%2C+Duluth&sort=date_asc&dateStart=1965-01-01&dateEnd=1985-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15207
+Name: ALIDA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALIDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20090
+Name: ALIDA
+Date: 1867, Dec 20
+Location: Saginaw R.
+Search URL: https://www.newspapers.com/search/?query=%22ALIDA%22+shipwreck+OR+sinking+OR+wreck+Saginaw+R.&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18070
+Name: ALIDE J. ROGERS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALIDE+J.+ROGERS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22953
+Name: ALIDE J. ROGERS
+Date: 1898, Oct 9
+Location: 4.5 mi N of tip of Old Mission Pen., Traverse
+Search URL: https://www.newspapers.com/search/?query=%22ALIDE+J.+ROGERS%22+shipwreck+OR+sinking+OR+wreck+4.5+mi+N+of+tip+of+Old+Mission+Pen.%2C+Traverse&sort=date_asc&dateStart=1888-01-01&dateEnd=1908-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15342
+Name: ALLEGAN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20225
+Name: ALLEGAN
+Date: 1856, Nov
+Location: near Presq'ile, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGAN%22+shipwreck+OR+sinking+OR+wreck+near+Presq%27ile%2C+Ont.&sort=date_asc&dateStart=1846-01-01&dateEnd=1866-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16803
+Name: ALLEGHANY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17602
+Name: ALLEGHANY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHANY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21686
+Name: ALLEGHANY
+Date: 1855, ca. Sep 12
+Location: off Clay Banks, N side of Lake Erie
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHANY%22+shipwreck+OR+sinking+OR+wreck+off+Clay+Banks%2C+N+side+of+Lake+Erie&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22485
+Name: ALLEGHANY
+Date: 1896, Oct 29
+Location: Summer Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHANY%22+shipwreck+OR+sinking+OR+wreck+Summer+Isl.&sort=date_asc&dateStart=1886-01-01&dateEnd=1906-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17317
+Name: ALLEGHENY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17457
+Name: ALLEGHENY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17910
+Name: ALLEGHENY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22200
+Name: ALLEGHENY
+Date: 1913, Jun 6
+Location: Vermilion Point, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck+Vermilion+Point%2C+MI&sort=date_asc&dateStart=1903-01-01&dateEnd=1923-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22340
+Name: ALLEGHENY
+Date: 1855, Oct 24
+Location: at Milwaukee
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck+at+Milwaukee&sort=date_asc&dateStart=1845-01-01&dateEnd=1865-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22793
+Name: ALLEGHENY
+Date: 1978, Jan 27
+Location: Traverse City, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALLEGHENY%22+shipwreck+OR+sinking+OR+wreck+Traverse+City%2C+MI&sort=date_asc&dateStart=1968-01-01&dateEnd=1988-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15063
+Name: ALLIANCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLIANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17424
+Name: ALLIANCE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLIANCE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19946
+Name: ALLIANCE
+Date: 1869, Nov 21
+Location: Niagara Falls
+Search URL: https://www.newspapers.com/search/?query=%22ALLIANCE%22+shipwreck+OR+sinking+OR+wreck+Niagara+Falls&sort=date_asc&dateStart=1859-01-01&dateEnd=1879-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22307
+Name: ALLIANCE
+Date: 1863, Dec 2
+Location: Oswego, NY harbor
+Search URL: https://www.newspapers.com/search/?query=%22ALLIANCE%22+shipwreck+OR+sinking+OR+wreck+Oswego%2C+NY+harbor&sort=date_asc&dateStart=1853-01-01&dateEnd=1873-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15321
+Name: ALLIE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALLIE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20204
+Name: ALLIE
+Date: 1875, Sep 30
+Location: near Belleville, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALLIE%22+shipwreck+OR+sinking+OR+wreck+near+Belleville%2C+Ont.&sort=date_asc&dateStart=1865-01-01&dateEnd=1885-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15896
+Name: ALMA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19132
+Name: ALMA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALMA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20779
+Name: ALMA
+Date: 1892, May 18
+Location: near Bradford Beach, just north of Milwaukee
+Search URL: https://www.newspapers.com/search/?query=%22ALMA%22+shipwreck+OR+sinking+OR+wreck+near+Bradford+Beach%2C+just+north+of+Milwaukee&sort=date_asc&dateStart=1882-01-01&dateEnd=1902-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24015
+Name: ALMA
+Date: 1866, Oct 22
+Location: midlake
+Search URL: https://www.newspapers.com/search/?query=%22ALMA%22+shipwreck+OR+sinking+OR+wreck+midlake&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17049
+Name: ALMEDA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALMEDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21932
+Name: ALMEDA
+Date: 1880, May 22
+Location: Pelee Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ALMEDA%22+shipwreck+OR+sinking+OR+wreck+Pelee+Isl.&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16084
+Name: ALMERON THOMAS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALMERON+THOMAS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20967
+Name: ALMERON THOMAS
+Date: 1900, Nov 30
+Location: near Point Lookout, NW Saginaw Bay
+Search URL: https://www.newspapers.com/search/?query=%22ALMERON+THOMAS%22+shipwreck+OR+sinking+OR+wreck+near+Point+Lookout%2C+NW+Saginaw+Bay&sort=date_asc&dateStart=1890-01-01&dateEnd=1910-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15094
+Name: ALMIRA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALMIRA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19977
+Name: ALMIRA
+Date: 1863, Jul 8
+Location: near "Devil's Nose," south shore of the lake
+Search URL: https://www.newspapers.com/search/?query=%22ALMIRA%22+shipwreck+OR+sinking+OR+wreck+near+%22Devil%27s+Nose%2C%22+south+shore+of+the+lake&sort=date_asc&dateStart=1853-01-01&dateEnd=1873-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14970
+Name: ALNWICK
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALNWICK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19853
+Name: ALNWICK
+Date: 1871, Oct 8
+Location: Chicago waterfront
+Search URL: https://www.newspapers.com/search/?query=%22ALNWICK%22+shipwreck+OR+sinking+OR+wreck+Chicago+waterfront&sort=date_asc&dateStart=1861-01-01&dateEnd=1881-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17525
+Name: ALOHA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALOHA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22408
+Name: ALOHA
+Date: 1917, Oct 28
+Location: on Nine Mile Point, W of Kingston, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ALOHA%22+shipwreck+OR+sinking+OR+wreck+on+Nine+Mile+Point%2C+W+of+Kingston%2C+Ont.&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17221
+Name: ALPENA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALPENA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17745
+Name: ALPENA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALPENA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22104
+Name: ALPENA
+Date: 1880, Oct 15
+Location: probably near Holland, MI*
+Search URL: https://www.newspapers.com/search/?query=%22ALPENA%22+shipwreck+OR+sinking+OR+wreck+probably+near+Holland%2C+MI%2A&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22628
+Name: ALPENA
+Date: 1891, Oct 26
+Location: Lake St. Clair, about 3 mi below the Flats
+Search URL: https://www.newspapers.com/search/?query=%22ALPENA%22+shipwreck+OR+sinking+OR+wreck+Lake+St.+Clair%2C+about+3+mi+below+the+Flats&sort=date_asc&dateStart=1881-01-01&dateEnd=1901-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18894
+Name: ALPHA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALPHA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23777
+Name: ALPHA
+Date: 1872, Aug 30
+Location: Oswego harbor
+Search URL: https://www.newspapers.com/search/?query=%22ALPHA%22+shipwreck+OR+sinking+OR+wreck+Oswego+harbor&sort=date_asc&dateStart=1862-01-01&dateEnd=1882-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17206
+Name: ALTA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALTA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22089
+Name: ALTA
+Date: 1905, Oct 19
+Location: E. side of Grand Isl., near Munising, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALTA%22+shipwreck+OR+sinking+OR+wreck+E.+side+of+Grand+Isl.%2C+near+Munising%2C+MI&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16476
+Name: ALTADOC
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALTADOC%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21359
+Name: ALTADOC
+Date: 1927, Dec 8
+Location: Keweenaw Pt. E of Copper Harbor, MI
+Search URL: https://www.newspapers.com/search/?query=%22ALTADOC%22+shipwreck+OR+sinking+OR+wreck+Keweenaw+Pt.+E+of+Copper+Harbor%2C+MI&sort=date_asc&dateStart=1917-01-01&dateEnd=1937-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18129
+Name: ALTAIR
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALTAIR%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23012
+Name: ALTAIR
+Date: 1864, Nov 11
+Location: Chantry Island near the lighthouse
+Search URL: https://www.newspapers.com/search/?query=%22ALTAIR%22+shipwreck+OR+sinking+OR+wreck+Chantry+Island+near+the+lighthouse&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16289
+Name: ALTON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALTON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21172
+Name: ALTON
+Date: 1921
+Location: Lakeside, OH
+Search URL: https://www.newspapers.com/search/?query=%22ALTON%22+shipwreck+OR+sinking+OR+wreck+Lakeside%2C+OH&sort=date_asc&dateStart=1911-01-01&dateEnd=1931-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15410
+Name: ALVA B
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALVA+B%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20293
+Name: ALVA B
+Date: 1917, Nov 1
+Location: off Avon Lake, OH
+Search URL: https://www.newspapers.com/search/?query=%22ALVA+B%22+shipwreck+OR+sinking+OR+wreck+off+Avon+Lake%2C+OH&sort=date_asc&dateStart=1907-01-01&dateEnd=1927-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17268
+Name: ALVA BRADLEY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALVA+BRADLEY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22151
+Name: ALVA BRADLEY
+Date: 1894, Oct 13
+Location: 7 miles SW of N Manitou Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ALVA+BRADLEY%22+shipwreck+OR+sinking+OR+wreck+7+miles+SW+of+N+Manitou+Isl.&sort=date_asc&dateStart=1884-01-01&dateEnd=1904-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16260
+Name: ALVA D
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALVA+D%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16273
+Name: ALVA D
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALVA+D%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21143
+Name: ALVA D
+Date: 1909, Aug 22
+Location: "The Monks", Georgian Bay
+Search URL: https://www.newspapers.com/search/?query=%22ALVA+D%22+shipwreck+OR+sinking+OR+wreck+%22The+Monks%22%2C+Georgian+Bay&sort=date_asc&dateStart=1899-01-01&dateEnd=1919-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21156
+Name: ALVA D
+Date: 1914, Aug 25
+Location: between Beaverstone & Collins Inlet, Georgian Bay
+Search URL: https://www.newspapers.com/search/?query=%22ALVA+D%22+shipwreck+OR+sinking+OR+wreck+between+Beaverstone+%26+Collins+Inlet%2C+Georgian+Bay&sort=date_asc&dateStart=1904-01-01&dateEnd=1924-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17791
+Name: ALVAH S. CHISHOLM, Jr
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALVAH+S.+CHISHOLM%2C+Jr%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22674
+Name: ALVAH S. CHISHOLM, Jr
+Date: 1935, May 11
+Location: Sandusky, Ohio, harbor
+Search URL: https://www.newspapers.com/search/?query=%22ALVAH+S.+CHISHOLM%2C+Jr%22+shipwreck+OR+sinking+OR+wreck+Sandusky%2C+Ohio%2C+harbor&sort=date_asc&dateStart=1925-01-01&dateEnd=1945-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18321
+Name: ALVIN A. TURNER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALVIN+A.+TURNER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23204
+Name: ALVIN A. TURNER
+Date: 1905, Oct 18
+Location: Little Detroit Channel near Spanish Mills, On
+Search URL: https://www.newspapers.com/search/?query=%22ALVIN+A.+TURNER%22+shipwreck+OR+sinking+OR+wreck+Little+Detroit+Channel+near+Spanish+Mills%2C+On&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18813
+Name: ALVIN BRONSON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALVIN+BRONSON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23696
+Name: ALVIN BRONSON
+Date: 1888, Apr 29
+Location: Port Sherman, Muskegon harbor
+Search URL: https://www.newspapers.com/search/?query=%22ALVIN+BRONSON%22+shipwreck+OR+sinking+OR+wreck+Port+Sherman%2C+Muskegon+harbor&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18965
+Name: ALVIN CLARK
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALVIN+CLARK%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23848
+Name: ALVIN CLARK
+Date: 1864, Jun 29
+Location: Green Bay, off Chambers Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ALVIN+CLARK%22+shipwreck+OR+sinking+OR+wreck+Green+Bay%2C+off+Chambers+Isl.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15398
+Name: ALWILDA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALWILDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20281
+Name: ALWILDA
+Date: 1857, Oct 18
+Location: Big Sable Point
+Search URL: https://www.newspapers.com/search/?query=%22ALWILDA%22+shipwreck+OR+sinking+OR+wreck+Big+Sable+Point&sort=date_asc&dateStart=1847-01-01&dateEnd=1867-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15673
+Name: ALZORA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 15741
+Name: ALZORA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19365
+Name: ALZORA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20556
+Name: ALZORA
+Date: 1906, May 3
+Location: 6 mi E of SE Shoal
+Search URL: https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck+6+mi+E+of+SE+Shoal&sort=date_asc&dateStart=1896-01-01&dateEnd=1916-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 20624
+Name: ALZORA
+Date: 1895, Oct 21
+Location: 1.5 mi from lighthouse, S side Long Point
+Search URL: https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck+1.5+mi+from+lighthouse%2C+S+side+Long+Point&sort=date_asc&dateStart=1885-01-01&dateEnd=1905-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24248
+Name: ALZORA
+Date: 1908, Jul 22
+Location: 2.5 miles off Bay Port, MI, Saginaw Bay
+Search URL: https://www.newspapers.com/search/?query=%22ALZORA%22+shipwreck+OR+sinking+OR+wreck+2.5+miles+off+Bay+Port%2C+MI%2C+Saginaw+Bay&sort=date_asc&dateStart=1898-01-01&dateEnd=1918-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18391
+Name: AMARANTH
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMARANTH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23274
+Name: AMARANTH
+Date: 1901, Sep 7
+Location: near Ft. Gratiot, MI [North Kewahdin Beach]
+Search URL: https://www.newspapers.com/search/?query=%22AMARANTH%22+shipwreck+OR+sinking+OR+wreck+near+Ft.+Gratiot%2C+MI+%5BNorth+Kewahdin+Beach%5D&sort=date_asc&dateStart=1891-01-01&dateEnd=1911-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18308
+Name: AMARETTA MOSHER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMARETTA+MOSHER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23191
+Name: AMARETTA MOSHER
+Date: 1902, Nov 29
+Location: Starve Isl. Reef, near Port Clinton, OH
+Search URL: https://www.newspapers.com/search/?query=%22AMARETTA+MOSHER%22+shipwreck+OR+sinking+OR+wreck+Starve+Isl.+Reef%2C+near+Port+Clinton%2C+OH&sort=date_asc&dateStart=1892-01-01&dateEnd=1912-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15491
+Name: AMASA STOWELL
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMASA+STOWELL%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20374
+Name: AMASA STOWELL
+Date: 1862, Oct
+Location: near Sodus, NY
+Search URL: https://www.newspapers.com/search/?query=%22AMASA+STOWELL%22+shipwreck+OR+sinking+OR+wreck+near+Sodus%2C+NY&sort=date_asc&dateStart=1852-01-01&dateEnd=1872-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14867
+Name: AMAZON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMAZON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16925
+Name: AMAZON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMAZON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19750
+Name: AMAZON
+Date: 1864, May 9
+Location: near Pt. Edward, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22AMAZON%22+shipwreck+OR+sinking+OR+wreck+near+Pt.+Edward%2C+Ont.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21808
+Name: AMAZON
+Date: 1879, Oct 29
+Location: Grand Haven Bar
+Search URL: https://www.newspapers.com/search/?query=%22AMAZON%22+shipwreck+OR+sinking+OR+wreck+Grand+Haven+Bar&sort=date_asc&dateStart=1869-01-01&dateEnd=1889-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17103
+Name: AMBOY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMBOY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21986
+Name: AMBOY
+Date: 1905, Nov 29
+Location: near Thomasville, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22AMBOY%22+shipwreck+OR+sinking+OR+wreck+near+Thomasville%2C+Ont.&sort=date_asc&dateStart=1895-01-01&dateEnd=1915-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14947
+Name: AMELIA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMELIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16127
+Name: AMELIA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMELIA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19830
+Name: AMELIA
+Date: 1864, Nov (8)
+Location: off Goderich, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22AMELIA%22+shipwreck+OR+sinking+OR+wreck+off+Goderich%2C+Ont.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21010
+Name: AMELIA
+Date: 1856, May 15
+Location: on a line between Waukegan and Muskegon
+Search URL: https://www.newspapers.com/search/?query=%22AMELIA%22+shipwreck+OR+sinking+OR+wreck+on+a+line+between+Waukegan+and+Muskegon&sort=date_asc&dateStart=1846-01-01&dateEnd=1866-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15223
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 15924
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16533
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16900
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17628
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 17950
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18148
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18672
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 18848
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19483
+Name: AMERICA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20106
+Name: AMERICA
+Date: 1941, Oct 21
+Location: Off Belle Isle
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+Off+Belle+Isle&sort=date_asc&dateStart=1931-01-01&dateEnd=1951-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 20807
+Name: AMERICA
+Date: 1952, Feb 9
+Location: at Port Huron
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+at+Port+Huron&sort=date_asc&dateStart=1942-01-01&dateEnd=1962-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21416
+Name: AMERICA
+Date: 1950, May 5
+Location: 5 mi off Sturgeon Bay, WI
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+5+mi+off+Sturgeon+Bay%2C+WI&sort=date_asc&dateStart=1940-01-01&dateEnd=1960-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 21783
+Name: AMERICA
+Date: 1854, Apr 5
+Location: near Pt. Pelee
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+near+Pt.+Pelee&sort=date_asc&dateStart=1844-01-01&dateEnd=1864-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22511
+Name: AMERICA
+Date: 1928, Jun 7
+Location: Washington Harbor, Isle Royale
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+Washington+Harbor%2C+Isle+Royale&sort=date_asc&dateStart=1918-01-01&dateEnd=1938-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 22833
+Name: AMERICA
+Date: 1874
+Location: at Kingston, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+at+Kingston%2C+Ont.&sort=date_asc&dateStart=1864-01-01&dateEnd=1884-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 23031
+Name: AMERICA
+Date: 1880, Sep 28
+Location: 9 mi N of Two Rivers
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+9+mi+N+of+Two+Rivers&sort=date_asc&dateStart=1870-01-01&dateEnd=1890-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 23555
+Name: AMERICA
+Date: 1881, fall
+Location: at Port Burwell, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+at+Port+Burwell%2C+Ont.&sort=date_asc&dateStart=1871-01-01&dateEnd=1891-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 23731
+Name: AMERICA
+Date: 1866, Aug 8
+Location: midlake off Waukegan
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+midlake+off+Waukegan&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24366
+Name: AMERICA
+Date: 1907
+Location: Chambers Isl.
+Search URL: https://www.newspapers.com/search/?query=%22AMERICA%22+shipwreck+OR+sinking+OR+wreck+Chambers+Isl.&sort=date_asc&dateStart=1897-01-01&dateEnd=1917-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18195
+Name: AMERICAN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23078
+Name: AMERICAN
+Date: 1894, Oct 1
+Location: Stoney Point, east end of the lake
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN%22+shipwreck+OR+sinking+OR+wreck+Stoney+Point%2C+east+end+of+the+lake&sort=date_asc&dateStart=1884-01-01&dateEnd=1904-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18852
+Name: AMERICAN CHAMPION
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+CHAMPION%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23735
+Name: AMERICAN CHAMPION
+Date: 1875, Sep 30
+Location: near Leamington Ont.
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+CHAMPION%22+shipwreck+OR+sinking+OR+wreck+near+Leamington+Ont.&sort=date_asc&dateStart=1865-01-01&dateEnd=1885-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15857
+Name: AMERICAN EAGLE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 15947
+Name: AMERICAN EAGLE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19173
+Name: AMERICAN EAGLE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20740
+Name: AMERICAN EAGLE
+Date: 1891, Jun 10
+Location: .5 mi from harbor entrance at Cleveland
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck+.5+mi+from+harbor+entrance+at+Cleveland&sort=date_asc&dateStart=1881-01-01&dateEnd=1901-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 20830
+Name: AMERICAN EAGLE
+Date: 1820, Nov 26
+Location: near Grand River, OH
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck+near+Grand+River%2C+OH&sort=date_asc&dateStart=1810-01-01&dateEnd=1830-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 24056
+Name: AMERICAN EAGLE
+Date: 1908, Dec 21
+Location: Maumee, OH
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+EAGLE%22+shipwreck+OR+sinking+OR+wreck+Maumee%2C+OH&sort=date_asc&dateStart=1898-01-01&dateEnd=1918-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16212
+Name: AMERICAN REPUBLIC
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+REPUBLIC%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21095
+Name: AMERICAN REPUBLIC
+Date: 1859, Dec 2
+Location: at North Manitou Isl.
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+REPUBLIC%22+shipwreck+OR+sinking+OR+wreck+at+North+Manitou+Isl.&sort=date_asc&dateStart=1849-01-01&dateEnd=1869-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18983
+Name: AMERICAN SAILOR
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+SAILOR%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23866
+Name: AMERICAN SAILOR
+Date: 1937, Nov 2
+Location: Off Barcelona, NY (also given as Westfield)
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+SAILOR%22+shipwreck+OR+sinking+OR+wreck+Off+Barcelona%2C+NY+%28also+given+as+Westfield%29&sort=date_asc&dateStart=1927-01-01&dateEnd=1947-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18938
+Name: AMERICAN SCOUT
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+SCOUT%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23821
+Name: AMERICAN SCOUT
+Date: 1937, Nov 2
+Location: Off Barcelona, NY (also given as Westfield)
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+SCOUT%22+shipwreck+OR+sinking+OR+wreck+Off+Barcelona%2C+NY+%28also+given+as+Westfield%29&sort=date_asc&dateStart=1927-01-01&dateEnd=1947-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17346
+Name: AMERICAN UNION
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+UNION%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22229
+Name: AMERICAN UNION
+Date: 1894, May 6
+Location: near Presque Isle, MI
+Search URL: https://www.newspapers.com/search/?query=%22AMERICAN+UNION%22+shipwreck+OR+sinking+OR+wreck+near+Presque+Isle%2C+MI&sort=date_asc&dateStart=1884-01-01&dateEnd=1904-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16232
+Name: AMETHYST
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMETHYST%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21115
+Name: AMETHYST
+Date: 1888, Oct 25
+Location: at Duluth
+Search URL: https://www.newspapers.com/search/?query=%22AMETHYST%22+shipwreck+OR+sinking+OR+wreck+at+Duluth&sort=date_asc&dateStart=1878-01-01&dateEnd=1898-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19249
+Name: AMITY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22AMITY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 24132
+Name: AMITY
+Date: 1864, Oct [8 or 9]
+Location: NNE of the tip of Long Pt.
+Search URL: https://www.newspapers.com/search/?query=%22AMITY%22+shipwreck+OR+sinking+OR+wreck+NNE+of+the+tip+of+Long+Pt.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15845
+Name: ANABEL II
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANABEL+II%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20728
+Name: ANABEL II
+Date: 1956, Jan 12
+Location: Sturgeon Bay, WI, Roen SS Co. dock
+Search URL: https://www.newspapers.com/search/?query=%22ANABEL+II%22+shipwreck+OR+sinking+OR+wreck+Sturgeon+Bay%2C+WI%2C+Roen+SS+Co.+dock&sort=date_asc&dateStart=1946-01-01&dateEnd=1966-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16267
+Name: ANCHOR BAY
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANCHOR+BAY%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21150
+Name: ANCHOR BAY
+Date: 1968, Dec 12
+Location: near Harsen's Isl.
+Search URL: https://www.newspapers.com/search/?query=%22ANCHOR+BAY%22+shipwreck+OR+sinking+OR+wreck+near+Harsen%27s+Isl.&sort=date_asc&dateStart=1958-01-01&dateEnd=1978-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16875
+Name: ANDASTE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDASTE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21758
+Name: ANDASTE
+Date: 1929, Sep 9
+Location: ca. 14 mi W of Holland, MI
+Search URL: https://www.newspapers.com/search/?query=%22ANDASTE%22+shipwreck+OR+sinking+OR+wreck+ca.+14+mi+W+of+Holland%2C+MI&sort=date_asc&dateStart=1919-01-01&dateEnd=1939-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18508
+Name: ANDES
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDES%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23391
+Name: ANDES
+Date: 1868, Oct 24
+Location: off Madison, OH
+Search URL: https://www.newspapers.com/search/?query=%22ANDES%22+shipwreck+OR+sinking+OR+wreck+off+Madison%2C+OH&sort=date_asc&dateStart=1858-01-01&dateEnd=1878-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 14724
+Name: ANDOVER
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDOVER%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 19607
+Name: ANDOVER
+Date: 1861, Jun 16
+Location: Pte Aux Barques reef, MI
+Search URL: https://www.newspapers.com/search/?query=%22ANDOVER%22+shipwreck+OR+sinking+OR+wreck+Pte+Aux+Barques+reef%2C+MI&sort=date_asc&dateStart=1851-01-01&dateEnd=1871-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15753
+Name: ANDREW
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20636
+Name: ANDREW
+Date: 1832, Nov 18
+Location: Buffalo
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW%22+shipwreck+OR+sinking+OR+wreck+Buffalo&sort=date_asc&dateStart=1822-01-01&dateEnd=1842-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16064
+Name: ANDREW A. McLEAN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+A.+McLEAN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20947
+Name: ANDREW A. McLEAN
+Date: 1916, Aug 11
+Location: 7 mi SE of Tawas City
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+A.+McLEAN%22+shipwreck+OR+sinking+OR+wreck+7+mi+SE+of+Tawas+City&sort=date_asc&dateStart=1906-01-01&dateEnd=1926-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18754
+Name: ANDREW B
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+B%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23637
+Name: ANDREW B
+Date: 1995, Nov 8
+Location: 4 mi off Long Point
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+B%22+shipwreck+OR+sinking+OR+wreck+4+mi+off+Long+Point&sort=date_asc&dateStart=1985-01-01&dateEnd=2005-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18084
+Name: ANDREW J. RICH
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+J.+RICH%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22967
+Name: ANDREW J. RICH
+Date: 1864, Nov 10
+Location: near Kincardine, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+J.+RICH%22+shipwreck+OR+sinking+OR+wreck+near+Kincardine%2C+Ont.&sort=date_asc&dateStart=1854-01-01&dateEnd=1874-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18740
+Name: ANDREW JACKSON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+JACKSON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23623
+Name: ANDREW JACKSON
+Date: 1901, Sep 7
+Location: 2 Â¼ mi E of USLS station, on Pte Aux Barques, MI
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+JACKSON%22+shipwreck+OR+sinking+OR+wreck+2+%C3%82%C2%BC+mi+E+of+USLS+station%2C+on+Pte+Aux+Barques%2C+MI&sort=date_asc&dateStart=1891-01-01&dateEnd=1911-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 17942
+Name: ANDREW STEVENS
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+STEVENS%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 22825
+Name: ANDREW STEVENS
+Date: 1867, Nov 12
+Location: Georgian Bay
+Search URL: https://www.newspapers.com/search/?query=%22ANDREW+STEVENS%22+shipwreck+OR+sinking+OR+wreck+Georgian+Bay&sort=date_asc&dateStart=1857-01-01&dateEnd=1877-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18991
+Name: ANDROMEDA
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANDROMEDA%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23874
+Name: ANDROMEDA
+Date: 1858, Jul 18
+Location: 20 mi from Sheboygan, WI and 15 off shore and 40 NE of Manitowoc
+Search URL: https://www.newspapers.com/search/?query=%22ANDROMEDA%22+shipwreck+OR+sinking+OR+wreck+20+mi+from+Sheboygan%2C+WI+and+15+off+shore+and+40+NE+of+Manitowoc&sort=date_asc&dateStart=1848-01-01&dateEnd=1868-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 15623
+Name: ANGELIQUE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANGELIQUE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 16001
+Name: ANGELIQUE
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANGELIQUE%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 20506
+Name: ANGELIQUE
+Date: 1866, May 27
+Location: off North Point, Milwaukee
+Search URL: https://www.newspapers.com/search/?query=%22ANGELIQUE%22+shipwreck+OR+sinking+OR+wreck+off+North+Point%2C+Milwaukee&sort=date_asc&dateStart=1856-01-01&dateEnd=1876-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 20884
+Name: ANGELIQUE
+Date: 1887, Jul 13
+Location: at Ruthven, Ont.
+Search URL: https://www.newspapers.com/search/?query=%22ANGELIQUE%22+shipwreck+OR+sinking+OR+wreck+at+Ruthven%2C+Ont.&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 18368
+Name: ANGLO SAXON
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANGLO+SAXON%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23251
+Name: ANGLO SAXON
+Date: 1887, Sep 8
+Location: Straits of Mackinac, near Waugoschance Pt.
+Search URL: https://www.newspapers.com/search/?query=%22ANGLO+SAXON%22+shipwreck+OR+sinking+OR+wreck+Straits+of+Mackinac%2C+near+Waugoschance+Pt.&sort=date_asc&dateStart=1877-01-01&dateEnd=1897-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 19058
+Name: ANN
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANN%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 23941
+Name: ANN
+Date: 1827, Nov 6
+Location: Long Point almost opposite Erie, PA
+Search URL: https://www.newspapers.com/search/?query=%22ANN%22+shipwreck+OR+sinking+OR+wreck+Long+Point+almost+opposite+Erie%2C+PA&sort=date_asc&dateStart=1817-01-01&dateEnd=1837-12-31
+--------------------------------------------------------------------------------
+
+Wreck ID: 16778
+Name: ANN ARBOR #1
+Date: Unknown
+Location: Unknown
+Search URL: https://www.newspapers.com/search/?query=%22ANN+ARBOR+%231%22+shipwreck+OR+sinking+OR+wreck&sort=date_asc
+--------------------------------------------------------------------------------
+
+Wreck ID: 21661
+Name: ANN ARBOR #1
+Date: 1910, Mar 7
+Location: 4 mi off Manitowoc, WI
+Search URL: https://www.newspapers.com/search/?query=%22ANN+ARBOR+%231%22+shipwreck+OR+sinking+OR+wreck+4+mi+off+Manitowoc%2C+WI&sort=date_asc&dateStart=1900-01-01&dateEnd=1920-12-31
+--------------------------------------------------------------------------------
+

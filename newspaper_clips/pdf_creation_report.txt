@@ -1,0 +1,30 @@
+
+WRECK DATABASE PDF CREATION REPORT
+==================================================
+
+DATABASE STATISTICS:
+• Total wreck records: 4,901
+• Records with coordinates: 1,949 (39.8%)
+• Records with PDF references: 597 (12.2%)
+• Records with both coordinates & PDFs: 232 (4.7%)
+
+PDF FILE STATISTICS:
+• PDF files created: 597
+• PDF directory: newspaper_clips/pdfs
+
+PROGRESS SUMMARY:
+• Research PDFs created for newspaper validation
+• Each PDF contains search URLs and instructions
+• Database linked to PDF files for easy access
+• Ready for manual newspaper.com research
+
+NEXT STEPS:
+1. Open PDFs from newspaper_clips/pdfs/
+2. Follow search URLs to newspaper.com
+3. Save relevant articles found during research
+4. Update database with article references
+
+USAGE:
+• Run: python newspaper_com_search.py [batch_size]
+• Default batch size: 500
+• Processes wrecks without PDFs first

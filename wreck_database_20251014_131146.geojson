@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.732444,
+          45.808583
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Cedarville Wreck (PDF)",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.618778,
+          45.844111
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Elva Area Obstruction 1",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Obstruction",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.618694,
+          45.84425
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Elva Area Obstruction 2",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Obstruction",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.618472,
+          45.844167
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Elva Area Obstruction 3",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Obstruction",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.613028,
+          45.849306
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Elva Candidate 1 (PDF Confirmed)",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.612333,
+          45.849194
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Elva Candidate 2 (PDF Confirmed)",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.422902,
+          45.725361
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Feature 1.2 (SHPO Hidden)",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Obstruction",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62393,
+          45.801472
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Feature 1.4 (SHPO Hidden)",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Obstruction",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.08025,
+          45.789056
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "H13253_1.11",
+        "date": "Unknown",
+        "depth": "3.24m",
+        "feature_type": "Wreck",
+        "source": "real_coordinate_maritime_gallery.py",
+        "historical_place_names": "Primary wreck site",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.071989,
+          45.794528
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "H13253_1.14",
+        "date": "Unknown",
+        "depth": "7.69m",
+        "feature_type": "Obstruction",
+        "source": "real_coordinate_maritime_gallery.py",
+        "historical_place_names": "Primary obstruction",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.068194,
+          45.794972
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "H13253_1.17",
+        "date": "Unknown",
+        "depth": "8.36m",
+        "feature_type": "Obstruction",
+        "source": "real_coordinate_maritime_gallery.py",
+        "historical_place_names": "Secondary obstruction",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.698167,
+          45.812944
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "PDF Wreck 1",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.684333,
+          45.793889
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "PDF Wreck 2",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.672194,
+          45.788972
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "PDF Wreck 3",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.441333,
+          45.700028
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "PDF Wreck 4",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.157139,
+          45.838083
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "PDF Wreck 5",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.08025,
+          45.789056
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "PDF Wreck 6",
+        "date": "Unknown",
+        "depth": "Unknown",
+        "feature_type": "Wreck",
+        "source": "robust_bag_scanner.py",
+        "historical_place_names": "Unknown",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.426306,
+          45.056389
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "W00555_1.1",
+        "date": "Unknown",
+        "depth": "2.57m",
+        "feature_type": "Obstruction",
+        "source": "real_coordinate_maritime_gallery.py",
+        "historical_place_names": "Thunder Bay obstruction",
+        "newspaper_clip": "None",
+        "coordinate_status": "verified"
+      }
+    }
+  ]
+}
