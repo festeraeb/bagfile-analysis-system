@@ -1,0 +1,112 @@
+{
+  "files_analyzed": [
+    "H13255_MB_1m_LWD_4of6.bag",
+    "H13255_MB_1m_LWD_5of6.bag",
+    "H13255_MB_4m_LWD_6of6.bag",
+    "H13255_MB_50cm_LWD_1of6.bag",
+    "H13255_MB_50cm_LWD_2of6.bag",
+    "H13255_MB_50cm_LWD_3of6.bag"
+  ],
+  "crs_issues": [],
+  "bounds_issues": [
+    {
+      "type": "overlap",
+      "files": [
+        "H13255_MB_1m_LWD_4of6.bag",
+        "H13255_MB_1m_LWD_5of6.bag"
+      ],
+      "overlap_distance": 19752.0,
+      "location": "between 692404.5 and 672652.5"
+    },
+    {
+      "type": "overlap",
+      "files": [
+        "H13255_MB_1m_LWD_5of6.bag",
+        "H13255_MB_4m_LWD_6of6.bag"
+      ],
+      "overlap_distance": 20421.5,
+      "location": "between 693355.5 and 672934.0"
+    },
+    {
+      "type": "overlap",
+      "files": [
+        "H13255_MB_4m_LWD_6of6.bag",
+        "H13255_MB_50cm_LWD_2of6.bag"
+      ],
+      "overlap_distance": 19273.25,
+      "location": "between 693074.0 and 673800.75"
+    },
+    {
+      "type": "overlap",
+      "files": [
+        "H13255_MB_50cm_LWD_2of6.bag",
+        "H13255_MB_50cm_LWD_1of6.bag"
+      ],
+      "overlap_distance": 7614.0,
+      "location": "between 681433.75 and 673819.75"
+    },
+    {
+      "type": "overlap",
+      "files": [
+        "H13255_MB_50cm_LWD_1of6.bag",
+        "H13255_MB_50cm_LWD_3of6.bag"
+      ],
+      "overlap_distance": 2025.5,
+      "location": "between 683264.25 and 681238.75"
+    }
+  ],
+  "resolution_issues": [
+    {
+      "reference_resolution": [
+        1.0,
+        1.0
+      ],
+      "inconsistent_files": [
+        [
+          "H13255_MB_4m_LWD_6of6.bag",
+          [
+            4.0,
+            4.0
+          ]
+        ],
+        [
+          "H13255_MB_50cm_LWD_1of6.bag",
+          [
+            0.5,
+            0.5
+          ]
+        ],
+        [
+          "H13255_MB_50cm_LWD_2of6.bag",
+          [
+            0.5,
+            0.5
+          ]
+        ],
+        [
+          "H13255_MB_50cm_LWD_3of6.bag",
+          [
+            0.5,
+            0.5
+          ]
+        ]
+      ],
+      "severity": "medium"
+    }
+  ],
+  "alignment_suggestions": [
+    {
+      "issue_type": "bounds_overlaps",
+      "description": "Found 5 overlaps between tiles",
+      "recommendation": "Use mosaic tools to properly combine overlapping data, or adjust bounds to prevent overlap",
+      "priority": "medium"
+    },
+    {
+      "issue_type": "resolution_inconsistency",
+      "description": "Inconsistent resolutions found across 4 files",
+      "recommendation": "Resample all files to match reference resolution [1.0, 1.0]",
+      "priority": "low"
+    }
+  ],
+  "recommended_transforms": []
+}

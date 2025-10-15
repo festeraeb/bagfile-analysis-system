@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "analysis_timestamp": "2025-10-14T14:29:55.379983",
+    "techniques_used": [
+      "text_extraction_bypass",
+      "layered_content_analysis",
+      "image_extraction_analysis",
+      "metadata_mining",
+      "font_analysis",
+      "annotation_extraction",
+      "form_field_analysis",
+      "content_stream_analysis"
+    ],
+    "files_analyzed": [],
+    "blackout_breakthroughs": [],
+    "hidden_content_found": [],
+    "metadata_discoveries": [],
+    "total_files": 0,
+    "successful_analyses": 0
+  },
+  "detailed_results": []
+}

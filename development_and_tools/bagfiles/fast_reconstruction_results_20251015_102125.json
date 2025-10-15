@@ -1,0 +1,65 @@
+{
+  "timestamp": "20251015_102125",
+  "reconstruction_method": "fast_ml_enhanced",
+  "results": [
+    {
+      "file": "H13255_MB_1m_LWD_5of6_aligned.bag",
+      "output_file": "H13255_MB_1m_LWD_5of6_aligned_fast_reconstructed.bag",
+      "method": "python_fallback",
+      "confidence": 0.6,
+      "techniques": [
+        "interpolation"
+      ]
+    },
+    {
+      "file": "H13255_MB_4m_LWD_6of6_corrected.bag",
+      "output_file": "H13255_MB_4m_LWD_6of6_corrected_fast_reconstructed.bag",
+      "method": "python_fallback",
+      "confidence": 0.6,
+      "techniques": [
+        "interpolation"
+      ]
+    },
+    {
+      "file": "H13255_MB_50cm_LWD_1of6_corrected.bag",
+      "output_file": "H13255_MB_50cm_LWD_1of6_corrected_fast_reconstructed.bag",
+      "method": "python_fallback",
+      "confidence": 0.6,
+      "techniques": [
+        "interpolation"
+      ]
+    },
+    {
+      "file": "H13255_MB_50cm_LWD_2of6_corrected.bag",
+      "output_file": "H13255_MB_50cm_LWD_2of6_corrected_fast_reconstructed.bag",
+      "method": "python_fallback",
+      "confidence": 0.6,
+      "techniques": [
+        "interpolation"
+      ]
+    },
+    {
+      "file": "H13255_MB_50cm_LWD_3of6_corrected.bag",
+      "output_file": "H13255_MB_50cm_LWD_3of6_corrected_fast_reconstructed.bag",
+      "method": "python_fallback",
+      "confidence": 0.6,
+      "techniques": [
+        "interpolation"
+      ]
+    }
+  ],
+  "performance_comparison": {
+    "method": "fast_ml_reconstruction",
+    "total_files": 5,
+    "average_confidence": 0.6,
+    "techniques_used": [
+      "interpolation"
+    ],
+    "performance_metrics": {
+      "rust_acceleration": false,
+      "parallel_processing": true,
+      "ml_prioritization": false
+    }
+  },
+  "rust_acceleration_used": false
+}

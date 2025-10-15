@@ -1,0 +1,9 @@
+PDF ANALYSIS RESULTS SUMMARY
+==================================================
+
+Total Files Analyzed: 0
+Successful Breakthroughs: 0
+Total Breakthroughs: 0
+
+FILE-BY-FILE RESULTS:
+------------------------------

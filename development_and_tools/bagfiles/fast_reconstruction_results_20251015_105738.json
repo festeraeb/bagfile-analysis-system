@@ -1,0 +1,92 @@
+{
+  "timestamp": "20251015_105738",
+  "reconstruction_method": "fast_ml_enhanced",
+  "results": [
+    {
+      "file": "H13255_MB_1m_LWD_5of6_aligned.bag",
+      "output_file": "H13255_MB_1m_LWD_5of6_aligned_fast_reconstructed.bag",
+      "method": "rust_accelerated",
+      "confidence": 0.40077750831036185,
+      "techniques": [
+        "pattern_interpolation",
+        "geometric_reconstruction",
+        "depth_consistency_filling"
+      ],
+      "restoration_success": false,
+      "restoration_percentage": 0.0,
+      "processing_time_ms": 5138
+    },
+    {
+      "file": "H13255_MB_4m_LWD_6of6_corrected.bag",
+      "output_file": "H13255_MB_4m_LWD_6of6_corrected_fast_reconstructed.bag",
+      "method": "rust_accelerated",
+      "confidence": 0.40077750831036185,
+      "techniques": [
+        "pattern_interpolation",
+        "geometric_reconstruction",
+        "depth_consistency_filling"
+      ],
+      "restoration_success": false,
+      "restoration_percentage": 0.0,
+      "processing_time_ms": 5138
+    },
+    {
+      "file": "H13255_MB_50cm_LWD_1of6_corrected.bag",
+      "output_file": "H13255_MB_50cm_LWD_1of6_corrected_fast_reconstructed.bag",
+      "method": "rust_accelerated",
+      "confidence": 0.40077750831036185,
+      "techniques": [
+        "pattern_interpolation",
+        "geometric_reconstruction",
+        "depth_consistency_filling"
+      ],
+      "restoration_success": false,
+      "restoration_percentage": 0.0,
+      "processing_time_ms": 5138
+    },
+    {
+      "file": "H13255_MB_50cm_LWD_2of6_corrected.bag",
+      "output_file": "H13255_MB_50cm_LWD_2of6_corrected_fast_reconstructed.bag",
+      "method": "rust_accelerated",
+      "confidence": 0.40077750831036185,
+      "techniques": [
+        "pattern_interpolation",
+        "geometric_reconstruction",
+        "depth_consistency_filling"
+      ],
+      "restoration_success": false,
+      "restoration_percentage": 0.0,
+      "processing_time_ms": 5138
+    },
+    {
+      "file": "H13255_MB_50cm_LWD_3of6_corrected.bag",
+      "output_file": "H13255_MB_50cm_LWD_3of6_corrected_fast_reconstructed.bag",
+      "method": "rust_accelerated",
+      "confidence": 0.40077750831036185,
+      "techniques": [
+        "pattern_interpolation",
+        "geometric_reconstruction",
+        "depth_consistency_filling"
+      ],
+      "restoration_success": false,
+      "restoration_percentage": 0.0,
+      "processing_time_ms": 5138
+    }
+  ],
+  "performance_comparison": {
+    "method": "fast_ml_reconstruction",
+    "total_files": 5,
+    "average_confidence": 0.40077750831036185,
+    "techniques_used": [
+      "depth_consistency_filling",
+      "pattern_interpolation",
+      "geometric_reconstruction"
+    ],
+    "performance_metrics": {
+      "rust_acceleration": true,
+      "parallel_processing": true,
+      "ml_prioritization": true
+    }
+  },
+  "rust_acceleration_used": true
+}

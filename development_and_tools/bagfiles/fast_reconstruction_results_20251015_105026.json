@@ -1,0 +1,27 @@
+{
+  "timestamp": "20251015_105026",
+  "reconstruction_method": "fast_ml_enhanced",
+  "results": [
+    "<builtins.RestorationResult object at 0x00000191E5F881F0>",
+    "<builtins.RestorationResult object at 0x00000191E5F88110>",
+    "<builtins.RestorationResult object at 0x00000191E5F88180>",
+    "<builtins.RestorationResult object at 0x00000191E5F885E0>",
+    "<builtins.RestorationResult object at 0x00000191E5F88650>"
+  ],
+  "performance_comparison": {
+    "method": "fast_ml_reconstruction",
+    "total_files": 5,
+    "average_confidence": 0.40077750831036185,
+    "techniques_used": [
+      "pattern_interpolation",
+      "depth_consistency_filling",
+      "geometric_reconstruction"
+    ],
+    "performance_metrics": {
+      "rust_acceleration": true,
+      "parallel_processing": true,
+      "ml_prioritization": true
+    }
+  },
+  "rust_acceleration_used": true
+}

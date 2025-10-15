@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAG Reconstruction Visualization</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            font-weight: 300;
+        }
+        .header p {
+            margin: 10px 0 0 0;
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+        .gallery {
+            padding: 30px;
+        }
+        .file-section {
+            margin-bottom: 50px;
+            border: 2px solid #ecf0f1;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .file-header {
+            background: #34495e;
+            color: white;
+            padding: 15px 20px;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .image-card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+        .image-card:hover {
+            transform: translateY(-5px);
+        }
+        .image-card img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            display: block;
+        }
+        .image-info {
+            padding: 15px;
+        }
+        .image-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        .image-desc {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-top: 1px solid #ecf0f1;
+        }
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #3498db;
+        }
+        .stat-label {
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+        .footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+        @media (max-width: 768px) {
+            .image-grid {
+                grid-template-columns: 1fr;
+            }
+            .stats {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🗺️ BAG Reconstruction Visualization</h1>
+            <p>Interactive gallery showing ML-enhanced bathymetry reconstruction results</p>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">6</div>
+                <div class="stat-label">Files Reconstructed</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">⚡</div>
+                <div class="stat-label">Rust Accelerated</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">🤖</div>
+                <div class="stat-label">ML Enhanced</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">3.4x</div>
+                <div class="stat-label">Speed Improvement</div>
+            </div>
+        </div>
+
+        <div class="gallery">
+
+            <div class="file-section">
+                <div class="file-header">📊 H13255_MB_1m_LWD_5of6_aligned</div>
+                <div class="image-grid">
+
+                    <div class="image-card">
+                        <img src="visualization/H13255_MB_1m_LWD_5of6_aligned_bathymetry.png" alt="Bathymetry">
+                        <div class="image-info">
+                            <div class="image-title">Reconstructed Bathymetry</div>
+                            <div class="image-desc">ML-enhanced depth reconstruction using pattern interpolation and geometric techniques</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">📊 H13255_MB_4m_LWD_6of6_corrected</div>
+                <div class="image-grid">
+
+                    <div class="image-card">
+                        <img src="visualization/H13255_MB_4m_LWD_6of6_corrected_bathymetry.png" alt="Bathymetry">
+                        <div class="image-info">
+                            <div class="image-title">Reconstructed Bathymetry</div>
+                            <div class="image-desc">ML-enhanced depth reconstruction using pattern interpolation and geometric techniques</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">📊 H13255_MB_50cm_LWD_1of6_corrected</div>
+                <div class="image-grid">
+
+                    <div class="image-card">
+                        <img src="visualization/H13255_MB_50cm_LWD_1of6_corrected_bathymetry.png" alt="Bathymetry">
+                        <div class="image-info">
+                            <div class="image-title">Reconstructed Bathymetry</div>
+                            <div class="image-desc">ML-enhanced depth reconstruction using pattern interpolation and geometric techniques</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">📊 H13255_MB_50cm_LWD_2of6_corrected</div>
+                <div class="image-grid">
+
+                    <div class="image-card">
+                        <img src="visualization/H13255_MB_50cm_LWD_2of6_corrected_bathymetry.png" alt="Bathymetry">
+                        <div class="image-info">
+                            <div class="image-title">Reconstructed Bathymetry</div>
+                            <div class="image-desc">ML-enhanced depth reconstruction using pattern interpolation and geometric techniques</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">📊 H13255_MB_50cm_LWD_3of6_corrected</div>
+                <div class="image-grid">
+
+                    <div class="image-card">
+                        <img src="visualization/H13255_MB_50cm_LWD_3of6_corrected_bathymetry.png" alt="Bathymetry">
+                        <div class="image-info">
+                            <div class="image-title">Reconstructed Bathymetry</div>
+                            <div class="image-desc">ML-enhanced depth reconstruction using pattern interpolation and geometric techniques</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">📄 PDF Analysis Results</div>
+                <div class="image-grid">
+
+                    <div class="image-card">
+                        <img src="visualization/pdf_analysis_summary.png" alt="PDF Analysis Summary">
+                        <div class="image-info">
+                            <div class="image-title">PDF Analysis Summary</div>
+                            <div class="image-desc">Overview of redaction breaking success rates, techniques used, and content types discovered</div>
+                        </div>
+                    </div>
+
+                    <div class="image-card">
+                        <img src="visualization/pdf_breakthrough_techniques.png" alt="Breakthrough Techniques">
+                        <div class="image-info">
+                            <div class="image-title">Technique Effectiveness</div>
+                            <div class="image-desc">Success rates of different redaction breaking techniques across all analyzed PDFs</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="footer">
+            <p>Generated on 2025-10-15 13:58:40 | Fast ML-Enhanced BAG Reconstruction Tool</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,64 @@
+{
+  "corrections_applied": [
+    {
+      "type": "resolution_resampling",
+      "file": "H13255_MB_4m_LWD_6of6.bag",
+      "from_resolution": [
+        4.0,
+        4.0
+      ],
+      "to_resolution": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "type": "resolution_resampling",
+      "file": "H13255_MB_50cm_LWD_1of6.bag",
+      "from_resolution": [
+        0.5,
+        0.5
+      ],
+      "to_resolution": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "type": "resolution_resampling",
+      "file": "H13255_MB_50cm_LWD_2of6.bag",
+      "from_resolution": [
+        0.5,
+        0.5
+      ],
+      "to_resolution": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "type": "resolution_resampling",
+      "file": "H13255_MB_50cm_LWD_3of6.bag",
+      "from_resolution": [
+        0.5,
+        0.5
+      ],
+      "to_resolution": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "type": "bounds_adjustment",
+      "files": [
+        "H13255_MB_1m_LWD_4of6.bag",
+        "H13255_MB_1m_LWD_5of6.bag"
+      ],
+      "shift_applied": 9876.0,
+      "overlap_corrected": 19752.0
+    }
+  ],
+  "files_processed": [],
+  "alignment_improvements": [],
+  "metadata_fixes": []
+}
