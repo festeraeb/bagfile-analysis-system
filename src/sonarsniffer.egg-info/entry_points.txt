@@ -1,0 +1,3 @@
+[console_scripts]
+sonar-web = sonarsniffer.web.app:main
+sonarsniffer = sonarsniffer.cli:main
