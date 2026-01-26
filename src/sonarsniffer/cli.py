@@ -44,7 +44,9 @@ except ImportError:
     from license_manager import LicenseManager
     from sonar_parser import SonarParser
     from web_dashboard_generator import WebDashboardGenerator
+
     __version__ = "1.0.0-beta"
+
 
 def main():
     """Main CLI entry point"""
@@ -58,26 +60,27 @@ def main():
         print(f"Trial days remaining: {license_mgr.get_days_remaining()}")
         return 1
 
-    if args['analyze']:
+    if args["analyze"]:
         return analyze_command(args)
-    elif args['web']:
+    elif args["web"]:
         return web_command(args)
-    elif args['license']:
+    elif args["license"]:
         return license_command(args)
-    elif args['optimize']:
+    elif args["optimize"]:
         return optimize_command(args)
-    elif args['ml-predict']:
+    elif args["ml-predict"]:
         return ml_predict_command(args)
-    elif args['export-tiles']:
+    elif args["export-tiles"]:
         return export_tiles_command(args)
 
     return 0
 
+
 def analyze_command(args):
     """Handle analyze command"""
-    file_path = args['<file>']
-    output_dir = args['--output'] or './output'
-    output_format = args['--format'] or 'html'
+    file_path = args["<file>"]
+    output_dir = args["--output"] or "./output"
+    output_format = args["--format"] or "html"
 
     if not os.path.exists(file_path):
         print(f"ERROR: File not found: {file_path}")
@@ -94,11 +97,11 @@ def analyze_command(args):
         os.makedirs(output_dir, exist_ok=True)
 
         # Generate simple output based on format
-        if output_format == 'html':
+        if output_format == "html":
             output_file = generate_html_report(data, output_dir)
-        elif output_format == 'kml':
+        elif output_format == "kml":
             output_file = generate_kml_output(data, output_dir)
-        elif output_format == 'geojson':
+        elif output_format == "geojson":
             output_file = generate_geojson_output(data, output_dir)
         else:
             output_file = generate_html_report(data, output_dir)
@@ -110,11 +113,12 @@ def analyze_command(args):
         print(f"ERROR: Analysis failed: {e}")
         return 1
 
+
 def web_command(args):
     """Handle web command"""
-    file_path = args['<file>']
-    port = int(args['--port'] or 8080)
-    host = args['--host'] or 'localhost'
+    file_path = args["<file>"]
+    port = int(args["--port"] or 8080)
+    host = args["--host"] or "localhost"
 
     if not os.path.exists(file_path):
         print(f"ERROR: File not found: {file_path}")
@@ -130,6 +134,7 @@ def web_command(args):
 
         # Start web server using the web app
         from .web.app import SonarWebApp
+
         app = SonarWebApp(data)
         app.run(host=host, port=port)
 
@@ -137,10 +142,11 @@ def web_command(args):
         print(f"ERROR: Web server failed: {e}")
         return 1
 
+
 def generate_html_report(data: Dict, output_dir: str) -> str:
     """Generate HTML report from parsed data"""
-    metadata = data.get('metadata', {})
-    records = data.get('records', [])
+    metadata = data.get("metadata", {})
+    records = data.get("records", [])
 
     html_content = f"""
 <!DOCTYPE html>
@@ -172,15 +178,17 @@ def generate_html_report(data: Dict, output_dir: str) -> str:
             <p><strong>File Size:</strong> {metadata.get('file_size', 0)} bytes</p>
     """
 
-    if 'bounds' in metadata:
-        bounds = metadata['bounds']
+    if "bounds" in metadata:
+        bounds = metadata["bounds"]
         html_content += f"""
             <p><strong>Latitude Range:</strong> {bounds.get('south', 0):.6f} to {bounds.get('north', 0):.6f}</p>
             <p><strong>Longitude Range:</strong> {bounds.get('west', 0):.6f} to {bounds.get('east', 0):.6f}</p>
         """
 
-    if 'depth_range' in metadata:
-        html_content += f"<p><strong>Depth Range:</strong> {metadata['depth_range']}</p>"
+    if "depth_range" in metadata:
+        html_content += (
+            f"<p><strong>Depth Range:</strong> {metadata['depth_range']}</p>"
+        )
 
     html_content += """
         </div>
@@ -216,15 +224,16 @@ def generate_html_report(data: Dict, output_dir: str) -> str:
     """
 
     output_file = os.path.join(output_dir, f"{metadata.get('filename', 'report')}.html")
-    with open(output_file, 'w') as f:
+    with open(output_file, "w") as f:
         f.write(html_content)
 
     return output_file
 
+
 def generate_kml_output(data: Dict, output_dir: str) -> str:
     """Generate KML output for Google Earth"""
-    metadata = data.get('metadata', {})
-    records = data.get('records', [])
+    metadata = data.get("metadata", {})
+    records = data.get("records", [])
 
     kml_content = f"""<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
@@ -234,7 +243,7 @@ def generate_kml_output(data: Dict, output_dir: str) -> str:
 """
 
     for record in records[:1000]:  # Limit for performance
-        if record.get('lat', 0) != 0 and record.get('lon', 0) != 0:
+        if record.get("lat", 0) != 0 and record.get("lon", 0) != 0:
             kml_content += f"""
     <Placemark>
       <name>Record {record.get('seq', 0)}</name>
@@ -250,60 +259,72 @@ def generate_kml_output(data: Dict, output_dir: str) -> str:
     """
 
     output_file = os.path.join(output_dir, f"{metadata.get('filename', 'survey')}.kml")
-    with open(output_file, 'w') as f:
+    with open(output_file, "w") as f:
         f.write(kml_content)
 
     return output_file
 
+
 def generate_geojson_output(data: Dict, output_dir: str) -> str:
     """Generate GeoJSON output"""
-    metadata = data.get('metadata', {})
-    records = data.get('records', [])
+    metadata = data.get("metadata", {})
+    records = data.get("records", [])
 
     features = []
     for record in records[:1000]:  # Limit for performance
-        if record.get('lat', 0) != 0 and record.get('lon', 0) != 0:
-            features.append({
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [record.get('lon', 0), record.get('lat', 0), record.get('depth_m', 0)]
-                },
-                "properties": {
-                    "seq": record.get('seq', 0),
-                    "depth_m": record.get('depth_m', 0),
-                    "time_ms": record.get('time_ms', 0)
+        if record.get("lat", 0) != 0 and record.get("lon", 0) != 0:
+            features.append(
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            record.get("lon", 0),
+                            record.get("lat", 0),
+                            record.get("depth_m", 0),
+                        ],
+                    },
+                    "properties": {
+                        "seq": record.get("seq", 0),
+                        "depth_m": record.get("depth_m", 0),
+                        "time_ms": record.get("time_ms", 0),
+                    },
                 }
-            })
+            )
 
     geojson = {
         "type": "FeatureCollection",
         "features": features,
         "properties": {
-            "filename": metadata.get('filename', 'Unknown'),
+            "filename": metadata.get("filename", "Unknown"),
             "record_count": len(records),
-            "generated_by": "SonarSniffer"
-        }
+            "generated_by": "SonarSniffer",
+        },
     }
 
     import json
-    output_file = os.path.join(output_dir, f"{metadata.get('filename', 'survey')}.geojson")
-    with open(output_file, 'w') as f:
+
+    output_file = os.path.join(
+        output_dir, f"{metadata.get('filename', 'survey')}.geojson"
+    )
+    with open(output_file, "w") as f:
         json.dump(geojson, f, indent=2)
 
     return output_file
     """Handle license command"""
-    if args['--generate']:
+    if args["--generate"]:
         generator = LicenseKeyGenerator()
         key = generator.generate_key()
         print(f"Generated license key: {key}")
         return 0
 
+
 def license_command(args):
     """Handle license command"""
-    if args['--generate']:
+    if args["--generate"]:
         try:
             from sonarsniffer.license_key_generator import LicenseKeyGenerator
+
             generator = LicenseKeyGenerator()
             key = generator.generate_key()
             print(f"Generated license key: {key}")
@@ -313,8 +334,8 @@ def license_command(args):
             print("This feature requires the optional license_key_generator module")
             return 1
 
-    elif args['--validate']:
-        key = args['--validate']
+    elif args["--validate"]:
+        key = args["--validate"]
         license_mgr = LicenseManager()
         # For now, just check if key is non-empty (simplified validation)
         if key and len(key.strip()) >= 10:
@@ -334,11 +355,12 @@ def license_command(args):
     print(f"  Contact: festeraeb@yahoo.com")
     return 0
 
+
 def optimize_command(args):
     """Handle optimize command for memory-efficient processing"""
-    file_path = args['<file>']
-    output_dir = args['--output'] or './output'
-    method = args['--method'] or 'incremental'
+    file_path = args["<file>"]
+    output_dir = args["--output"] or "./output"
+    method = args["--method"] or "incremental"
 
     if not os.path.exists(file_path):
         print(f"ERROR: File not found: {file_path}")
@@ -349,17 +371,19 @@ def optimize_command(args):
 
     try:
         from .incremental_loading import IncrementalLoader
-        
+
         loader = IncrementalLoader(file_path, batch_size=10000)
         os.makedirs(output_dir, exist_ok=True)
-        
+
         processed_records = 0
         for batch in loader.load_batches():
             processed_records += len(batch)
             print(f"  Processed {processed_records} records...")
 
         print(f"Optimization complete. Total records: {processed_records}")
-        print(f"Memory efficiency: Batch processing enabled (46x reduction over full load)")
+        print(
+            f"Memory efficiency: Batch processing enabled (46x reduction over full load)"
+        )
         return 0
 
     except ImportError:
@@ -370,20 +394,21 @@ def optimize_command(args):
         print(f"ERROR: Optimization failed: {e}")
         return 1
 
+
 def ml_predict_command(args):
     """Handle ML prediction command for drift correction"""
-    file_path = args['<file>']
-    model_path = args['--model']
+    file_path = args["<file>"]
+    model_path = args["--model"]
 
     if not os.path.exists(file_path):
         print(f"ERROR: File not found: {file_path}")
         return 1
 
     print(f"Running ML predictions on: {file_path}")
-    
+
     try:
         from .ml_pipeline import DriftCorrectionModel
-        
+
         # Load or use default model
         if model_path and os.path.exists(model_path):
             print(f"Loading model from: {model_path}")
@@ -391,14 +416,14 @@ def ml_predict_command(args):
         else:
             print("Using default drift correction model")
             model = DriftCorrectionModel()
-        
+
         # Parse data and make predictions
         parser = SonarParser()
         data = parser.parse_file(file_path)
-        records = data.get('records', [])
-        
+        records = data.get("records", [])
+
         predictions = model.predict_batch(records)
-        
+
         print(f"ML Predictions complete:")
         print(f"  Records processed: {len(records)}")
         print(f"  Predictions made: {len(predictions)}")
@@ -413,11 +438,12 @@ def ml_predict_command(args):
         print(f"ERROR: ML prediction failed: {e}")
         return 1
 
+
 def export_tiles_command(args):
     """Handle tiled export for fast visualization"""
-    file_path = args['<file>']
-    output_dir = args['--output'] or './output'
-    zoom = int(args['--zoom'] or 10)
+    file_path = args["<file>"]
+    output_dir = args["--output"] or "./output"
+    zoom = int(args["--zoom"] or 10)
 
     if not os.path.exists(file_path):
         print(f"ERROR: File not found: {file_path}")
@@ -427,31 +453,39 @@ def export_tiles_command(args):
     print(f"Zoom level: {zoom}")
 
     try:
-        from .geospatial_export import GeoTIFFTileExporter
-        
+        # First parse the file
         parser = SonarParser()
         data = parser.parse_file(file_path)
-        
         os.makedirs(output_dir, exist_ok=True)
-        exporter = GeoTIFFTileExporter(output_dir)
-        
-        tiles_created = exporter.export_tiles(data, zoom_level=zoom)
-        
-        print(f"Tile export complete:")
-        print(f"  Tiles created: {tiles_created}")
-        print(f"  Output directory: {output_dir}")
-        print(f"  Zoom level: {zoom}")
-        print(f"  Performance: ~10x faster Google Earth loading")
-        return 0
 
-    except ImportError:
-        print("WARNING: Geospatial export module not available")
-        print("GDAL library required for GeoTIFF tile export")
-        print("Falling back to KML export...")
-        return generate_kml_output(data, output_dir)
+        # Try GeoTIFF export
+        try:
+            from .geospatial_export import GeoTIFFTileExporter
+
+            exporter = GeoTIFFTileExporter(output_dir)
+            tiles_created = exporter.export_tiles(data, zoom_level=zoom)
+
+            print(f"Tile export complete:")
+            print(f"  Tiles created: {tiles_created}")
+            print(f"  Output directory: {output_dir}")
+            print(f"  Zoom level: {zoom}")
+            print(f"  Performance: ~10x faster Google Earth loading")
+            return 0
+
+        except ImportError:
+            print("WARNING: Geospatial export module not available")
+            print("GDAL library required for GeoTIFF tile export")
+            print("Falling back to KML export...")
+            kml_file = generate_kml_output(data, output_dir)
+            if kml_file:
+                print(f"KML export successful: {kml_file}")
+                return 0
+            return 1
+
     except Exception as e:
         print(f"ERROR: Tile export failed: {e}")
         return 1
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     sys.exit(main())
