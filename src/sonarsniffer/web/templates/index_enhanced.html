@@ -1,0 +1,1465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Professional Sonar Data Analysis & Visualization Platform">
+    <title>SonarSniffer Dashboard - Sonar Data Analysis</title>
+    <style>
+        /* ============================================
+           CSS DESIGN SYSTEM - Gold Standard Quality
+           ============================================ */
+
+        /* Color Tokens */
+        :root {
+            /* Backgrounds */
+            --color-bg-primary: #0f172a;
+            --color-bg-secondary: #1e293b;
+            --color-bg-tertiary: #334155;
+            --color-bg-hover: rgba(226, 232, 240, 0.05);
+            --color-bg-active: rgba(226, 232, 240, 0.08);
+
+            /* Text Colors */
+            --color-text-primary: #e2e8f0;
+            --color-text-secondary: #94a3b8;
+            --color-text-muted: #64748b;
+
+            /* Brand Colors */
+            --color-accent-primary: #0ea5e9;
+            --color-accent-secondary: #0284c7;
+            --color-accent-light: #38bdf8;
+            --color-accent-bg: rgba(14, 165, 233, 0.1);
+
+            /* Status Colors */
+            --color-success: #22c55e;
+            --color-success-bg: rgba(34, 197, 94, 0.1);
+            --color-warning: #eab308;
+            --color-warning-bg: rgba(234, 179, 8, 0.1);
+            --color-error: #ef4444;
+            --color-error-bg: rgba(239, 68, 68, 0.1);
+            --color-info: #3b82f6;
+            --color-info-bg: rgba(59, 130, 246, 0.1);
+
+            /* Shadows - Enhanced depth system */
+            --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.5);
+            --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.6);
+            --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.7);
+            --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.8);
+            --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.9);
+            --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.4);
+
+            /* Typography Scale */
+            --font-size-xs: 12px;
+            --font-size-sm: 14px;
+            --font-size-base: 16px;
+            --font-size-lg: 18px;
+            --font-size-xl: 20px;
+            --font-size-2xl: 24px;
+            --font-size-3xl: 32px;
+
+            --font-weight-normal: 400;
+            --font-weight-medium: 500;
+            --font-weight-semibold: 600;
+            --font-weight-bold: 700;
+
+            /* Line Heights */
+            --line-height-tight: 1.2;
+            --line-height-snug: 1.375;
+            --line-height-normal: 1.5;
+            --line-height-relaxed: 1.625;
+
+            /* Transitions */
+            --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-base: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-slow: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+
+            /* Border Radius */
+            --radius-sm: 4px;
+            --radius-md: 6px;
+            --radius-lg: 8px;
+            --radius-xl: 12px;
+            --radius-full: 9999px;
+
+            /* Spacing */
+            --space-xs: 4px;
+            --space-sm: 8px;
+            --space-md: 12px;
+            --space-lg: 16px;
+            --space-xl: 20px;
+            --space-2xl: 24px;
+            --space-3xl: 32px;
+        }
+
+        /* Global Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-size: var(--font-size-sm);
+            line-height: var(--line-height-normal);
+            color: var(--color-text-primary);
+            background: var(--color-bg-primary);
+            background-attachment: fixed;
+        }
+
+        /* Skip to main content link - Accessibility */
+        .skip-to-main {
+            position: absolute;
+            top: -40px;
+            left: 0;
+            background: var(--color-accent-primary);
+            color: var(--color-bg-primary);
+            padding: 8px 16px;
+            text-decoration: none;
+            z-index: 100;
+            border-radius: var(--radius-md);
+            font-weight: var(--font-weight-semibold);
+        }
+
+        .skip-to-main:focus {
+            top: 0;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--color-bg-secondary) 0%, #1e293b 100%);
+            border-bottom: 2px solid var(--color-accent-primary);
+            padding: var(--space-3xl) var(--space-lg);
+            box-shadow: var(--shadow-md);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        header h1 {
+            font-size: clamp(var(--font-size-2xl), 5vw, var(--font-size-3xl));
+            font-weight: var(--font-weight-bold);
+            margin-bottom: var(--space-sm);
+            letter-spacing: -0.02em;
+        }
+
+        header p {
+            color: var(--color-text-secondary);
+            font-size: var(--font-size-sm);
+        }
+
+        /* Container */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: var(--space-lg);
+        }
+
+        /* Responsive Padding */
+        @media (max-width: 768px) {
+            .container {
+                padding: var(--space-md);
+            }
+        }
+
+        /* Grid Layout */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(clamp(250px, 30vw, 320px), 1fr));
+            gap: var(--space-xl);
+            margin-bottom: var(--space-3xl);
+        }
+
+        @media (max-width: 768px) {
+            .grid {
+                grid-template-columns: 1fr;
+                gap: var(--space-lg);
+            }
+        }
+
+        /* Card Component - Enhanced with depth */
+        .card {
+            background: var(--color-bg-secondary);
+            border: 1px solid rgba(14, 165, 233, 0.15);
+            border-radius: var(--radius-xl);
+            padding: var(--space-2xl);
+            box-shadow: var(--shadow-md);
+            transition: all var(--transition-base);
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Subtle gradient overlay on card for depth */
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, transparent 0%, rgba(14, 165, 233, 0.02) 100%);
+            pointer-events: none;
+            border-radius: var(--radius-xl);
+        }
+
+        .card:hover {
+            border-color: rgba(14, 165, 233, 0.3);
+            box-shadow: var(--shadow-lg);
+            transform: translateY(-4px);
+        }
+
+        .card.glass {
+            background: rgba(30, 41, 59, 0.8);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(14, 165, 233, 0.2);
+            box-shadow: var(--shadow-glass);
+        }
+
+        /* Card Content Reset */
+        .card > * {
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Headings */
+        h1, h2, h3, h4, h5, h6 {
+            color: var(--color-text-primary);
+            font-weight: var(--font-weight-bold);
+            letter-spacing: -0.02em;
+            line-height: var(--line-height-tight);
+            margin-bottom: var(--space-md);
+        }
+
+        h1 { font-size: var(--font-size-3xl); }
+        h2 { font-size: var(--font-size-2xl); }
+        h3 { font-size: var(--font-size-xl); }
+        h4 { font-size: var(--font-size-lg); }
+        h5, h6 { font-size: var(--font-size-base); }
+
+        /* Upload Area */
+        .upload-area {
+            border: 2px dashed var(--color-accent-primary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-3xl) var(--space-lg);
+            text-align: center;
+            cursor: pointer;
+            transition: all var(--transition-base);
+            background: var(--color-accent-bg);
+            position: relative;
+        }
+
+        .upload-area:hover {
+            background: rgba(14, 165, 233, 0.15);
+            border-color: var(--color-accent-light);
+            transform: scale(1.01);
+        }
+
+        .upload-area.dragover {
+            background: rgba(14, 165, 233, 0.2);
+            border-color: var(--color-accent-light);
+            box-shadow: inset 0 0 20px rgba(14, 165, 233, 0.3);
+            transform: scale(1.02);
+        }
+
+        .upload-area p {
+            color: var(--color-text-primary);
+            font-weight: var(--font-weight-semibold);
+            margin-bottom: var(--space-sm);
+        }
+
+        .upload-area input[type="file"] {
+            display: none;
+        }
+
+        /* Button Component - Enhanced */
+        .button {
+            background: var(--color-accent-primary);
+            color: var(--color-bg-primary);
+            border: none;
+            padding: 10px 20px;
+            border-radius: var(--radius-md);
+            cursor: pointer;
+            font-weight: var(--font-weight-semibold);
+            font-size: var(--font-size-sm);
+            transition: all var(--transition-base);
+            position: relative;
+            overflow: hidden;
+            display: inline-flex;
+            align-items: center;
+            gap: var(--space-sm);
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+        }
+
+        .button:hover {
+            background: var(--color-accent-secondary);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(14, 165, 233, 0.4);
+        }
+
+        .button:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 6px rgba(14, 165, 233, 0.3);
+        }
+
+        .button:focus-visible {
+            outline: 2px solid var(--color-accent-primary);
+            outline-offset: 2px;
+        }
+
+        .button:disabled {
+            background: var(--color-bg-tertiary);
+            color: var(--color-text-muted);
+            cursor: not-allowed;
+            transform: none;
+            opacity: 0.6;
+        }
+
+        /* Button Variants */
+        .button.secondary {
+            background: var(--color-bg-tertiary);
+            color: var(--color-text-primary);
+        }
+
+        .button.secondary:hover {
+            background: #475569;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        .button.success {
+            background: var(--color-success);
+            color: white;
+        }
+
+        .button.success:hover {
+            background: #16a34a;
+        }
+
+        .button.danger {
+            background: var(--color-error);
+            color: white;
+        }
+
+        .button.danger:hover {
+            background: #dc2626;
+        }
+
+        /* Button Sizes */
+        .button.small {
+            padding: 6px 12px;
+            font-size: var(--font-size-xs);
+        }
+
+        .button.large {
+            padding: 12px 24px;
+            font-size: var(--font-size-base);
+        }
+
+        /* Button Group */
+        .button-group {
+            display: flex;
+            gap: var(--space-sm);
+            flex-wrap: wrap;
+        }
+
+        @media (max-width: 768px) {
+            .button-group {
+                flex-direction: column;
+            }
+
+            .button-group .button {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* Stats Component */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(clamp(120px, 20vw, 160px), 1fr));
+            gap: var(--space-md);
+            margin-top: var(--space-lg);
+        }
+
+        .stat {
+            background: var(--color-accent-bg);
+            padding: var(--space-md);
+            border-radius: var(--radius-md);
+            border-left: 3px solid var(--color-accent-primary);
+            transition: all var(--transition-base);
+        }
+
+        .stat:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-sm);
+            border-left-color: var(--color-accent-light);
+        }
+
+        .stat-label {
+            font-size: var(--font-size-xs);
+            color: var(--color-text-secondary);
+            margin-bottom: var(--space-xs);
+            font-weight: var(--font-weight-medium);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .stat-value {
+            font-size: clamp(18px, 4vw, 24px);
+            color: var(--color-accent-primary);
+            font-weight: var(--font-weight-bold);
+        }
+
+        /* Messages - Alerts */
+        .messages {
+            margin-bottom: var(--space-2xl);
+            animation: slideDown var(--transition-slow) ease-out;
+        }
+
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .alert {
+            padding: var(--space-md) var(--space-lg);
+            border-radius: var(--radius-md);
+            margin-bottom: var(--space-md);
+            font-size: var(--font-size-sm);
+            border-left: 4px solid;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: var(--space-md);
+            animation: slideDown var(--transition-slow) ease-out;
+        }
+
+        .alert.info {
+            background: var(--color-info-bg);
+            border-left-color: var(--color-info);
+            color: var(--color-info);
+        }
+
+        .alert.success {
+            background: var(--color-success-bg);
+            border-left-color: var(--color-success);
+            color: var(--color-success);
+        }
+
+        .alert.error {
+            background: var(--color-error-bg);
+            border-left-color: var(--color-error);
+            color: var(--color-error);
+        }
+
+        .alert.warning {
+            background: var(--color-warning-bg);
+            border-left-color: var(--color-warning);
+            color: var(--color-warning);
+        }
+
+        .alert-close {
+            background: none;
+            border: none;
+            color: inherit;
+            cursor: pointer;
+            font-size: var(--font-size-lg);
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* Table Component - Enhanced */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: var(--space-lg);
+            font-size: var(--font-size-xs);
+        }
+
+        table th {
+            background: var(--color-accent-bg);
+            color: var(--color-accent-primary);
+            padding: var(--space-md);
+            text-align: left;
+            font-weight: var(--font-weight-semibold);
+            border-bottom: 2px solid var(--color-accent-primary);
+            position: sticky;
+            top: 0;
+            cursor: pointer;
+            user-select: none;
+            transition: all var(--transition-base);
+        }
+
+        table th:hover {
+            background: rgba(14, 165, 233, 0.15);
+        }
+
+        table th[aria-sort="ascending"]::after {
+            content: ' ▲';
+            font-size: 10px;
+        }
+
+        table th[aria-sort="descending"]::after {
+            content: ' ▼';
+            font-size: 10px;
+        }
+
+        table td {
+            padding: var(--space-md);
+            border-bottom: 1px solid var(--color-bg-tertiary);
+            color: var(--color-text-secondary);
+        }
+
+        table tr {
+            transition: all var(--transition-fast);
+        }
+
+        table tbody tr:hover {
+            background: var(--color-bg-hover);
+        }
+
+        table tbody tr:nth-child(even) {
+            background: rgba(14, 165, 233, 0.02);
+        }
+
+        /* Loading Spinner */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid var(--color-bg-tertiary);
+            border-top-color: var(--color-accent-primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Skeleton Loading */
+        .skeleton {
+            background: linear-gradient(90deg, var(--color-bg-tertiary) 25%, var(--color-bg-secondary) 50%, var(--color-bg-tertiary) 75%);
+            background-size: 200% 100%;
+            animation: loading 1.5s infinite;
+            border-radius: var(--radius-md);
+        }
+
+        @keyframes loading {
+            0% { background-position: 200% 0; }
+            100% { background-position: -200% 0; }
+        }
+
+        /* Tabs */
+        .tabs {
+            display: flex;
+            gap: 0;
+            margin-bottom: var(--space-2xl);
+            border-bottom: 2px solid var(--color-bg-tertiary);
+            overflow-x: auto;
+            flex-wrap: wrap;
+        }
+
+        .tab {
+            background: none;
+            border: none;
+            color: var(--color-text-secondary);
+            padding: var(--space-md) var(--space-lg);
+            cursor: pointer;
+            font-size: var(--font-size-sm);
+            font-weight: var(--font-weight-semibold);
+            border-bottom: 3px solid transparent;
+            transition: all var(--transition-base);
+            position: relative;
+            white-space: nowrap;
+            outline: 2px solid transparent;
+            outline-offset: -2px;
+        }
+
+        .tab:hover {
+            color: var(--color-accent-primary);
+        }
+
+        .tab:focus-visible {
+            outline: 2px solid var(--color-accent-primary);
+        }
+
+        .tab.active {
+            color: var(--color-accent-primary);
+            border-bottom-color: var(--color-accent-primary);
+        }
+
+        /* Tab Content */
+        .tab-content {
+            display: none;
+            animation: fadeIn var(--transition-base);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Progress Bar - Enhanced */
+        .progress {
+            background: var(--color-bg-tertiary);
+            height: 6px;
+            border-radius: var(--radius-full);
+            overflow: hidden;
+            margin: var(--space-lg) 0;
+            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .progress-bar {
+            background: linear-gradient(90deg, var(--color-accent-primary), var(--color-accent-light));
+            height: 100%;
+            width: 0%;
+            transition: width var(--transition-base);
+            border-radius: var(--radius-full);
+            box-shadow: 0 0 10px rgba(14, 165, 233, 0.5);
+        }
+
+        /* File Item */
+        .file-item {
+            background: rgba(14, 165, 233, 0.05);
+            padding: var(--space-md);
+            border-radius: var(--radius-md);
+            margin-bottom: var(--space-md);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-left: 3px solid var(--color-accent-primary);
+            transition: all var(--transition-base);
+        }
+
+        .file-item:hover {
+            background: rgba(14, 165, 233, 0.1);
+            transform: translateX(4px);
+        }
+
+        .file-info {
+            flex: 1;
+        }
+
+        .file-name {
+            color: var(--color-accent-primary);
+            font-weight: var(--font-weight-semibold);
+            margin-bottom: var(--space-xs);
+            word-break: break-word;
+        }
+
+        .file-meta {
+            font-size: var(--font-size-xs);
+            color: var(--color-text-secondary);
+        }
+
+        /* Quality Score Badge */
+        .quality-score {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: var(--radius-md);
+            font-weight: var(--font-weight-semibold);
+            font-size: var(--font-size-xs);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .quality-excellent {
+            background: var(--color-success-bg);
+            color: var(--color-success);
+        }
+
+        .quality-good {
+            background: var(--color-info-bg);
+            color: var(--color-info);
+        }
+
+        .quality-fair {
+            background: var(--color-warning-bg);
+            color: var(--color-warning);
+        }
+
+        .quality-poor {
+            background: var(--color-error-bg);
+            color: var(--color-error);
+        }
+
+        /* Export Options Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(4px);
+            z-index: 1000;
+            animation: fadeIn var(--transition-base);
+        }
+
+        .modal.open {
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+            padding: var(--space-lg);
+        }
+
+        .modal-content {
+            background: var(--color-bg-secondary);
+            border: 1px solid rgba(14, 165, 233, 0.2);
+            border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+            padding: var(--space-2xl);
+            width: 100%;
+            max-width: 600px;
+            max-height: 90vh;
+            overflow-y: auto;
+            animation: slideUp var(--transition-base);
+        }
+
+        @media (min-width: 768px) {
+            .modal.open {
+                align-items: center;
+            }
+
+            .modal-content {
+                border-radius: var(--radius-xl);
+                max-height: 80vh;
+            }
+        }
+
+        @keyframes slideUp {
+            from {
+                transform: translateY(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        /* Export Options Grid */
+        .export-options {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            gap: var(--space-md);
+            margin-top: var(--space-lg);
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: var(--space-2xl) var(--space-lg);
+            color: var(--color-text-muted);
+            font-size: var(--font-size-xs);
+            border-top: 1px solid var(--color-bg-tertiary);
+            margin-top: var(--space-3xl);
+        }
+
+        .footer p {
+            margin: var(--space-xs) 0;
+        }
+
+        /* Accessibility Helpers */
+        .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border-width: 0;
+        }
+
+        /* Focus visible for all interactive elements */
+        button:focus-visible,
+        a:focus-visible,
+        input:focus-visible,
+        select:focus-visible,
+        textarea:focus-visible {
+            outline: 2px solid var(--color-accent-primary);
+            outline-offset: 2px;
+        }
+
+        /* Responsive Media Queries */
+        @media (max-width: 640px) {
+            header {
+                padding: var(--space-2xl) var(--space-md);
+            }
+
+            header h1 {
+                font-size: var(--font-size-2xl);
+            }
+
+            .container {
+                padding: var(--space-md);
+            }
+
+            .card {
+                padding: var(--space-xl);
+            }
+
+            .button {
+                padding: 8px 16px;
+                font-size: var(--font-size-xs);
+            }
+
+            table {
+                font-size: var(--font-size-xs);
+            }
+
+            table th, table td {
+                padding: var(--space-sm);
+            }
+
+            .tabs {
+                gap: 0;
+                margin-bottom: var(--space-lg);
+            }
+
+            .tab {
+                padding: var(--space-md);
+                flex: 1;
+                text-align: center;
+                white-space: normal;
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            header, .footer, .button, .tab {
+                display: none;
+            }
+
+            .card {
+                box-shadow: none;
+                border: 1px solid #ccc;
+                page-break-inside: avoid;
+            }
+        }
+
+        /* High Contrast Mode Support */
+        @media (prefers-contrast: more) {
+            .button {
+                border: 2px solid currentColor;
+            }
+
+            .card {
+                border: 2px solid var(--color-accent-primary);
+            }
+        }
+
+        /* Reduced Motion Support */
+        @media (prefers-reduced-motion: reduce) {
+            * {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Accessibility: Skip to main content link -->
+    <a href="#main-content" class="skip-to-main">Skip to main content</a>
+
+    <!-- Header -->
+    <header role="banner">
+        <div class="container">
+            <h1>🗺️ SonarSniffer Dashboard</h1>
+            <p>Professional Sonar Data Analysis & Visualization Platform</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="main-content" class="container">
+        <!-- Messages Container -->
+        <div id="messages" class="messages" role="region" aria-live="polite" aria-label="Notifications"></div>
+
+        <!-- Grid Layout: Upload, Status, Quick Actions -->
+        <div class="grid">
+            <!-- Upload Card -->
+            <div class="card">
+                <h2>📁 Upload Sonar File</h2>
+                <div class="upload-area" id="uploadArea" role="button" tabindex="0" aria-label="Upload sonar file, drag and drop supported">
+                    <p>Click to browse or drag and drop</p>
+                    <p style="font-size: var(--font-size-xs); color: var(--color-text-secondary); margin-top: var(--space-sm);">
+                        <span aria-label="Supported file formats: XTF, DAT, SLG, SID, DB, BIN. Maximum file size: 1GB">
+                            Supported: Garmin, Lowrance, Humminbird, XTF (Max 1GB)
+                        </span>
+                    </p>
+                    <input type="file" id="fileInput" aria-label="Select sonar data file" accept=".xtf,.dat,.slg,.sid,.db,.bin" />
+                </div>
+                <div id="uploadProgress" style="display: none; margin-top: var(--space-lg);">
+                    <div class="progress">
+                        <div class="progress-bar" id="progressBar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <p id="uploadStatus" style="font-size: var(--font-size-xs); color: var(--color-text-secondary);"></p>
+                </div>
+            </div>
+
+            <!-- Status Card -->
+            <div class="card">
+                <h2>📊 Status</h2>
+                <div class="stats">
+                    <div class="stat">
+                        <div class="stat-label">Files Loaded</div>
+                        <div class="stat-value" id="filesCount">0</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-label">Records</div>
+                        <div class="stat-value" id="recordsCount">0</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-label">Status</div>
+                        <div class="stat-value" id="appStatus">Ready</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quick Actions Card -->
+            <div class="card">
+                <h2>⚡ Quick Actions</h2>
+                <div class="button-group">
+                    <button class="button" id="analyzeBtn" onclick="analyzeData()" aria-label="Analyze data quality">
+                        📈 Analyze
+                    </button>
+                    <button class="button secondary" id="exportBtn" onclick="showExportModal()" aria-label="Export data to various formats">
+                        📤 Export
+                    </button>
+                    <button class="button secondary danger" id="clearBtn" onclick="clearData()" aria-label="Clear all loaded data">
+                        🗑️ Clear
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tabs Navigation -->
+        <nav class="tabs" role="tablist" aria-label="Content tabs">
+            <button class="tab active" role="tab" aria-selected="true" aria-controls="data-panel" onclick="switchTab('data')" id="tab-data">
+                📋 Data
+            </button>
+            <button class="tab" role="tab" aria-selected="false" aria-controls="analysis-panel" onclick="switchTab('analysis')" id="tab-analysis">
+                🔍 Analysis
+            </button>
+            <button class="tab" role="tab" aria-selected="false" aria-controls="files-panel" onclick="switchTab('files')" id="tab-files">
+                📁 Files
+            </button>
+        </nav>
+
+        <!-- Data Tab -->
+        <div id="data" class="tab-content active card" role="tabpanel" id="data-panel" aria-labelledby="tab-data">
+            <h2>📋 Data Preview</h2>
+            <div style="overflow-x: auto;">
+                <table id="dataTable" role="grid" aria-label="Sonar data records">
+                    <thead>
+                        <tr>
+                            <th role="columnheader" aria-sort="none">#</th>
+                            <th role="columnheader" aria-sort="none">Timestamp</th>
+                            <th role="columnheader" aria-sort="none">Latitude</th>
+                            <th role="columnheader" aria-sort="none">Longitude</th>
+                            <th role="columnheader" aria-sort="none">Depth (m)</th>
+                            <th role="columnheader" aria-sort="none">Frequency (kHz)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="dataBody">
+                        <tr>
+                            <td colspan="6" style="text-align: center; color: var(--color-text-secondary);">
+                                No data loaded. Upload a sonar file to begin.
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="margin-top: var(--space-lg); display: flex; justify-content: space-between; align-items: center;">
+                <button class="button" id="loadMoreBtn" onclick="loadMoreRecords()" style="display: none;" aria-label="Load more records">
+                    Load More Records
+                </button>
+                <span id="pagination-info" style="font-size: var(--font-size-xs); color: var(--color-text-secondary);">
+                    <!-- Pagination info will be inserted here -->
+                </span>
+            </div>
+        </div>
+
+        <!-- Analysis Tab -->
+        <div id="analysis" class="tab-content card" role="tabpanel" id="analysis-panel" aria-labelledby="tab-analysis">
+            <h2>🔍 Data Analysis</h2>
+            <div id="analysisContent">
+                <p style="color: var(--color-text-secondary);">Load sonar data to view analysis</p>
+            </div>
+        </div>
+
+        <!-- Files Tab -->
+        <div id="files" class="tab-content card" role="tabpanel" id="files-panel" aria-labelledby="tab-files">
+            <h2>📁 Loaded Files</h2>
+            <div id="filesContent">
+                <p style="color: var(--color-text-secondary);">No files loaded</p>
+            </div>
+        </div>
+
+        <!-- Export Modal -->
+        <div id="exportModal" class="modal" role="dialog" aria-labelledby="export-title" aria-modal="true">
+            <div class="modal-content">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--space-xl);">
+                    <h2 id="export-title">📤 Export Data</h2>
+                    <button class="button small secondary" onclick="closeExportModal()" aria-label="Close export dialog">✕</button>
+                </div>
+                <p style="color: var(--color-text-secondary); margin-bottom: var(--space-lg);">
+                    Choose an export format to download your sonar data
+                </p>
+                <div class="export-options">
+                    <button class="button" onclick="exportData('kml')" aria-label="Export as KML for Google Earth">
+                        📍 KML<br/><span style="font-size: var(--font-size-xs);">(Maps)</span>
+                    </button>
+                    <button class="button" onclick="exportData('geojson')" aria-label="Export as GeoJSON for web mapping">
+                        🌍 GeoJSON<br/><span style="font-size: var(--font-size-xs);">(Web)</span>
+                    </button>
+                    <button class="button" onclick="exportData('csv')" aria-label="Export as CSV for spreadsheets">
+                        📊 CSV<br/><span style="font-size: var(--font-size-xs);">(Excel)</span>
+                    </button>
+                    <button class="button" onclick="exportData('jsonl')" aria-label="Export as JSONL for data processing">
+                        📝 JSONL<br/><span style="font-size: var(--font-size-xs);">(Data)</span>
+                    </button>
+                </div>
+                <button class="button secondary" onclick="closeExportModal()" style="margin-top: var(--space-xl); width: 100%;" aria-label="Cancel export">
+                    Cancel
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer" role="contentinfo">
+        <p>© 2025 SonarSniffer - Professional Sonar Data Analysis Platform</p>
+        <p>Version 1.0.1 | Phase 8: Enhanced Web Dashboard (Gold Standard UI)</p>
+    </footer>
+
+    <!-- Main Application Script -->
+    <script>
+        'use strict';
+
+        // ==========================================
+        // Application State Management
+        // ==========================================
+        const APP = {
+            API_BASE: '/api',
+            currentPage: 1,
+            totalRecords: 0,
+            recordsPerPage: 50,
+            currentFile: null,
+            isLoading: false
+        };
+
+        // ==========================================
+        // Initialization
+        // ==========================================
+        document.addEventListener('DOMContentLoaded', () => {
+            setupUpload();
+            setupKeyboardNavigation();
+            setupTabs();
+            updateStatus();
+            
+            // Update status every 5 seconds
+            setInterval(updateStatus, 5000);
+        });
+
+        // ==========================================
+        // Keyboard Navigation & Accessibility
+        // ==========================================
+        function setupKeyboardNavigation() {
+            const uploadArea = document.getElementById('uploadArea');
+            
+            uploadArea.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    document.getElementById('fileInput').click();
+                }
+            });
+
+            // Close modal with Escape key
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') {
+                    closeExportModal();
+                }
+            });
+
+            // Tab navigation for tabs
+            document.querySelectorAll('[role="tab"]').forEach((tab, index, tabs) => {
+                tab.addEventListener('keydown', (e) => {
+                    let targetTab = null;
+                    
+                    if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+                        e.preventDefault();
+                        targetTab = index === 0 ? tabs[tabs.length - 1] : tabs[index - 1];
+                    } else if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+                        e.preventDefault();
+                        targetTab = index === tabs.length - 1 ? tabs[0] : tabs[index + 1];
+                    }
+                    
+                    if (targetTab) {
+                        targetTab.focus();
+                        switchTab(targetTab.getAttribute('aria-controls').replace('-panel', ''));
+                    }
+                });
+            });
+        }
+
+        // ==========================================
+        // File Upload Handling
+        // ==========================================
+        function setupUpload() {
+            const uploadArea = document.getElementById('uploadArea');
+            const fileInput = document.getElementById('fileInput');
+
+            uploadArea.addEventListener('click', () => fileInput.click());
+
+            // Drag and drop
+            uploadArea.addEventListener('dragover', (e) => {
+                e.preventDefault();
+                uploadArea.classList.add('dragover');
+            });
+
+            uploadArea.addEventListener('dragleave', () => {
+                uploadArea.classList.remove('dragover');
+            });
+
+            uploadArea.addEventListener('drop', (e) => {
+                e.preventDefault();
+                uploadArea.classList.remove('dragover');
+                const files = e.dataTransfer.files;
+                if (files.length > 0) {
+                    uploadFile(files[0]);
+                }
+            });
+
+            // File input change
+            fileInput.addEventListener('change', (e) => {
+                if (e.target.files.length > 0) {
+                    uploadFile(e.target.files[0]);
+                }
+            });
+        }
+
+        async function uploadFile(file) {
+            const formData = new FormData();
+            formData.append('file', file);
+
+            const uploadProgress = document.getElementById('uploadProgress');
+            const progressBar = document.getElementById('progressBar');
+            const uploadStatus = document.getElementById('uploadStatus');
+
+            uploadProgress.style.display = 'block';
+            uploadStatus.textContent = 'Uploading...';
+            APP.isLoading = true;
+
+            try {
+                const response = await fetch(`${APP.API_BASE}/files/upload`, {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    showMessage(`✓ File uploaded successfully! Parsed ${data.records} records.`, 'success');
+                    uploadStatus.textContent = `${data.manufacturer} ${data.format}`;
+                    progressBar.style.width = '100%';
+                    progressBar.setAttribute('aria-valuenow', '100');
+                    
+                    setTimeout(() => {
+                        uploadProgress.style.display = 'none';
+                        loadData();
+                        updateStatus();
+                    }, 1000);
+                } else {
+                    showMessage(`✗ Upload error: ${data.error}`, 'error');
+                    uploadProgress.style.display = 'none';
+                }
+            } catch (error) {
+                showMessage(`✗ Upload failed: ${error.message}`, 'error');
+                uploadProgress.style.display = 'none';
+            } finally {
+                APP.isLoading = false;
+            }
+        }
+
+        // ==========================================
+        // Data Loading & Display
+        // ==========================================
+        async function loadData() {
+            try {
+                APP.isLoading = true;
+                const response = await fetch(`${APP.API_BASE}/data/records?page=${APP.currentPage}&per_page=${APP.recordsPerPage}`);
+                const data = await response.json();
+
+                APP.totalRecords = data.total;
+                const tbody = document.getElementById('dataBody');
+                tbody.innerHTML = '';
+
+                if (data.records.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="6" style="text-align: center; color: var(--color-text-secondary);">No records found</td></tr>';
+                    return;
+                }
+
+                // Populate table
+                data.records.forEach((record, idx) => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${(APP.currentPage - 1) * APP.recordsPerPage + idx + 1}</td>
+                        <td>${record.timestamp || 'N/A'}</td>
+                        <td>${record.latitude ? record.latitude.toFixed(6) : 'N/A'}</td>
+                        <td>${record.longitude ? record.longitude.toFixed(6) : 'N/A'}</td>
+                        <td>${record.depth !== null ? record.depth.toFixed(2) : 'N/A'}</td>
+                        <td>${record.frequency || 'N/A'}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+
+                // Update pagination info
+                const endRecord = Math.min(APP.currentPage * APP.recordsPerPage, APP.totalRecords);
+                document.getElementById('pagination-info').textContent = 
+                    `${(APP.currentPage - 1) * APP.recordsPerPage + 1}–${endRecord} of ${APP.totalRecords.toLocaleString()}`;
+
+                // Show/hide load more button
+                document.getElementById('loadMoreBtn').style.display = 
+                    APP.currentPage * APP.recordsPerPage < APP.totalRecords ? 'block' : 'none';
+
+            } catch (error) {
+                showMessage(`✗ Data load error: ${error.message}`, 'error');
+            } finally {
+                APP.isLoading = false;
+            }
+        }
+
+        // ==========================================
+        // Status Updates
+        // ==========================================
+        async function updateStatus() {
+            try {
+                const response = await fetch(`${APP.API_BASE}/status`);
+                const data = await response.json();
+
+                document.getElementById('filesCount').textContent = data.files_loaded;
+                document.getElementById('recordsCount').textContent = data.records_loaded.toLocaleString();
+                document.getElementById('appStatus').textContent = 'Ready';
+            } catch (error) {
+                document.getElementById('appStatus').textContent = 'Error';
+            }
+        }
+
+        // ==========================================
+        // Data Analysis
+        // ==========================================
+        async function analyzeData() {
+            if (APP.isLoading) return;
+            
+            try {
+                APP.isLoading = true;
+                const response = await fetch(`${APP.API_BASE}/analysis/quality`);
+                const result = await response.json();
+
+                if (response.ok) {
+                    const quality = result.quality;
+                    const qualityScore = quality.overall_quality_score * 100;
+                    const qualityClass = qualityScore > 80 ? 'quality-excellent' :
+                                        qualityScore > 60 ? 'quality-good' :
+                                        qualityScore > 40 ? 'quality-fair' : 'quality-poor';
+
+                    const analysisHTML = `
+                        <div class="stats">
+                            <div class="stat">
+                                <div class="stat-label">Quality Score</div>
+                                <div class="stat-value">
+                                    <span class="quality-score ${qualityClass}">
+                                        ${qualityScore.toFixed(1)}%
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-label">GPS Coverage</div>
+                                <div class="stat-value">${(quality.gps_coverage * 100).toFixed(1)}%</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-label">Depth Coverage</div>
+                                <div class="stat-value">${(quality.depth_coverage * 100).toFixed(1)}%</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-label">Sampling Rate</div>
+                                <div class="stat-value">${quality.sampling_rate_hz.toFixed(2)} Hz</div>
+                            </div>
+                        </div>
+                        <div style="margin-top: var(--space-lg); font-size: var(--font-size-sm);">
+                            <p style="margin-bottom: var(--space-sm);"><strong>Depth Statistics:</strong></p>
+                            <p style="color: var(--color-text-secondary);">
+                                Min: ${quality.depth_min?.toFixed(2) || 'N/A'} m | 
+                                Max: ${quality.depth_max?.toFixed(2) || 'N/A'} m | 
+                                Mean: ${quality.depth_mean?.toFixed(2) || 'N/A'} m
+                            </p>
+                            <p style="margin-top: var(--space-lg); color: var(--color-text-muted); font-size: var(--font-size-xs);">
+                                Generated: ${new Date(result.timestamp).toLocaleString()}
+                            </p>
+                        </div>
+                    `;
+
+                    document.getElementById('analysisContent').innerHTML = analysisHTML;
+                    switchTab('analysis');
+                    showMessage('✓ Analysis complete!', 'success');
+                } else {
+                    showMessage(`✗ Analysis error: ${result.error}`, 'error');
+                }
+            } catch (error) {
+                showMessage(`✗ Analysis failed: ${error.message}`, 'error');
+            } finally {
+                APP.isLoading = false;
+            }
+        }
+
+        // ==========================================
+        // Data Export
+        // ==========================================
+        function showExportModal() {
+            document.getElementById('exportModal').classList.add('open');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeExportModal() {
+            document.getElementById('exportModal').classList.remove('open');
+            document.body.style.overflow = '';
+        }
+
+        async function exportData(format) {
+            if (APP.isLoading) return;
+            
+            try {
+                APP.isLoading = true;
+                showMessage(`⏳ Exporting to ${format.toUpperCase()}...`, 'info');
+                
+                const response = await fetch(`${APP.API_BASE}/export/${format}`, { method: 'POST' });
+                const result = await response.json();
+
+                if (response.ok) {
+                    showMessage(`✓ Exported to ${format.toUpperCase()}!`, 'success');
+                    window.location.href = result.url;
+                    closeExportModal();
+                } else {
+                    showMessage(`✗ Export error: ${result.error}`, 'error');
+                }
+            } catch (error) {
+                showMessage(`✗ Export failed: ${error.message}`, 'error');
+            } finally {
+                APP.isLoading = false;
+            }
+        }
+
+        // ==========================================
+        // Tab Management
+        // ==========================================
+        function setupTabs() {
+            document.querySelectorAll('[role="tab"]').forEach(tab => {
+                tab.addEventListener('click', (e) => {
+                    const tabName = e.target.getAttribute('aria-controls').replace('-panel', '');
+                    switchTab(tabName);
+                });
+            });
+        }
+
+        function switchTab(tabName) {
+            // Update tab content
+            document.querySelectorAll('.tab-content').forEach(el => {
+                el.classList.remove('active');
+            });
+            document.getElementById(tabName).classList.add('active');
+
+            // Update tab buttons
+            document.querySelectorAll('[role="tab"]').forEach(tab => {
+                const isActive = tab.getAttribute('aria-controls') === tabName + '-panel';
+                tab.classList.toggle('active', isActive);
+                tab.setAttribute('aria-selected', isActive);
+            });
+        }
+
+        // ==========================================
+        // Message & Notifications
+        // ==========================================
+        function showMessage(message, type = 'info') {
+            const messagesDiv = document.getElementById('messages');
+            const alert = document.createElement('div');
+            alert.className = `alert ${type}`;
+            alert.setAttribute('role', 'alert');
+            
+            const content = document.createElement('span');
+            content.textContent = message;
+            alert.appendChild(content);
+
+            // Close button
+            const closeBtn = document.createElement('button');
+            closeBtn.className = 'alert-close';
+            closeBtn.setAttribute('aria-label', 'Close notification');
+            closeBtn.innerHTML = '✕';
+            closeBtn.onclick = () => alert.remove();
+            alert.appendChild(closeBtn);
+
+            messagesDiv.appendChild(alert);
+
+            // Auto-remove after 6 seconds
+            setTimeout(() => {
+                alert.style.animation = 'fadeOut 300ms ease-out forwards';
+                setTimeout(() => alert.remove(), 300);
+            }, 6000);
+        }
+
+        // ==========================================
+        // Data Clearing
+        // ==========================================
+        function clearData() {
+            if (confirm('Clear all loaded data? This cannot be undone.')) {
+                const tbody = document.getElementById('dataBody');
+                tbody.innerHTML = '<tr><td colspan="6" style="text-align: center; color: var(--color-text-secondary);">No data loaded</td></tr>';
+                document.getElementById('analysisContent').innerHTML = '<p style="color: var(--color-text-secondary);">Load sonar data to view analysis</p>';
+                document.getElementById('pagination-info').textContent = '';
+                APP.currentPage = 1;
+                APP.totalRecords = 0;
+                showMessage('✓ Data cleared', 'info');
+            }
+        }
+
+        // ==========================================
+        // Pagination
+        // ==========================================
+        function loadMoreRecords() {
+            APP.currentPage++;
+            loadData();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // ==========================================
+        // Click outside modal to close
+        // ==========================================
+        document.getElementById('exportModal').addEventListener('click', (e) => {
+            if (e.target.id === 'exportModal') {
+                closeExportModal();
+            }
+        });
+    </script>
+</body>
+</html>
