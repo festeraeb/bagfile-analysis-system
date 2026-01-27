@@ -46,16 +46,99 @@ try:
 except ImportError:
     INCREMENTAL_LOADING_AVAILABLE = False
 
+# Phase 13: Advanced Sonar Intelligence Analysis
+try:
+    from .sonar_classification import (
+        SignalType,
+        SonarSignalFeatures,
+        SonarSignalFeatureExtractor,
+        SonarSignalClassifier,
+    )
+
+    SONAR_CLASSIFICATION_AVAILABLE = True
+except ImportError:
+    SONAR_CLASSIFICATION_AVAILABLE = False
+
+try:
+    from .sensor_fusion import (
+        SensorType,
+        CoordinateSystem,
+        Location,
+        SensorReading,
+        FusedData,
+        CorrelationResult,
+        EnvironmentalContext,
+        BaseSensor,
+        SensorDataBus,
+        SensorQualityEstimator,
+        CoordinateSystemManager,
+        FusionEngine,
+    )
+
+    SENSOR_FUSION_AVAILABLE = True
+except ImportError:
+    SENSOR_FUSION_AVAILABLE = False
+
+try:
+    from .contextual_anomaly_detection import (
+        RiskLevel,
+        AnomalyType,
+        Pattern,
+        Explanation,
+        ContextualAnomaly,
+        AnomalyPatternLearner,
+        AnomalyExplainer,
+        ContextualAnomalyDetector,
+    )
+
+    CONTEXTUAL_ANOMALY_DETECTION_AVAILABLE = True
+except ImportError:
+    CONTEXTUAL_ANOMALY_DETECTION_AVAILABLE = False
+
 __all__ = [
+    # Core ML and drift correction
     "DriftCorrectionPipeline",
     "EnhancedDriftSimulator",
+    # Geospatial export
     "GeoTIFFGenerator",
     "KMLNetworkLinkGenerator",
     "DriftSimulationExporter",
+    # Incremental loading
     "StreamingDataLoader",
     "ChunkedDataProcessor",
     "ProgressiveDataLoader",
+    # Phase 13: Sonar Classification
+    "SignalType",
+    "SonarSignalFeatures",
+    "SonarSignalFeatureExtractor",
+    "SonarSignalClassifier",
+    # Phase 13: Sensor Fusion
+    "SensorType",
+    "CoordinateSystem",
+    "Location",
+    "SensorReading",
+    "FusedData",
+    "CorrelationResult",
+    "EnvironmentalContext",
+    "BaseSensor",
+    "SensorDataBus",
+    "SensorQualityEstimator",
+    "CoordinateSystemManager",
+    "FusionEngine",
+    # Phase 13: Contextual Anomaly Detection
+    "RiskLevel",
+    "AnomalyType",
+    "Pattern",
+    "Explanation",
+    "ContextualAnomaly",
+    "AnomalyPatternLearner",
+    "AnomalyExplainer",
+    "ContextualAnomalyDetector",
+    # Feature flags
     "ML_PIPELINE_AVAILABLE",
     "GEOSPATIAL_EXPORT_AVAILABLE",
     "INCREMENTAL_LOADING_AVAILABLE",
+    "SONAR_CLASSIFICATION_AVAILABLE",
+    "SENSOR_FUSION_AVAILABLE",
+    "CONTEXTUAL_ANOMALY_DETECTION_AVAILABLE",
 ]
