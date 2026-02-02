@@ -1,0 +1,24 @@
+{
+  "timestamp_utc": "2026-02-02T11:48:00Z",
+  "note": "Workspace paused by user for travel. Use scripts/resume_pipeline.ps1 to resume operations.",
+  "paths_snapshot": {
+    "s102_downloads_count": 10,
+    "s102_samples_dirs": ["US_102_20240806_04_ExchangeSet/"],
+    "bathymetry_tifs": ["H13257_MBAB_2m_RVEndeavor_350kHz_1of3.tif","H13257_MBAB_2m_RVWAMV1_350kHz_2of3.tif","H13257_MBAB_2m_RVWAMV2_350kHz_3of3.tif"],
+    "emag_tiles": ["emag2_glakes_subset.tif","emag2_upcont.tif"],
+    "training_artifacts": {
+      "models": ["detectability_model_20260201_161304.pkl","detectability_model_20260201_162550.pkl"],
+      "metrics": ["detectability_metrics_20260201_161304.json","detectability_metrics_20260201_162550.json"]
+    },
+    "predictions_files_sample": ["emag_mbes_trackline_coverage_report_20260202T020618Z.csv","matched_filter_results_20260201_182833.csv","merged_target_wrecks.csv"]
+  },
+  "pending_actions": [
+    "finish S-102 extraction (remaining ExchangeSets)",
+    "verify EMAG patches across targets and re-run matched-filter/parametric experiments at scale",
+    "sample bathymetry (requires rasterio) to set depth and priority flags",
+    "complete Azure uploads and finalize metadata table & lifecycle policy",
+    "retrain final model after detectability re-run"
+  ],
+  "resume_instructions": "See ../scripts/resume_pipeline.ps1 for one-button steps to resume. Install pyyaml and rasterio to enable bathymetry sampling: pip install pyyaml rasterio",
+  "user_action_required": "If uploads are running in a terminal, you may terminate them or let them finish. Do not delete 'magnetic_data/s102_downloads' or 'magnetic_data/s102_samples' while resuming."
+}
