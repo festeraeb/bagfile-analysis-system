@@ -92,6 +92,12 @@ auto_update_all_data()  # Updates all environmental data sources
 
 ## Important Notes
 
+### Data Usage & Simulated Data
+- **Do Not Use Simulated Data Without Asking**: Do not introduce, use, or commit simulated/synthetic datasets for training, evaluation, or as canonical data in this repository without explicit approval from a project maintainer. If you need synthetic data for local testing, open an Issue or PR describing the purpose, data-generation method, intended separation from production data, and obtain approval before committing or using it for model training.
+- **Why**: CESAROPS depends on real-world environmental, buoy, and drifter data. Synthetic data can unintentionally contaminate the SQLite database (`drift_objects.db`), ML training artifacts under `models/`, and downstream evaluation, which may degrade operational model accuracy.
+- **Where synthetic/fallback data exists**: See `sarops.py` for fallback/sample generators — notably `fetch_gdp_historical_archives()` (creates synthetic drifter tracks), and the fallback paths in `fetch_gdp_drifter_tracks()` / `fetch_historical_buoy_tracks()`. `auto_update_all_data()` may trigger these fallbacks during bulk updates.
+- **How to handle synthetic data when approved**: Keep synthetic datasets clearly separated (suggested folder: `data/simulated/`), prefix filenames with `sim_`, never overwrite production artifacts (`models/` or `drift_objects.db`) without explicit instructions, and document the generation script and reproducibility steps in the PR.
+
 ### Case Study Reference
 The "Charlie Brown case" (Milwaukee to South Haven crossing) is used as a validation benchmark. Located in `analyze_charlie_brown_case()` - use this pattern for adding new validation cases.
 

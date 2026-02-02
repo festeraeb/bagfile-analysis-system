@@ -5,6 +5,12 @@ import struct
 
 MAGIC_REC_HDR = 0xB7E9DA86  # header magic (little-endian value)
 MAGIC_REC_TRL = 0xD9264B7C  # trailer magic (little-endian value)
+# UHD/Garmin magic bytes (big-endian representation commonly seen in RSD files)
+# These are provided for parsers that expect byte-header constants.
+MAGIC_UHD_GT54_HEADER = b'\x86\xDA\xE9\xB7'
+MAGIC_UHD_GT54_RECORD = b'\x86\xDA\xE9\xB7'
+MAGIC_UHD_GT56_HEADER = b'\x86\xDA\xE9\xB7'
+MAGIC_UHD_GT56_RECORD = b'\x86\xDA\xE9\xB7'
 
 _progress_hook = None
 def set_progress_hook(fn):  # fn(percent_float, message)

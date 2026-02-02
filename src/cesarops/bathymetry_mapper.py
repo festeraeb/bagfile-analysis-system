@@ -99,6 +99,10 @@ class BathymetryMapper:
             "grid_generated": False,
             "interpolation_method": self.config.interpolation_method,
         }
+        # internal caches for interpolation
+        self._cached_tri = None
+        self._cached_interp = None
+        self._grid_gen_calls = 0
         logger.info(f"BathymetryMapper initialized (resolution={resolution}m)")
     
     def add_trackpoints(self, trackpoints: Union[List[TrackPoint], np.ndarray]) -> 'BathymetryMapper':
@@ -172,15 +176,27 @@ class BathymetryMapper:
         
         # Interpolate using scipy if available, otherwise use simple method
         try:
-            from scipy.interpolate import griddata
-            xx, yy = np.meshgrid(self.x_coords, self.y_coords)
+            from scipy.interpolate import griddata, LinearNDInterpolator
+            from scipy.spatial import Delaunay
+
             points = np.column_stack([lons, lats])
-            self.grid = griddata(
-                points, depths,
-                (xx, yy),
-                method=self.config.interpolation_method,
-                fill_value=self.config.fill_value or np.nanmean(depths)
-            )
+            xx, yy = np.meshgrid(self.x_coords, self.y_coords)
+
+            # If an interpolator was explicitly built via `build_interpolator()`, use it.
+            if getattr(self, '_cached_interp', None) is not None and not force_regenerate:
+                vals = self._cached_interp(np.column_stack([xx.ravel(), yy.ravel()]))
+                vals = np.array(vals)
+                fill = self.config.fill_value if self.config.fill_value is not None else np.nanmean(depths)
+                vals[np.isnan(vals)] = fill
+                self.grid = vals.reshape(xx.shape)
+            else:
+                # Default fast path: use scipy.griddata
+                self.grid = griddata(
+                    points, depths,
+                    (xx, yy),
+                    method=self.config.interpolation_method,
+                    fill_value=self.config.fill_value or np.nanmean(depths)
+                )
         except ImportError:
             logger.warning("scipy not available, using simple nearest-neighbor interpolation")
             self.grid = self._simple_interpolate(lons, lats, depths)
@@ -189,6 +205,40 @@ class BathymetryMapper:
         self.metadata["grid_shape"] = self.grid.shape
         logger.info(f"Grid generated: {self.grid.shape} cells at {self.resolution}m resolution")
         return self.grid
+
+    def build_interpolator(self, force: bool = False):
+        """Explicitly build and cache a LinearNDInterpolator for repeated evaluations.
+
+        Call this if you plan to call `generate_grid()` multiple times and want
+        to avoid repeated triangulation costs. If building fails, the cached
+        interpolator will remain `None` and `generate_grid()` will fall back to
+        `scipy.griddata`.
+        """
+        try:
+            from scipy.interpolate import LinearNDInterpolator
+            from scipy.spatial import Delaunay
+        except ImportError:
+            logger.warning('scipy not available; cannot build interpolator')
+            return None
+
+        if self._cached_interp is not None and not force:
+            return self._cached_interp
+
+        lats = np.array([tp.latitude for tp in self.trackpoints])
+        lons = np.array([tp.longitude for tp in self.trackpoints])
+        depths = np.array([tp.depth for tp in self.trackpoints])
+        points = np.column_stack([lons, lats])
+
+        try:
+            self._cached_tri = Delaunay(points)
+            self._cached_interp = LinearNDInterpolator(self._cached_tri, depths)
+        except Exception:
+            try:
+                self._cached_interp = LinearNDInterpolator(points, depths)
+            except Exception:
+                self._cached_interp = None
+
+        return self._cached_interp
     
     def _simple_interpolate(self, lons: np.ndarray, lats: np.ndarray, depths: np.ndarray) -> np.ndarray:
         """Simple nearest-neighbor interpolation as fallback."""

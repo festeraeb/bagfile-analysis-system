@@ -17,7 +17,7 @@ def run_cli_command(args, venv_path=None):
         python_exe = str(Path(venv_path) / "Scripts" / "python.exe")
     else:
         python_exe = sys.executable
-    
+
     cmd = [python_exe, "-m", "src.sonarsniffer.cli"] + args
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=".")
     return result.returncode, result.stdout, result.stderr
@@ -47,22 +47,24 @@ def test_cli_version():
 def test_cli_imports():
     """Test that all modules can be imported"""
     print("Testing: Module imports")
-    
+
     # Test core imports
     try:
         from src.sonarsniffer import LicenseManager, SonarParser, WebDashboardGenerator
+
         print("  ✓ Core modules import successfully")
     except ImportError as e:
         print(f"  ✗ Core import failed: {e}")
         return False
-    
+
     # Test optimization modules
     try:
         from src.sonarsniffer import (
             INCREMENTAL_LOADING_AVAILABLE,
             ML_PIPELINE_AVAILABLE,
-            GEOSPATIAL_EXPORT_AVAILABLE
+            GEOSPATIAL_EXPORT_AVAILABLE,
         )
+
         print(f"  ✓ Optimization flags available")
         print(f"    - Incremental Loading: {INCREMENTAL_LOADING_AVAILABLE}")
         print(f"    - ML Pipeline: {ML_PIPELINE_AVAILABLE}")
@@ -70,7 +72,7 @@ def test_cli_imports():
     except ImportError as e:
         print(f"  ✗ Optimization import failed: {e}")
         return False
-    
+
     return True
 
 
@@ -125,7 +127,7 @@ def main():
     print("SonarSniffer CLI Optimization Test Suite")
     print("=" * 60)
     print()
-    
+
     tests = [
         test_cli_help,
         test_cli_version,
@@ -136,10 +138,10 @@ def main():
         test_cli_export_tiles_no_file,
         test_cli_license,
     ]
-    
+
     passed = 0
     failed = 0
-    
+
     for test in tests:
         try:
             test()
@@ -148,11 +150,11 @@ def main():
             print(f"  ✗ Test failed: {e}")
             failed += 1
         print()
-    
+
     print("=" * 60)
     print(f"Results: {passed} passed, {failed} failed")
     print("=" * 60)
-    
+
     return 0 if failed == 0 else 1
 
 
